@@ -31,7 +31,7 @@
 <br/> </br>
 [Dynamic Programming](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Dynamic%20Programming)
 
-[221. Maximal Square]() (H-)
+[221. Maximal Square](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Dynamic%20Programming/221.%20max%20square) (H-)
 
 - ```Kadane's Algorithm```
 
