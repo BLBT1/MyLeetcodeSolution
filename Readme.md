@@ -31,6 +31,8 @@
 <br/> </br>
 [Dynamic Programming](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Dynamic%20Programming)
 
+[221. Maximal Square]() (H-)
+
 - ```Kadane's Algorithm```
 
   [53.Maximum Subarray](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Dynamic%20Programming/53.%20max%20subarray) (M)
