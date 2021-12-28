@@ -31,7 +31,20 @@
         int notTake = dfs(root->left, 1) + dfs(root->right, 1);
         res = max(take, notTake);
 ```
-到此位置 dfs 的部分就结束了，但是我们可以发现这样的答案是跑不完所以的test case的， 还有明显的优化空间。 因为递归的原因， 很多点的最大值被重复计算了，所以可以用memo 的思维来记录。用两个```hashmap```分别记录每个点在状态 0 和状态 1 下的最大值
+到此位置 dfs 的部分就结束了，但是我们可以发现这样的答案是跑不完所以的test case的， 还有明显的优化空间。 因为递归的原因， 很多点的最大值被重复计算了。 列如一下的数
+```
+     a
+    / \
+   b   d
+  / \
+  e  f
+```
+ - 如果 a 不取，b 不取， e 的 最大利润为 dfs(e,1)
+ - 如果 a 取， b 不取， e 的最大利润也是dfs(e,1)
+
+这里 dfs(e,1) 被重复计算了
+
+所以可以用memo 的思维来记录。用两个```hashmap```分别记录每个点在状态 0 和状态 1 下的最大值
 ```cpp
         unordered_map<TreeNode *, int> state0; // the largest for state0 at the node
         unordered_map<TreeNode *, int> state1; // the largest for state1 at the node 
