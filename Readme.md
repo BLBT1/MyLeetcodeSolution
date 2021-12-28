@@ -47,3 +47,9 @@
 [Trie(Prefix Tree)](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Trie)
 
 [1032. Stream of char](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Trie/1032.%20stream%20of%20char) (M+)
+
+<br/><br>
+
+[Math](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Math)
+
+[1217. Minimum Cost to Move Chips to The Same Position](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Math/1217.%20Minimum%20Cost%20to%20Move%20Chips%20to%20The%20Same%20Position) (M)
