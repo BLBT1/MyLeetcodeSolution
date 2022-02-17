@@ -8,59 +8,82 @@
 class Solution
 {
 public:
-    vector<int> searchRange(vector<int> &nums, int target)
+    int first_appear(vector<int> &nums, int target)
     {
-        return {findFirst(nums, target),
-                findLast(nums, target)};
-    }
-
-    int findFirst(vector<int> &nums, int target)
-    {
-        if (nums.size() == 0)
-            return -1;
-        int l = 0, r = nums.size() - 1;
+        int l = 0;
+        int r = nums.size() - 1;
         int mid;
         while (l < r)
         {
-            mid = l + (r - l) / 2;
-            if (nums[mid] >= target)
-            {
-                r = mid;
-            }
-            else
+            mid = (r - l) / 2 + l;
+            if (nums[mid] < target)
             {
                 l = mid + 1;
             }
+            else if (nums[mid] > target)
+            {
+                r = mid - 1;
+            }
+            else
+            {
+                r = mid;
+            }
         }
-        if (nums[l] == target)
+
+        if (l == r && nums[l] == target)
+        {
             return l;
+        }
         else
+        {
             return -1;
+        }
     }
 
-    int findLast(vector<int> &nums, int target)
+    int last_appear(vector<int> &nums, int target)
     {
-        if (nums.size() == 0)
-            return -1;
-        int l = 0, r = nums.size() - 1;
+        int l = 0;
+        int r = nums.size() - 1;
         int mid;
         while (l < r)
         {
-            mid = l + (r - l) / 2 + 1;
-            if (nums[mid] > target)
+            mid = (r - l + 1) / 2 + l;
+            if (nums[mid] < target)
+            {
+                l = mid + 1;
+            }
+            else if (nums[mid] > target)
+            {
                 r = mid - 1;
+            }
             else
+            {
                 l = mid;
+            }
         }
-
-        if (nums[l] == target)
+        if (l == r && nums[l] == target)
+        {
             return l;
+        }
         else
+        {
             return -1;
+        }
+    }
+
+    //[2,2]
+    // l r
+    //3
+    vector<int> searchRange(vector<int> &nums, int target)
+    {
+        if (nums.empty())
+            return {-1, -1};
+        // find the position of first appear
+        int first = first_appear(nums, target);
+        // find the last appear of the element
+        int last = last_appear(nums, target);
+
+        return {first, last};
     }
 };
 // @lc code=end
-//             r
-// [5,7,7,8,8,10]
-//  0 1 2 3 4 5
-//  l
