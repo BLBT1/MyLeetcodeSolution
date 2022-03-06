@@ -20,9 +20,9 @@
 
 [4. Median of Two Sorted Arrays](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Binary%20Search/4.%20Median%20of%20Two%20Sorted%20Arrays) (H)
 
-[69. Sqrt(x)]()
+[69. Sqrt(x)](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Binary%20Search/69.%20Sqrt(x)) (E+)
 
-[162. Find Peak Element]()
+[162. Find Peak Element](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Binary%20Search/162.%20Find%20Peak%20Element) (M+)
 
 [1901. Find a Peak Element II]()
 
