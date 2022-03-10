@@ -24,7 +24,7 @@
 
 [162. Find Peak Element](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Binary%20Search/162.%20Find%20Peak%20Element) (M+)
 
-[1901. Find a Peak Element II]()
+[1901. Find a Peak Element II](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Binary%20Search/1901.%20Find%20a%20Peak%20Element%20II) (H)
 
 [702. Search in a Sorted Array of Unknown Size]()
 
