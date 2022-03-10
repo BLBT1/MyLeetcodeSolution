@@ -26,7 +26,7 @@
 
 [1901. Find a Peak Element II](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Binary%20Search/1901.%20Find%20a%20Peak%20Element%20II) (H)
 
-[702. Search in a Sorted Array of Unknown Size]()
+[702. Search in a Sorted Array of Unknown Size](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Binary%20Search/702.%20Search%20in%20a%20Sorted%20Array%20of%20Unknown%20Size) (M-)
 
 [540. Single Element in a Sorted Array]()
 
