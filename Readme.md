@@ -30,10 +30,13 @@
 
 [540. Single Element in a Sorted Array](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Binary%20Search/540.%20Single%20Element%20in%20a%20Sorted%20Array) (M+)
 
-[1060. Missing Element in Sorted Array]()
+[1060. Missing Element in Sorted Array](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Binary%20Search/1060.%20Missing%20Element%20in%20Sorted%20Array) (H)
+
+[33. Search in Rotated Sorted Array]()
 
 [410. Split Array Largest Sum]()
 
+[1011. Capacity To Ship Packages Within D Days]()
 <br/> </br>
 [Linked List](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Linked%20List)
 
