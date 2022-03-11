@@ -28,11 +28,11 @@
 
 [702. Search in a Sorted Array of Unknown Size](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Binary%20Search/702.%20Search%20in%20a%20Sorted%20Array%20of%20Unknown%20Size) (M-)
 
-[540. Single Element in a Sorted Array]()
-
-[410. Split Array Largest Sum]()
+[540. Single Element in a Sorted Array](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Binary%20Search/540.%20Single%20Element%20in%20a%20Sorted%20Array) (M+)
 
 [1060. Missing Element in Sorted Array]()
+
+[410. Split Array Largest Sum]()
 
 <br/> </br>
 [Linked List](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Linked%20List)
