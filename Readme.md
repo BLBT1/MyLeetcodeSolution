@@ -36,9 +36,9 @@
 
 [81. Search in Rotated Sorted Array II](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Binary%20Search/81.%20Search%20in%20Rotated%20Sorted%20Array%20II) (M+)
 
-[153. Find Minimum in Rotated Sorted Array]()
+[153. Find Minimum in Rotated Sorted Array](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Binary%20Search/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array)
 
-[154. Find Minimum in Rotated Sorted Array II]()
+[154. Find Minimum in Rotated Sorted Array II](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Binary%20Search/154.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array%20II)
 
 [240. Search a 2D Matrix II]()
 
