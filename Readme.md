@@ -32,11 +32,26 @@
 
 [1060. Missing Element in Sorted Array](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Binary%20Search/1060.%20Missing%20Element%20in%20Sorted%20Array) (H)
 
-[33. Search in Rotated Sorted Array]()
+[33. Search in Rotated Sorted Array](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Binary%20Search/33.%20Search%20in%20Rotated%20Sorted%20Array) (M+)
+
+[153. Find Minimum in Rotated Sorted Array]()
+
+[154. Find Minimum in Rotated Sorted Array II]()
+
+[240. Search a 2D Matrix II]()
+
+[378. Kth Smallest Element in a Sorted Matrix]()
 
 [410. Split Array Largest Sum]()
 
 [1011. Capacity To Ship Packages Within D Days]()
+
+[222.Count Complete Tree Nodes]()
+
+[302. Smallest Rectangle Enclosing Black Pixels]()
+
+[275. H-Index II]()
+
 <br/> </br>
 [Linked List](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Linked%20List)
 
@@ -79,3 +94,5 @@
 [1290. Convert Binary Number in a Linked List to Integer](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Math/1290.%20Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer) (E)
 
 [1217. Minimum Cost to Move Chips to The Same Position](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Math/1217.%20Minimum%20Cost%20to%20Move%20Chips%20to%20The%20Same%20Position) (M)
+
+[528. Random Pick with Weight]()

@@ -4,7 +4,7 @@
 
 - 分别找到 mid_max, upper_max, lower_max, 如果 mid_max 是三个最大，那么 已知 mid_max 是本行最大，而且 mid_max >= upper_max >= upper_neighbor, 同理 mid_max >= lower_max >= lower_neighbor, 因此 mid_max 一定是 peak element， 返回当前位置
 
--如果 upper_max 是三个中最大， 那 和一维的 peak element 一样的思路，我们把搜索区间变成 [mid+1, upper], 因为mid中没找到peak element，且 [low ：mid] 中都不会有
+- 如果 upper_max 是三个中最大， 那 和一维的 peak element 一样的思路，我们把搜索区间变成 [mid+1, upper], 因为mid中没找到peak element，且 [low ：mid] 中都不会有
 
 - 同理， 如果lower_max 最大，我们把搜索区间变成 [lower, mid-1]
 
