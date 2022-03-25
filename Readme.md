@@ -57,13 +57,15 @@
 <br/></br>
 [Two Pointers]()
 
+[141. Linked List Cycle](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Two%20Pointers/141.%20Linked%20List%20Cycle) (E+)
+
   ```Sliding Windows```
   
   ```guan神：右指针正常移动，左指针伺机而动```
 
-  [1446. Consecutive Characters]()
+  [1446. Consecutive Characters](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Two%20Pointers/1446.%20Consecutive%20Characters) (E+)
 
-  [3. Longest Substring Without Repeating Characters]()
+  [3. Longest Substring Without Repeating Characters](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Two%20Pointers/3.%20Longest%20Substring%20Without%20Repeating%20Characters) (M)
 
   [159. Longest Substring with At Most Two Distinct Characters]()
 
