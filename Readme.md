@@ -32,13 +32,13 @@
 
 [1060. Missing Element in Sorted Array](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Binary%20Search/1060.%20Missing%20Element%20in%20Sorted%20Array) (H)
 
-[33. Search in Rotated Sorted Array](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Binary%20Search/33.%20Search%20in%20Rotated%20Sorted%20Array) (M+)
+[33. Search in Rotated Sorted Array](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Binary%20Search/33.%20Search%20in%20Rotated%20Sorted%20Array) (M)
 
 [81. Search in Rotated Sorted Array II](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Binary%20Search/81.%20Search%20in%20Rotated%20Sorted%20Array%20II) (M+)
 
-[153. Find Minimum in Rotated Sorted Array](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Binary%20Search/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array)
+[153. Find Minimum in Rotated Sorted Array](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Binary%20Search/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array) (M)
 
-[154. Find Minimum in Rotated Sorted Array II](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Binary%20Search/154.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array%20II)
+[154. Find Minimum in Rotated Sorted Array II](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Binary%20Search/154.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array%20II) (M+)
 
 [240. Search a 2D Matrix II]()
 
