@@ -61,17 +61,17 @@
 
   ```Sliding Windows```
   
-  ```guan神：右指针正常移动，左指针伺机而动```
+  ```guan神：一边指针正常移动，另一边指针伺机而动```
 
   [1446. Consecutive Characters](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Two%20Pointers/1446.%20Consecutive%20Characters) (E+)
 
   [3. Longest Substring Without Repeating Characters](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Two%20Pointers/3.%20Longest%20Substring%20Without%20Repeating%20Characters) (M)
 
-  [159. Longest Substring with At Most Two Distinct Characters]()
+  [159. Longest Substring with At Most Two Distinct Characters]() (M+)
 
-  [340. Longest Substring with At Most K Distinct Characters]()
+  [340. Longest Substring with At Most K Distinct Characters]() (M+)
 
-  [395. Longest Substring with At Least K Repeating Characters]()
+  [395. Longest Substring with At Least K Repeating Characters]() (H)
 
   [424. Longest Repeating Character Replacement]()
 
