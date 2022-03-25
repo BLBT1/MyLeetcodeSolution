@@ -40,7 +40,7 @@
 
 [154. Find Minimum in Rotated Sorted Array II](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Binary%20Search/154.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array%20II) (M+)
 
-[240. Search a 2D Matrix II]()
+[240. Search a 2D Matrix II](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Binary%20Search/240.%20Search%20a%202D%20Matrix%20II) (M)
 
 [378. Kth Smallest Element in a Sorted Matrix]()
 
@@ -54,6 +54,35 @@
 
 [275. H-Index II]()
 
+<br/></br>
+[Two Pointers]()
+
+  ```Sliding Windows```
+
+  [3. Longest Substring Without Repeating Characters]()
+
+  [159. Longest Substring with At Most Two Distinct Characters]()
+
+  [340. Longest Substring with At Most K Distinct Characters]()
+
+  [395. Longest Substring with At Least K Repeating Characters]()
+
+  [424. Longest Repeating Character Replacement]()
+
+  [209. Minimum Size Subarray Sum]()
+
+  [76. Minimum Window Substring]()
+
+  [992. Subarrays with K Different Integers]()
+
+  [1248. Count Number of Nice Subarrays]()
+
+  [611. Valid Triangle Number]()
+
+  [1004. Max Consecutive Ones III]()
+
+  [1052. Grumpy Bookstore Owner]()
+  
 <br/> </br>
 [Linked List](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Linked%20List)
 
