@@ -58,6 +58,10 @@
 [Two Pointers]()
 
   ```Sliding Windows```
+  
+  ```guan神：右指针正常移动，左指针伺机而动```
+
+  [1446. Consecutive Characters]()
 
   [3. Longest Substring Without Repeating Characters]()
 
