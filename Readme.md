@@ -63,19 +63,19 @@
   
   ```guan神：一边指针正常移动，另一边指针伺机而动```
 
+  [209. Minimum Size Subarray Sum]() (M)
+  
   [1446. Consecutive Characters](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Two%20Pointers/1446.%20Consecutive%20Characters) (E+)
 
   [3. Longest Substring Without Repeating Characters](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Two%20Pointers/3.%20Longest%20Substring%20Without%20Repeating%20Characters) (M)
 
-  [159. Longest Substring with At Most Two Distinct Characters]() (M+)
+  [159. Longest Substring with At Most Two Distinct Characters](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Two%20Pointers/159.%20Longest%20Substring%20with%20At%20Most%20Two%20Distinct%20Characters) (M+)
 
-  [340. Longest Substring with At Most K Distinct Characters]() (M+)
+  [340. Longest Substring with At Most K Distinct Characters](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Two%20Pointers/340.%20Longest%20Substring%20with%20At%20Most%20K%20Distinct%20Characters) (M+)
 
-  [395. Longest Substring with At Least K Repeating Characters]() (H)
+  [395. Longest Substring with At Least K Repeating Characters](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Two%20Pointers/395.%20Longest%20Substring%20with%20At%20Least%20K%20Repeating%20Characters) (H)
 
-  [424. Longest Repeating Character Replacement]()
-
-  [209. Minimum Size Subarray Sum]()
+  [424. Longest Repeating Character Replacement](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Two%20Pointers/424.%20Longest%20Repeating%20Character%20Replacement) (M+)
 
   [76. Minimum Window Substring]()
 
