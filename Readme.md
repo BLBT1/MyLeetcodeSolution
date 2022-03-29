@@ -55,7 +55,7 @@
 [275. H-Index II]()
 
 <br/></br>
-[Two Pointers]()
+[Two Pointers](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Two%20Pointers)
 
 [141. Linked List Cycle](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Two%20Pointers/141.%20Linked%20List%20Cycle) (E+)
 
@@ -63,7 +63,7 @@
   
   ```guan神：一边指针正常移动，另一边指针伺机而动```
 
-  [209. Minimum Size Subarray Sum]() (M)
+  [209. Minimum Size Subarray Sum](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Two%20Pointers/209.%20Minimum%20Size%20Subarray%20Sum) (M)
   
   [1446. Consecutive Characters](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Two%20Pointers/1446.%20Consecutive%20Characters) (E+)
 
