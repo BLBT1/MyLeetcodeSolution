@@ -77,17 +77,25 @@
 
   [424. Longest Repeating Character Replacement](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Two%20Pointers/424.%20Longest%20Repeating%20Character%20Replacement) (M+)
 
-  [76. Minimum Window Substring]()
+  [76. Minimum Window Substring](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Two%20Pointers/76.%20Minimum%20Window%20Substring) (H)
 
-  [992. Subarrays with K Different Integers]()
+  [992. Subarrays with K Different Integers](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Two%20Pointers/992.%20Subarrays%20with%20K%20Different%20Integers) (H+)
 
-  [1248. Count Number of Nice Subarrays]()
+  [1248. Count Number of Nice Subarrays](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Two%20Pointers/1248.%20Count%20Number%20of%20Nice%20Subarrays) (H)
 
   [611. Valid Triangle Number]()
 
   [1004. Max Consecutive Ones III]()
 
   [1052. Grumpy Bookstore Owner]()
+
+  [1358. Number of Substrings Containing All Three Characters]()
+
+  [1234. Replace the Substring for Balanced String]()
+
+  [904. Fruit Into Baskets]()
+
+  [862. Shortest Subarray with Sum at Least K]()
   
 <br/> </br>
 [Linked List](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Linked%20List)
