@@ -44,9 +44,9 @@
 
 [378. Kth Smallest Element in a Sorted Matrix]()
 
-[410. Split Array Largest Sum]() (H)
+[410. Split Array Largest Sum](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Two%20Pointers/410.%20Split%20Array%20Largest%20Sum) (H)
 
-[1011. Capacity To Ship Packages Within D Days]()
+[1011. Capacity To Ship Packages Within D Days](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Two%20Pointers/1011.%20Capacity%20To%20Ship%20Packages%20Within%20D%20Days)
 
 [875. Koko Eating Bananas](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Binary%20Search/875.%20Koko%20Eating%20Bananas) (M+)
 
@@ -59,11 +59,11 @@
 <br/></br>
 [Two Pointers](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Two%20Pointers)
 
-[344. Reverse String]() (E-)
+[344. Reverse String](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Two%20Pointers/344.%20Reverse%20String) (E-)
 
 [141. Linked List Cycle](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Two%20Pointers/141.%20Linked%20List%20Cycle) (E+)
 
-[611. Valid Triangle Number]()
+[611. Valid Triangle Number](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Two%20Pointers/611.%20Valid%20Triangle%20Number)
 
   ```Sliding Windows```
   
@@ -89,9 +89,9 @@
 
   [1248. Count Number of Nice Subarrays](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Two%20Pointers/1248.%20Count%20Number%20of%20Nice%20Subarrays) (H)
 
-  [1004. Max Consecutive Ones III]() (M-)
+  [1004. Max Consecutive Ones III](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Two%20Pointers/1004.%20Max%20Consecutive%20Ones%20III) (M-)
 
-  [1052. Grumpy Bookstore Owner]() (M)
+  [1052. Grumpy Bookstore Owner](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Two%20Pointers/1052.%20Grumpy%20Bookstore%20Owner) (M)
 
   [1358. Number of Substrings Containing All Three Characters]()
 
