@@ -46,7 +46,7 @@
 
 [410. Split Array Largest Sum](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Two%20Pointers/410.%20Split%20Array%20Largest%20Sum) (H)
 
-[1011. Capacity To Ship Packages Within D Days](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Two%20Pointers/1011.%20Capacity%20To%20Ship%20Packages%20Within%20D%20Days)
+[1011. Capacity To Ship Packages Within D Days](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Two%20Pointers/1011.%20Capacity%20To%20Ship%20Packages%20Within%20D%20Days) (H)
 
 [875. Koko Eating Bananas](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Binary%20Search/875.%20Koko%20Eating%20Bananas) (M+)
 
@@ -59,11 +59,43 @@
 <br/></br>
 [Two Pointers](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Two%20Pointers)
 
+[11. Container With Most Water]()
+
+[15. 3Sum]()
+
+[16. 3Sum Closest]()
+
+[18. 4Sum]()
+
+[259. 3Sum Smaller]()
+
+[923. 3Sum With Multiplicity]()
+
+[30. Substring with Concatenation of All Words]()
+
+[26. Remove Duplicates from Sorted Array]()
+
+[80. Remove Duplicates from Sorted Array II]()
+
+[88. Merge Sorted Array]()
+
+[283. Move Zeroes]()
+
+[713. Subarray Product Less Than K]()
+
+[1574. Shortest Subarray to be Removed to Make Array Sorted]()
+
 [344. Reverse String](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Two%20Pointers/344.%20Reverse%20String) (E-)
 
 [141. Linked List Cycle](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Two%20Pointers/141.%20Linked%20List%20Cycle) (E+)
 
-[611. Valid Triangle Number](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Two%20Pointers/611.%20Valid%20Triangle%20Number)
+[142. Linked List Cycle II]()
+
+[360. Sort Transformed Array]()
+
+[611. Valid Triangle Number](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Two%20Pointers/611.%20Valid%20Triangle%20Number) (M+)
+
+[75. Sort Colors]() (M-)
 
   ```Sliding Windows```
   
