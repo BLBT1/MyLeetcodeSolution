@@ -140,6 +140,8 @@
 
 [328.odd even linked list](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Linked%20List/328%20odd%20even%20Linked%20List) (M-)
 
+[1721. Swapping Nodes in a Linked List]()
+
 <br/><br>
 [DFS](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Dfs)
 
@@ -174,7 +176,7 @@
 
 [Math](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Math)
 
-[31. Next Permutation]() (H)
+[31. Next Permutation](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Math/31.%20Next%20Permutation) (H)
 
 [1290. Convert Binary Number in a Linked List to Integer](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Math/1290.%20Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer) (E)
 
