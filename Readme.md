@@ -61,15 +61,15 @@
 
 [680. Valid Palindrome II]() (E+)
 
-[11. Container With Most Water]() (M-)
+[11. Container With Most Water](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Two%20Pointers/11.%20Container%20With%20Most%20Water) (M-)
 
-[15. 3Sum]()
+[15. 3Sum](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Two%20Pointers/15.%203Sum) (M)
 
-[16. 3Sum Closest]()
+[16. 3Sum Closest](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Two%20Pointers/16.%203Sum%20Closest) (M-)
 
 [18. 4Sum]()
 
-[259. 3Sum Smaller]()
+[259. 3Sum Smaller](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Two%20Pointers/259.%203Sum%20Smaller) (M)
 
 [923. 3Sum With Multiplicity]()
 
@@ -140,7 +140,7 @@
 
 [328.odd even linked list](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Linked%20List/328%20odd%20even%20Linked%20List) (M-)
 
-[1721. Swapping Nodes in a Linked List]()
+[1721. Swapping Nodes in a Linked List](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Linked%20List/1721.%20Swapping%20Nodes%20in%20a%20Linked%20List) (M)
 
 <br/><br>
 [DFS](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Dfs)
