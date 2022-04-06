@@ -71,7 +71,7 @@
 
 [259. 3Sum Smaller](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Two%20Pointers/259.%203Sum%20Smaller) (M)
 
-[923. 3Sum With Multiplicity]()
+[923. 3Sum With Multiplicity]() (H)
 
 [30. Substring with Concatenation of All Words]()
 
@@ -97,7 +97,7 @@
 
 [611. Valid Triangle Number](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Two%20Pointers/611.%20Valid%20Triangle%20Number) (M+)
 
-[75. Sort Colors]() (M-)
+[75. Sort Colors](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Two%20Pointers/75.%20Sort%20Colors) (M-)
 
   ```Sliding Windows```
   
