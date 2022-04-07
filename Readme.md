@@ -140,9 +140,39 @@
 <br/> </br>
 [Linked List](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Linked%20List)
 
+[61. Rotate List]()
+
+[86. Partition List]()
+
+[109. Convert Sorted List to Binary Search Tree]()
+
+[369. Plus One Linked List]()
+
+[430. Flatten a Multilevel Doubly Linked List]()
+
+[457. Circular Array Loop]()
+
+[24. Swap Nodes in Pairs]()
+
+[206. Reverse Linked List]()
+
+[92. Reverse Linked List II]()
+
+[25. Reverse Nodes in k-Group]()
+
+[19. Remove Nth Node From End of List]()
+
+[160. Intersection of Two Linked Lists]()
+
+[328. Odd Even Linked List]()
+
+[234. Palindrome Linked List]()
+
 [328.odd even linked list](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Linked%20List/328%20odd%20even%20Linked%20List) (M-)
 
 [1721. Swapping Nodes in a Linked List](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Linked%20List/1721.%20Swapping%20Nodes%20in%20a%20Linked%20List) (M)
+
+[148. Sort List]()
 <br/></br>
 
 [Tree]()
