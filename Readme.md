@@ -79,9 +79,9 @@
 
 [80. Remove Duplicates from Sorted Array II]()
 
-[88. Merge Sorted Array]()
+[88. Merge Sorted Array]() (E)
 
-[283. Move Zeroes]()
+[283. Move Zeroes](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Two%20Pointers/283.%20Move%20Zeroes) (M-)
 
 [713. Subarray Product Less Than K]()
 
