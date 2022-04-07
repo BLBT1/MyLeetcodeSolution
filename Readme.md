@@ -71,7 +71,7 @@
 
 [259. 3Sum Smaller](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Two%20Pointers/259.%203Sum%20Smaller) (M)
 
-[923. 3Sum With Multiplicity]() (H)
+[923. 3Sum With Multiplicity](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Two%20Pointers/923.%203Sum%20With%20Multiplicity) (H)
 
 [30. Substring with Concatenation of All Words]()
 
