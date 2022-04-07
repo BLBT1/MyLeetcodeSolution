@@ -143,6 +143,9 @@
 [328.odd even linked list](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Linked%20List/328%20odd%20even%20Linked%20List) (M-)
 
 [1721. Swapping Nodes in a Linked List](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Linked%20List/1721.%20Swapping%20Nodes%20in%20a%20Linked%20List) (M)
+<br/></br>
+
+[Tree]()
 
 <br/><br>
 [DFS](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Dfs)
@@ -168,6 +171,11 @@
   [53.Maximum Subarray](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Dynamic%20Programming/53.%20max%20subarray) (M)
 
   [152.Maximum Product Subarray](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Dynamic%20Programming/152%20max%20product%20subarray) (M+)
+<br/></br>
+
+[Priority Queue]()
+
+[1046. Last Stone Weight]() (E)
 
 <br/></br>
 [Trie(Prefix Tree)](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Trie)
