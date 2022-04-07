@@ -63,7 +63,7 @@
 
 [11. Container With Most Water](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Two%20Pointers/11.%20Container%20With%20Most%20Water) (M-)
 
-[167. Two Sum II - Input Array Is Sorted]() (E)
+[167. Two Sum II - Input Array Is Sorted](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Two%20Pointers/167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted) (E)
 
 [15. 3Sum](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Two%20Pointers/15.%203Sum) (M)
 
@@ -173,9 +173,9 @@
   [152.Maximum Product Subarray](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Dynamic%20Programming/152%20max%20product%20subarray) (M+)
 <br/></br>
 
-[Priority Queue]()
+[Priority Queue](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Priority_queue)
 
-[1046. Last Stone Weight]() (E)
+[1046. Last Stone Weight](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Priority_queue/1046.%20Last%20Stone%20Weight) (E)
 
 <br/></br>
 [Trie(Prefix Tree)](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Trie)
