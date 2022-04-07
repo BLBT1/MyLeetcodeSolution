@@ -59,9 +59,11 @@
 <br/></br>
 [Two Pointers](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Two%20Pointers)
 
-[680. Valid Palindrome II]() (E+)
+[680. Valid Palindrome II](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Two%20Pointers/680.%20Valid%20Palindrome%20II) (E+)
 
 [11. Container With Most Water](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Two%20Pointers/11.%20Container%20With%20Most%20Water) (M-)
+
+[167. Two Sum II - Input Array Is Sorted]() (E)
 
 [15. 3Sum](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Two%20Pointers/15.%203Sum) (M)
 
