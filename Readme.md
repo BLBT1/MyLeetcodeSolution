@@ -59,11 +59,13 @@
 <br/></br>
 [Two Pointers](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Two%20Pointers)
 
-[680. Valid Palindrome II](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Two%20Pointers/680.%20Valid%20Palindrome%20II) (E+)
-
 [11. Container With Most Water](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Two%20Pointers/11.%20Container%20With%20Most%20Water) (M-)
 
 [167. Two Sum II - Input Array Is Sorted](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Two%20Pointers/167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted) (E)
+
+[633. Sum of Square Numbers]()
+
+[680. Valid Palindrome II](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Two%20Pointers/680.%20Valid%20Palindrome%20II) (E+)
 
 [15. 3Sum](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Two%20Pointers/15.%203Sum) (M)
 
@@ -83,6 +85,8 @@
 
 [88. Merge Sorted Array](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Two%20Pointers/88.%20Merge%20Sorted%20Array) (E)
 
+[524. Longest Word in Dictionary through Deleting]()
+
 [283. Move Zeroes](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Two%20Pointers/283.%20Move%20Zeroes) (M-)
 
 [713. Subarray Product Less Than K]()
@@ -93,7 +97,7 @@
 
 [141. Linked List Cycle](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Two%20Pointers/141.%20Linked%20List%20Cycle) (E+)
 
-[142. Linked List Cycle II]()
+[142. Linked List Cycle II](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Two%20Pointers/142.%20Linked%20List%20Cycle%20II) (H-)
 
 [360. Sort Transformed Array](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Two%20Pointers/360.%20Sort%20Transformed%20Array) (H-)
 
@@ -139,6 +143,8 @@
   
 <br/> </br>
 [Linked List](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Linked%20List)
+
+[206. Reverse Linked List]() (E)
 
 [61. Rotate List]()
 
