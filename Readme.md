@@ -81,7 +81,7 @@
 
 [80. Remove Duplicates from Sorted Array II]()
 
-[88. Merge Sorted Array]() (E)
+[88. Merge Sorted Array](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Two%20Pointers/88.%20Merge%20Sorted%20Array) (E)
 
 [283. Move Zeroes](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Two%20Pointers/283.%20Move%20Zeroes) (M-)
 
@@ -95,7 +95,7 @@
 
 [142. Linked List Cycle II]()
 
-[360. Sort Transformed Array]()
+[360. Sort Transformed Array](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Two%20Pointers/360.%20Sort%20Transformed%20Array) (H-)
 
 [611. Valid Triangle Number](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Two%20Pointers/611.%20Valid%20Triangle%20Number) (M+)
 
@@ -205,6 +205,8 @@
 
 [Priority Queue](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Priority_queue)
 
+[703. Kth Largest Element in a Stream]() (E)
+
 [1046. Last Stone Weight](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Priority_queue/1046.%20Last%20Stone%20Weight) (E)
 
 <br/></br>
@@ -223,3 +225,7 @@
 [1217. Minimum Cost to Move Chips to The Same Position](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Math/1217.%20Minimum%20Cost%20to%20Move%20Chips%20to%20The%20Same%20Position) (M)
 
 [528. Random Pick with Weight]()
+
+<br/><br>
+
+[Design]()
