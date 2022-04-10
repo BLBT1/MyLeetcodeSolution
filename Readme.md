@@ -146,11 +146,11 @@
 
 [206. Reverse Linked List](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Linked%20List/206.%20Reverse%20Linked%20List) (E+)
 
-[92. Reverse Linked List II]() (M)
+[92. Reverse Linked List II](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Linked%20List/92.%20Reverse%20Linked%20List%20II) (M)
 
-[25. Reverse Nodes in k-Group]() (M)
+[25. Reverse Nodes in k-Group](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Linked%20List/25.%20Reverse%20Nodes%20in%20k-Group) (M+)
 
-[2074. Reverse Nodes in Even Length Groups]() (M+)
+[2074. Reverse Nodes in Even Length Groups](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Linked%20List/2074.%20Reverse%20Nodes%20in%20Even%20Length%20Groups) (H-)
 
 [61. Rotate List]()
 
@@ -177,6 +177,8 @@
 [328.odd even linked list](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Linked%20List/328%20odd%20even%20Linked%20List) (M-)
 
 [1721. Swapping Nodes in a Linked List](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Linked%20List/1721.%20Swapping%20Nodes%20in%20a%20Linked%20List) (M)
+
+[147. Insertion Sort List]()
 
 [148. Sort List]()
 <br/></br>
@@ -209,9 +211,18 @@
   [152.Maximum Product Subarray](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Dynamic%20Programming/152%20max%20product%20subarray) (M+)
 <br/></br>
 
+[Stack]()
+[682. Baseball Game]() (E)
+
+<br/><br>
+
+[Queue]()
+
+<br/><br>
+
 [Priority Queue](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Priority_queue)
 
-[703. Kth Largest Element in a Stream]() (E)
+[703. Kth Largest Element in a Stream](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Priority_queue/703.%20Kth%20Largest%20Element%20in%20a%20Stream) (E)
 
 [1046. Last Stone Weight](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Priority_queue/1046.%20Last%20Stone%20Weight) (E)
 
@@ -235,3 +246,5 @@
 <br/><br>
 
 [Design]()
+
+[Quick Select]()
