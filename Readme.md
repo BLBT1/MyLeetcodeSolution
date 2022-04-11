@@ -158,19 +158,19 @@
 
 [21. Merge Two Sorted Lists](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Linked%20List/21.%20Merge%20Two%20Sorted%20Lists) (E-)
 
-[23. Merge k Sorted Lists]() (M+)
+[23. Merge k Sorted Lists](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Linked%20List/23.%20Merge%20k%20Sorted%20Lists) (M+)
 
-[24. Swap Nodes in Pairs]() (M)
+[24. Swap Nodes in Pairs](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Linked%20List/24.%20Swap%20Nodes%20in%20Pairs) (M)
 
-[160. Intersection of Two Linked Lists]() (M)
+[160. Intersection of Two Linked Lists](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Linked%20List/160.%20Intersection%20of%20Two%20Linked%20Lists) (M)
 
-[234. Palindrome Linked List]() (M)
+[234. Palindrome Linked List](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Linked%20List/234.%20Palindrome%20Linked%20List) (M)
 
-[203. Remove Linked List Elements]() (E-)
+[203. Remove Linked List Elements](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Linked%20List/203.%20Remove%20Linked%20List%20Elements) (E-)
 
-[83. Remove Duplicates from Sorted List]() (E)
+[83. Remove Duplicates from Sorted List](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Linked%20List/83.%20Remove%20Duplicates%20from%20Sorted%20List) (E)
 
-[82. Remove Duplicates from Sorted List II]() (M)
+[82. Remove Duplicates from Sorted List II](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Linked%20List/82.%20Remove%20Duplicates%20from%20Sorted%20List%20II) (M)
 
 [19. Remove Nth Node From End of List]()
 
