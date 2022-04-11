@@ -152,6 +152,10 @@
 
 [2074. Reverse Nodes in Even Length Groups](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Linked%20List/2074.%20Reverse%20Nodes%20in%20Even%20Length%20Groups) (H-)
 
+[2. Add Two Numbers]() (M-)
+
+[445. Add Two Numbers II]() (M-)
+
 [61. Rotate List]()
 
 [86. Partition List]()
@@ -248,7 +252,7 @@
 
 [Quick Select]()
 
-[347. Top K Frequent Elements]() (M+)
+[347. Top K Frequent Elements](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Quick%20Select/347.%20Top%20K%20Frequent%20Elements) (M+)
 
 <br/><br>
 
