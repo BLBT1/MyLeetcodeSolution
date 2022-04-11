@@ -166,11 +166,11 @@
 
 [234. Palindrome Linked List]() (M)
 
-[203. Remove Linked List Elements]()
+[203. Remove Linked List Elements]() (E-)
 
-[83. Remove Duplicates from Sorted List]()
+[83. Remove Duplicates from Sorted List]() (E)
 
-[82. Remove Duplicates from Sorted List II]()
+[82. Remove Duplicates from Sorted List II]() (M)
 
 [19. Remove Nth Node From End of List]()
 
@@ -263,6 +263,8 @@
 [1290. Convert Binary Number in a Linked List to Integer](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Math/1290.%20Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer) (E)
 
 [1217. Minimum Cost to Move Chips to The Same Position](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Math/1217.%20Minimum%20Cost%20to%20Move%20Chips%20to%20The%20Same%20Position) (M)
+
+[1260. Shift 2D Grid]() (H)
 
 [528. Random Pick with Weight]()
 
