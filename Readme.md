@@ -212,7 +212,8 @@
 <br/></br>
 
 [Stack]()
-[682. Baseball Game]() (E)
+
+[682. Baseball Game](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Stack/682.%20Baseball%20Game) (E)
 
 <br/><br>
 
@@ -245,6 +246,10 @@
 
 <br/><br>
 
-[Design]()
-
 [Quick Select]()
+
+[347. Top K Frequent Elements]() (M+)
+
+<br/><br>
+
+[Design]()
