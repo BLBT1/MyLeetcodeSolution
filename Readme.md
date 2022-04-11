@@ -156,13 +156,15 @@
 
 [445. Add Two Numbers II](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Linked%20List/445.%20Add%20Two%20Numbers%20II) (M-)
 
-[21. Merge Two Sorted Lists]() (E-)
+[21. Merge Two Sorted Lists](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Linked%20List/21.%20Merge%20Two%20Sorted%20Lists) (E-)
 
-[23. Merge k Sorted Lists]()
+[23. Merge k Sorted Lists]() (M+)
 
-[24. Swap Nodes in Pairs]()
+[24. Swap Nodes in Pairs]() (M)
 
-[160. Intersection of Two Linked Lists]()
+[160. Intersection of Two Linked Lists]() (M)
+
+[234. Palindrome Linked List]()
 
 [61. Rotate List]()
 
@@ -179,8 +181,6 @@
 [19. Remove Nth Node From End of List]()
 
 [328. Odd Even Linked List]()
-
-[234. Palindrome Linked List]()
 
 [328.odd even linked list](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Linked%20List/328%20odd%20even%20Linked%20List) (M-)
 
