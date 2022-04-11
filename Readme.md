@@ -164,7 +164,21 @@
 
 [160. Intersection of Two Linked Lists]() (M)
 
-[234. Palindrome Linked List]()
+[234. Palindrome Linked List]() (M)
+
+[203. Remove Linked List Elements]()
+
+[83. Remove Duplicates from Sorted List]()
+
+[82. Remove Duplicates from Sorted List II]()
+
+[19. Remove Nth Node From End of List]()
+
+[1171. Remove Zero Sum Consecutive Nodes from Linked List]()
+
+[138. Copy List with Random Pointer]()
+
+[426. Convert Binary Search Tree to Sorted Doubly Linked List]()
 
 [61. Rotate List]()
 
