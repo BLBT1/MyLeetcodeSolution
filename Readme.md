@@ -146,11 +146,11 @@
 
 [206. Reverse Linked List](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Linked%20List/206.%20Reverse%20Linked%20List) (E+)
 
-[92. Reverse Linked List II](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Linked%20List/92.%20Reverse%20Linked%20List%20II) (M)
+*[92. Reverse Linked List II](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Linked%20List/92.%20Reverse%20Linked%20List%20II) (M)
 
-[25. Reverse Nodes in k-Group](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Linked%20List/25.%20Reverse%20Nodes%20in%20k-Group) (M+)
+*[25. Reverse Nodes in k-Group](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Linked%20List/25.%20Reverse%20Nodes%20in%20k-Group) (M+)
 
-[2074. Reverse Nodes in Even Length Groups](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Linked%20List/2074.%20Reverse%20Nodes%20in%20Even%20Length%20Groups) (H-)
+*[2074. Reverse Nodes in Even Length Groups](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Linked%20List/2074.%20Reverse%20Nodes%20in%20Even%20Length%20Groups) (H-)
 
 [2. Add Two Numbers](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Linked%20List/2.%20Add%20Two%20Numbers) (M-)
 
@@ -172,9 +172,9 @@
 
 [82. Remove Duplicates from Sorted List II](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Linked%20List/82.%20Remove%20Duplicates%20from%20Sorted%20List%20II) (M)
 
-[19. Remove Nth Node From End of List]()
+[19. Remove Nth Node From End of List]() (M-)
 
-[1171. Remove Zero Sum Consecutive Nodes from Linked List]()
+*[1171. Remove Zero Sum Consecutive Nodes from Linked List]()
 
 [138. Copy List with Random Pointer]()
 
@@ -198,7 +198,7 @@
 
 [328.odd even linked list](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Linked%20List/328%20odd%20even%20Linked%20List) (M-)
 
-[1721. Swapping Nodes in a Linked List](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Linked%20List/1721.%20Swapping%20Nodes%20in%20a%20Linked%20List) (M)
+[1721. Swapping Nodes in a Linked List](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Linked%20List/1721.%20Swapping%20Nodes%20in%20a%20Linked%20List) (M+)
 
 [147. Insertion Sort List]()
 
@@ -264,7 +264,7 @@
 
 [1217. Minimum Cost to Move Chips to The Same Position](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Math/1217.%20Minimum%20Cost%20to%20Move%20Chips%20to%20The%20Same%20Position) (M)
 
-[1260. Shift 2D Grid]() (H)
+[1260. Shift 2D Grid](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Math/1260.%20Shift%202D%20Grid) (H)
 
 [528. Random Pick with Weight]()
 
