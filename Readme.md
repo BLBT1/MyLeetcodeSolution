@@ -172,19 +172,21 @@
 
 [82. Remove Duplicates from Sorted List II](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Linked%20List/82.%20Remove%20Duplicates%20from%20Sorted%20List%20II) (M)
 
-[19. Remove Nth Node From End of List]() (M-)
+[19. Remove Nth Node From End of List](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Linked%20List/19.%20Remove%20Nth%20Node%20From%20End%20of%20List) (M-)
 
-*[1171. Remove Zero Sum Consecutive Nodes from Linked List]()
-
-[138. Copy List with Random Pointer]()
+*[1171. Remove Zero Sum Consecutive Nodes from Linked List]() (M+)
 
 [426. Convert Binary Search Tree to Sorted Doubly Linked List]()
+
+[109. Convert Sorted List to Binary Search Tree]()
+
+[430. Flatten a Multilevel Doubly Linked List]()
+
+[138. Copy List with Random Pointer]()
 
 [61. Rotate List]()
 
 [86. Partition List]()
-
-[109. Convert Sorted List to Binary Search Tree]()
 
 [369. Plus One Linked List]()
 
