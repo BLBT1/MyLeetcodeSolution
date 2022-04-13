@@ -174,7 +174,7 @@
 
 [19. Remove Nth Node From End of List](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Linked%20List/19.%20Remove%20Nth%20Node%20From%20End%20of%20List) (M-)
 
-*[1171. Remove Zero Sum Consecutive Nodes from Linked List]() (M+)
+*[1171. Remove Zero Sum Consecutive Nodes from Linked List]() (H-)
 
 [426. Convert Binary Search Tree to Sorted Doubly Linked List]()
 
@@ -207,7 +207,15 @@
 [148. Sort List]()
 <br/></br>
 
-[Tree]()
+[Tree](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Tree)
+
+[104. Maximum Depth of Binary Tree]() (E)
+
+[*110. Balanced Binary Tree]() (M-)
+
+[938. Range Sum of BST](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Tree/938.%20Range%20Sum%20of%20BST) (M)
+
+[563. Binary Tree Tilt](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Tree/563.%20Binary%20Tree%20Tilt) (M)
 
 <br/><br>
 [DFS](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Dfs)
@@ -279,3 +287,9 @@
 <br/><br>
 
 [Design]()
+
+<br/><br>
+
+[Other]()
+
+[59. Spiral Matrix II]() (M)
