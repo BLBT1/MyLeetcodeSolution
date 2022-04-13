@@ -174,6 +174,8 @@
 
 [19. Remove Nth Node From End of List](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Linked%20List/19.%20Remove%20Nth%20Node%20From%20End%20of%20List) (M-)
 
+[*328. odd even linked list](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Linked%20List/328%20odd%20even%20Linked%20List) (M-)
+
 *[1171. Remove Zero Sum Consecutive Nodes from Linked List]() (H-)
 
 [426. Convert Binary Search Tree to Sorted Doubly Linked List]()
@@ -194,12 +196,6 @@
 
 [457. Circular Array Loop]()
 
-[19. Remove Nth Node From End of List]()
-
-[328. Odd Even Linked List]()
-
-[328.odd even linked list](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Linked%20List/328%20odd%20even%20Linked%20List) (M-)
-
 [1721. Swapping Nodes in a Linked List](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Linked%20List/1721.%20Swapping%20Nodes%20in%20a%20Linked%20List) (M+)
 
 [147. Insertion Sort List]()
@@ -209,9 +205,9 @@
 
 [Tree](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Tree)
 
-[104. Maximum Depth of Binary Tree]() (E)
+[104. Maximum Depth of Binary Tree](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Tree/104.%20Maximum%20Depth%20of%20Binary%20Tree) (E)
 
-[*110. Balanced Binary Tree]() (M-)
+[*110. Balanced Binary Tree](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Tree/110.%20Balanced%20Binary%20Tree) (M-)
 
 [938. Range Sum of BST](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Tree/938.%20Range%20Sum%20of%20BST) (M)
 
