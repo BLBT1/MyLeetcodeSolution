@@ -203,9 +203,9 @@
 
 [*110. Balanced Binary Tree](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Tree/110.%20Balanced%20Binary%20Tree) (M-)
 
-[*543. Diameter of Binary Tree]() (M-)
+[*543. Diameter of Binary Tree](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Tree/543.%20Diameter%20of%20Binary%20Tree) (M-)
 
-[112. Path Sum]() (E+)
+[112. Path Sum](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Tree/112.%20Path%20Sum) (E+)
 
 [113. Path Sum II]()
 
@@ -241,9 +241,9 @@
 
   [103. Binary Tree Zigzag Level Order Traversal]()
   
-  [*1245. Tree Diameter]() (H+)
+  [*1245. Tree Diameter](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Tree/1245.%20Tree%20Diameter) (H+)
 
-- ```other traversal```
+- ```other traversals```
   
   [144. Binary Tree Preorder Traversal]() (E)
 
@@ -275,7 +275,7 @@
 
 - ```BST```
 
-  [700. Search in a Binary Search Tree]() (E-)
+  [700. Search in a Binary Search Tree](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Tree/700.%20Search%20in%20a%20Binary%20Search%20Tree) (E-)
 
   [938. Range Sum of BST](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Tree/938.%20Range%20Sum%20of%20BST) (M)
 
