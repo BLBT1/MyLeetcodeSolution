@@ -203,9 +203,13 @@
 
 [*110. Balanced Binary Tree](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Tree/110.%20Balanced%20Binary%20Tree) (M-)
 
-[543. Diameter of Binary Tree]()
+[*543. Diameter of Binary Tree]() (M-)
 
-[437. Path Sum III]()
+[112. Path Sum]() (E+)
+
+[113. Path Sum II]()
+
+[*437. Path Sum III]()
 
 [101. Symmetric Tree]()
 
@@ -236,6 +240,8 @@
   [637. Average of Levels in Binary Tree]()
 
   [103. Binary Tree Zigzag Level Order Traversal]()
+  
+  [*1245. Tree Diameter]() (H+)
 
 - ```other traversal```
   
@@ -269,6 +275,8 @@
 
 - ```BST```
 
+  [700. Search in a Binary Search Tree]() (E-)
+
   [938. Range Sum of BST](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Tree/938.%20Range%20Sum%20of%20BST) (M)
 
   [653. Two Sum IV - Input is a BST]()
@@ -290,6 +298,8 @@
   [95. Unique Binary Search Trees II]()
 
   [108. Convert Sorted Array to Binary Search Tree]()
+
+  [285. Inorder Successor in BST]()
 
   [1382. Balance a Binary Search Tree]()
 
