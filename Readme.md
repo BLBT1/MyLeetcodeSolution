@@ -203,17 +203,19 @@
 
 [*110. Balanced Binary Tree](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Tree/110.%20Balanced%20Binary%20Tree) (M-)
 
+[101. Symmetric Tree]() (M_)
+
 [*543. Diameter of Binary Tree](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Tree/543.%20Diameter%20of%20Binary%20Tree) (M-)
 
 [112. Path Sum](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Tree/112.%20Path%20Sum) (E+)
 
-[113. Path Sum II]()
+[113. Path Sum II]() (M)
 
-[*437. Path Sum III]()
-
-[101. Symmetric Tree]()
+[*437. Path Sum III]() (H-)
 
 [1110. Delete Nodes And Return Forest]()
+
+[958. Check Completeness of a Binary Tree]()
 
 [226. Invert Binary Tree]()
 
@@ -228,6 +230,8 @@
 [538. Convert BST to Greater Tree]()
 
 [530. Minimum Absolute Difference in BST]()
+
+[951. Flip Equivalent Binary Trees]()
 
 [563. Binary Tree Tilt](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Tree/563.%20Binary%20Tree%20Tilt) (M)
 
@@ -281,7 +285,7 @@
 
   [653. Two Sum IV - Input is a BST]()
 
-  [669. Trim a Binary Search Tree]()
+  [*669. Trim a Binary Search Tree]()
   
   [270. Closest Binary Search Tree Value]()
 
