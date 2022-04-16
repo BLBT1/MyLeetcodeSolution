@@ -174,6 +174,8 @@
 
 [19. Remove Nth Node From End of List](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Linked%20List/19.%20Remove%20Nth%20Node%20From%20End%20of%20List) (M-)
 
+[86. Partition List]()
+
 [*328. odd even linked list](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Linked%20List/328%20odd%20even%20Linked%20List) (M-)
 
 *[1171. Remove Zero Sum Consecutive Nodes from Linked List]() (H-)
@@ -181,8 +183,6 @@
 [138. Copy List with Random Pointer]()
 
 [61. Rotate List]()
-
-[86. Partition List]()
 
 [369. Plus One Linked List]()
 
