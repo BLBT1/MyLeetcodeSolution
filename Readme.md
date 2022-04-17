@@ -213,11 +213,11 @@
 
 [*437. Path Sum III](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Tree/437.%20Path%20Sum%20III) (H-)
 
-[*1110. Delete Nodes And Return Forest]() (M)
+[*1110. Delete Nodes And Return Forest](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Tree/1110.%20Delete%20Nodes%20And%20Return%20Forest) (M)
 
 [958. Check Completeness of a Binary Tree]()
 
-[226. Invert Binary Tree]()
+[226. Invert Binary Tree]() (E+)
 
 [617. Merge Two Binary Trees]()
 
@@ -283,7 +283,7 @@
 
   [538. Convert BST to Greater Tree](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Tree/538.%20Convert%20BST%20to%20Greater%20Tree) (M)
   
-  [*897. Increasing Order Search Tree]() (M+)
+  [*897. Increasing Order Search Tree](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Tree/897.%20Increasing%20Order%20Search%20Tree) (M+)
 
   [501. Find Mode in Binary Search Tree]()
 
