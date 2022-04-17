@@ -217,15 +217,17 @@
 
 [226. Invert Binary Tree](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Tree/226.%20Invert%20Binary%20Tree) (E+)
 
-[617. Merge Two Binary Trees]()
+[617. Merge Two Binary Trees]() (M-)
 
-[572. Subtree of Another Tree]()
+[572. Subtree of Another Tree]() (M)
 
-[404. Sum of Left Leaves]()
+[404. Sum of Left Leaves]() (M-)
 
 [513. Find Bottom Left Tree Value]()
 
-[538. Convert BST to Greater Tree]()
+[508. Most Frequent Subtree Sum]()
+
+[250. Count Univalue Subtrees]()
 
 [530. Minimum Absolute Difference in BST]()
 
@@ -235,13 +237,13 @@
 
 - ```level order traversal```
   
-  [102. Binary Tree Level Order Traversal]() (M-)
+  [102. Binary Tree Level Order Traversal](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Tree/102.%20Binary%20Tree%20Level%20Order%20Traversal) (M-)
 
-  [103. Binary Tree Zigzag Level Order Traversal]() (M-)
+  [103. Binary Tree Zigzag Level Order Traversal](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Tree/103.%20Binary%20Tree%20Zigzag%20Level%20Order%20Traversal) (M-)
 
-  [107. Binary Tree Level Order Traversal II]() (M-)
+  [107. Binary Tree Level Order Traversal II](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Tree/107.%20Binary%20Tree%20Level%20Order%20Traversal%20II) (M-)
 
-  [637. Average of Levels in Binary Tree]() (M-)
+  [637. Average of Levels in Binary Tree](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Tree/637.%20Average%20of%20Levels%20in%20Binary%20Tree) (M-)
 
   [*958. Check Completeness of a Binary Tree](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Tree/958.%20Check%20Completeness%20of%20a%20Binary%20Tree) (M)
 
