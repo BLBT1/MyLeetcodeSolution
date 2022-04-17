@@ -213,11 +213,9 @@
 
 [*437. Path Sum III](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Tree/437.%20Path%20Sum%20III) (H-)
 
-[*1110. Delete Nodes And Return Forest](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Tree/1110.%20Delete%20Nodes%20And%20Return%20Forest) (M)
+[1110. Delete Nodes And Return Forest](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Tree/1110.%20Delete%20Nodes%20And%20Return%20Forest) (M)
 
-[958. Check Completeness of a Binary Tree]()
-
-[226. Invert Binary Tree]() (E+)
+[226. Invert Binary Tree](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Tree/226.%20Invert%20Binary%20Tree) (E+)
 
 [617. Merge Two Binary Trees]()
 
@@ -245,6 +243,8 @@
 
   [103. Binary Tree Zigzag Level Order Traversal]()
   
+  [*958. Check Completeness of a Binary Tree]()
+
   [*1245. Tree Diameter](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Tree/1245.%20Tree%20Diameter) (H+)
 
 - ```other traversals```
@@ -301,6 +301,8 @@
 
   [173. Binary Search Tree Iterator]()
 
+  [1586. Binary Search Tree Iterator II]()
+
   [99. Recover Binary Search Tree]()
 
   [96. Unique Binary Search Trees]()
@@ -337,7 +339,7 @@
 
   [1448. Count Good Nodes in Binary Tree]()
 
-  [124. Binary Tree Maximum Path Sum]()
+  [*124. Binary Tree Maximum Path Sum](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Tree/124.%20Binary%20Tree%20Maximum%20Path%20Sum) (M+)
 
   [1120. Maximum Average Subtree]()
 
