@@ -235,15 +235,15 @@
 
 - ```level order traversal```
   
-  [102. Binary Tree Level Order Traversal]() (E)
+  [102. Binary Tree Level Order Traversal]() (M-)
 
-  [107. Binary Tree Level Order Traversal II]()
+  [103. Binary Tree Zigzag Level Order Traversal]() (M-)
 
-  [637. Average of Levels in Binary Tree]()
+  [107. Binary Tree Level Order Traversal II]() (M-)
 
-  [103. Binary Tree Zigzag Level Order Traversal]()
-  
-  [*958. Check Completeness of a Binary Tree]()
+  [637. Average of Levels in Binary Tree]() (M-)
+
+  [*958. Check Completeness of a Binary Tree](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Tree/958.%20Check%20Completeness%20of%20a%20Binary%20Tree) (M)
 
   [*1245. Tree Diameter](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Tree/1245.%20Tree%20Diameter) (H+)
 
