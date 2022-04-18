@@ -223,11 +223,9 @@
 
 [404. Sum of Left Leaves](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Tree/404.%20Sum%20of%20Left%20Leaves) (M-)
 
-[508. Most Frequent Subtree Sum]() (M-)
+[508. Most Frequent Subtree Sum](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Tree/508.%20Most%20Frequent%20Subtree%20Sum) (M-)
 
 [250. Count Univalue Subtrees]()
-
-[530. Minimum Absolute Difference in BST]()
 
 [951. Flip Equivalent Binary Trees]()
 
@@ -247,7 +245,7 @@
 
   [*1245. Tree Diameter](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Tree/1245.%20Tree%20Diameter) (H+)
 
-  [513. Find Bottom Left Tree Value]() (M)
+  [513. Find Bottom Left Tree Value](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Tree/513.%20Find%20Bottom%20Left%20Tree%20Value) (M)
 
 - ```other traversals```
   
@@ -291,7 +289,7 @@
 
   [938. Range Sum of BST](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Tree/938.%20Range%20Sum%20of%20BST) (M)
 
-  [230. Kth Smallest Element in a BST]() (M-)
+  [230. Kth Smallest Element in a BST](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Tree/230.%20Kth%20Smallest%20Element%20in%20a%20BST) (M-)
 
   [653. Two Sum IV - Input is a BST]()
 
@@ -302,6 +300,8 @@
   [450. Delete Node in a BST]()
 
   [98. Validate Binary Search Tree]()
+
+  [530. Minimum Absolute Difference in BST]()
 
   [173. Binary Search Tree Iterator]()
 
