@@ -225,11 +225,11 @@
 
 [508. Most Frequent Subtree Sum](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Tree/508.%20Most%20Frequent%20Subtree%20Sum) (M-)
 
-[250. Count Univalue Subtrees]()
-
-[951. Flip Equivalent Binary Trees]()
+[*250. Count Univalue Subtrees](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Tree/250.%20Count%20Univalue%20Subtrees) (M)
 
 [563. Binary Tree Tilt](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Tree/563.%20Binary%20Tree%20Tilt) (M)
+
+[951. Flip Equivalent Binary Trees](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Tree/951.%20Flip%20Equivalent%20Binary%20Trees) (M)
 
 - ```level order traversal```
   
@@ -245,17 +245,19 @@
 
   [*1245. Tree Diameter](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Tree/1245.%20Tree%20Diameter) (H+)
 
+  [*314. Binary Tree Vertical Order Traversal]() (M+)
+
   [513. Find Bottom Left Tree Value](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Tree/513.%20Find%20Bottom%20Left%20Tree%20Value) (M)
 
 - ```other traversals```
   
-  [144. Binary Tree Preorder Traversal]() (E)
+  [*144. Binary Tree Preorder Traversal itr]() (M-)
 
-  [94. Binary Tree Inorder Traversal]() (E)
+  [*94. Binary Tree Inorder Traversal itr]() (M)
 
-  [145. Binary Tree Postorder Traversal]() (E)
+  [*145. Binary Tree Postorder Traversal itr]() (M-)
 
-  [314. Binary Tree Vertical Order Traversal]()
+  [987. Vertical Order Traversal of a Binary Tree]()
 
 - ```Serialize and Construct```
 
