@@ -383,6 +383,8 @@
 
 [682. Baseball Game](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Stack/682.%20Baseball%20Game) (E)
 
+[*1249. Minimum Remove to Make Valid Parentheses]() (M-)
+
 <br/><br>
 
 [Queue]()
