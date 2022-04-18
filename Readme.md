@@ -217,15 +217,13 @@
 
 [226. Invert Binary Tree](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Tree/226.%20Invert%20Binary%20Tree) (E+)
 
-[617. Merge Two Binary Trees]() (M-)
+[617. Merge Two Binary Trees](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Tree/617.%20Merge%20Two%20Binary%20Trees) (M-)
 
-[572. Subtree of Another Tree]() (M)
+[572. Subtree of Another Tree](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Tree/572.%20Subtree%20of%20Another%20Tree) (M)
 
-[404. Sum of Left Leaves]() (M-)
+[404. Sum of Left Leaves](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Tree/404.%20Sum%20of%20Left%20Leaves) (M-)
 
-[513. Find Bottom Left Tree Value]()
-
-[508. Most Frequent Subtree Sum]()
+[508. Most Frequent Subtree Sum]() (M-)
 
 [250. Count Univalue Subtrees]()
 
@@ -248,6 +246,8 @@
   [*958. Check Completeness of a Binary Tree](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Tree/958.%20Check%20Completeness%20of%20a%20Binary%20Tree) (M)
 
   [*1245. Tree Diameter](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Tree/1245.%20Tree%20Diameter) (H+)
+
+  [513. Find Bottom Left Tree Value]() (M)
 
 - ```other traversals```
   
@@ -290,6 +290,8 @@
   [501. Find Mode in Binary Search Tree]()
 
   [938. Range Sum of BST](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Tree/938.%20Range%20Sum%20of%20BST) (M)
+
+  [230. Kth Smallest Element in a BST]() (M-)
 
   [653. Two Sum IV - Input is a BST]()
 
