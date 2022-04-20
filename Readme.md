@@ -203,7 +203,7 @@
 
 [*110. Balanced Binary Tree](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Tree/110.%20Balanced%20Binary%20Tree) (M-)
 
-[101. Symmetric Tree](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Tree/101.%20Symmetric%20Tree) (M_)
+[101. Symmetric Tree](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Tree/101.%20Symmetric%20Tree) (M-)
 
 [*543. Diameter of Binary Tree](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Tree/543.%20Diameter%20of%20Binary%20Tree) (M-)
 
@@ -245,17 +245,17 @@
 
   [*1245. Tree Diameter](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Tree/1245.%20Tree%20Diameter) (H+)
 
-  [*314. Binary Tree Vertical Order Traversal]() (M+)
+  [*314. Binary Tree Vertical Order Traversal](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Tree/314.%20Binary%20Tree%20Vertical%20Order%20Traversal) (M+)
 
   [513. Find Bottom Left Tree Value](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Tree/513.%20Find%20Bottom%20Left%20Tree%20Value) (M)
 
 - ```other traversals```
   
-  [*144. Binary Tree Preorder Traversal itr]() (M-)
+  [*144. Binary Tree Preorder Traversal itr](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Tree/144.%20Binary%20Tree%20Preorder%20Traversal) (M-)
 
-  [*94. Binary Tree Inorder Traversal itr]() (M)
+  [*94. Binary Tree Inorder Traversal itr](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Tree/94.%20Binary%20Tree%20Inorder%20Traversal) (M)
 
-  [*145. Binary Tree Postorder Traversal itr]() (M-)
+  [*145. Binary Tree Postorder Traversal itr](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Tree/145.%20Binary%20Tree%20Postorder%20Traversal) (M-)
 
   [987. Vertical Order Traversal of a Binary Tree]()
 
@@ -293,6 +293,12 @@
 
   [230. Kth Smallest Element in a BST](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Tree/230.%20Kth%20Smallest%20Element%20in%20a%20BST) (M-)
 
+  [*99. Recover Binary Search Tree]() (M+)
+
+  [*173. Binary Search Tree Iterator]() (M+)
+
+  [*1586. Binary Search Tree Iterator II]() (H)
+  
   [653. Two Sum IV - Input is a BST]()
 
   [*669. Trim a Binary Search Tree]()
@@ -304,12 +310,6 @@
   [98. Validate Binary Search Tree]()
 
   [530. Minimum Absolute Difference in BST]()
-
-  [173. Binary Search Tree Iterator]()
-
-  [1586. Binary Search Tree Iterator II]()
-
-  [99. Recover Binary Search Tree]()
 
   [96. Unique Binary Search Trees]()
 
@@ -383,7 +383,7 @@
 
 [682. Baseball Game](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Stack/682.%20Baseball%20Game) (E)
 
-[*1249. Minimum Remove to Make Valid Parentheses]() (M-)
+[*1249. Minimum Remove to Make Valid Parentheses](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Stack/1249.%20Minimum%20Remove%20to%20Make%20Valid%20Parentheses) (M-)
 
 <br/><br>
 
