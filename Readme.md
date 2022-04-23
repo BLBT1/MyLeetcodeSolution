@@ -265,23 +265,23 @@
 
 - ```Serialize and Construct```
 
-  [*297. Serialize and Deserialize Binary Tree]() (M+)
+  [*297. Serialize and Deserialize Binary Tree](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Tree/297.%20Serialize%20and%20Deserialize%20Binary%20Tree) (M+)
 
-  [*428. Serialize and Deserialize N-ary Tree]() (H)
+  [*428. Serialize and Deserialize N-ary Tree](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Tree/428.%20Serialize%20and%20Deserialize%20N-ary%20Tree) (H)
 
-  [*449. Serialize and Deserialize BST]() (H)
+  [*449. Serialize and Deserialize BST](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Tree/449.%20Serialize%20and%20Deserialize%20BST) (H)
 
-  [1008. Construct Binary Search Tree from Preorder Traversal]() (M)
+  [1008. Construct Binary Search Tree from Preorder Traversal](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Tree/1008.%20Construct%20Binary%20Search%20Tree%20from%20Preorder%20Traversal) (M)
 
-  [*105. Construct Binary Tree from Preorder and Inorder Traversal]() (M+)
+  [*105. Construct Binary Tree from Preorder and Inorder Traversal](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Tree/105.%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal) (M+)
 
-  [106. Construct Binary Tree from Inorder and Postorder Traversal]() (M+)
+  [106. Construct Binary Tree from Inorder and Postorder Traversal](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Tree/106.%20Construct%20Binary%20Tree%20from%20Inorder%20and%20Postorder%20Traversal) (M+)
 
-  [889. Construct Binary Tree from Preorder and Postorder Traversal]() (H)
+  [889. Construct Binary Tree from Preorder and Postorder Traversal](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Tree/889.%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Postorder%20Traversal) (H)
 
   [536. Construct Binary Tree from String]()
   
-  [426. Convert Binary Search Tree to Sorted Doubly Linked List]() (M)
+  [426. Convert Binary Search Tree to Sorted Doubly Linked List](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Tree/426.%20Convert%20Binary%20Search%20Tree%20to%20Sorted%20Doubly%20Linked%20List) (M)
 
   [109. Convert Sorted List to Binary Search Tree]()
 
@@ -291,9 +291,9 @@
 
   [700. Search in a Binary Search Tree](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Tree/700.%20Search%20in%20a%20Binary%20Search%20Tree) (E-)
 
-  [270. Closest Binary Search Tree Value]() (M-)
+  [270. Closest Binary Search Tree Value](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Tree/270.%20Closest%20Binary%20Search%20Tree%20Value) (M-)
   
-  [*450. Delete Node in a BST]() (M+)
+  [*450. Delete Node in a BST](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Tree/450.%20Delete%20Node%20in%20a%20BST) (M+)
   
   [538. Convert BST to Greater Tree](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Tree/538.%20Convert%20BST%20to%20Greater%20Tree) (M)
   
@@ -408,7 +408,9 @@
 <br/></bar>
 
 [Hashmap]()
-[*705. Design HashSet]() (M-)
+[*705. Design HashSet](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Hashmap/705.%20Design%20HashSet) (M)
+
+[706. Design HashMap]() (M)
 
 <br/></br>
 [Trie(Prefix Tree)](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Trie)
