@@ -233,6 +233,24 @@
 
 [199. Binary Tree Right Side View]()
 
+[863. All Nodes Distance K in Binary Tree]()
+
+[742. Closest Leaf in a Binary Tree]()
+
+[814. Binary Tree Pruning]()
+
+[298. Binary Tree Longest Consecutive Sequence]()
+
+[545. Boundary of Binary Tree]()
+
+[919. Complete Binary Tree Inserter]()
+
+[1161. Maximum Level Sum of a Binary Tree]()
+
+[662. Maximum Width of Binary Tree]()
+
+[979. Distribute Coins in Binary Tree]()
+
 [1522. Diameter of N-Ary Tree]()
 
 - ```level order traversal```
@@ -285,6 +303,8 @@
 
   [109. Convert Sorted List to Binary Search Tree]()
 
+  [108. Convert Sorted Array to Binary Search Tree]()
+
   [114. Flatten Binary Tree to Linked List]()
 
 - ```BST```
@@ -294,6 +314,14 @@
   [270. Closest Binary Search Tree Value](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Tree/270.%20Closest%20Binary%20Search%20Tree%20Value) (M-)
   
   [*450. Delete Node in a BST](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Tree/450.%20Delete%20Node%20in%20a%20BST) (M+)
+  
+  [98. Validate Binary Search Tree]()
+  
+  [1038. Binary Search Tree to Greater Sum Tree]()
+  
+  [*669. Trim a Binary Search Tree]()
+  
+  [1382. Balance a Binary Search Tree]()
   
   [538. Convert BST to Greater Tree](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Tree/538.%20Convert%20BST%20to%20Greater%20Tree) (M)
   
@@ -313,10 +341,6 @@
   
   [653. Two Sum IV - Input is a BST]()
 
-  [*669. Trim a Binary Search Tree]()
-  
-  [98. Validate Binary Search Tree]()
-
   [530. Minimum Absolute Difference in BST]()
 
   [96. Unique Binary Search Trees]()
@@ -326,8 +350,6 @@
   [108. Convert Sorted Array to Binary Search Tree]()
 
   [285. Inorder Successor in BST]()
-
-  [1382. Balance a Binary Search Tree]()
 
 - ```LCA```
 
@@ -422,6 +444,8 @@
 [Math](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Math)
 
 [31. Next Permutation](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Math/31.%20Next%20Permutation) (H)
+
+[204. Count Primes]() (M)
 
 [1290. Convert Binary Number in a Linked List to Integer](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Math/1290.%20Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer) (E)
 
