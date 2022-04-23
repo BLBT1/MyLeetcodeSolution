@@ -231,6 +231,10 @@
 
 [951. Flip Equivalent Binary Trees](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Tree/951.%20Flip%20Equivalent%20Binary%20Trees) (M)
 
+[199. Binary Tree Right Side View]()
+
+[1522. Diameter of N-Ary Tree]()
+
 - ```level order traversal```
   
   [102. Binary Tree Level Order Traversal](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Tree/102.%20Binary%20Tree%20Level%20Order%20Traversal) (M-)
@@ -261,21 +265,25 @@
 
 - ```Serialize and Construct```
 
-  [297. Serialize and Deserialize Binary Tree]()
+  [*297. Serialize and Deserialize Binary Tree]() (M+)
 
-  [428. Serialize and Deserialize N-ary Tree]()
+  [*428. Serialize and Deserialize N-ary Tree]() (H)
 
-  [449. Serialize and Deserialize BST]()
+  [*449. Serialize and Deserialize BST]() (H)
 
-  [105. Construct Binary Tree from Preorder and Inorder Traversal]()
+  [1008. Construct Binary Search Tree from Preorder Traversal]() (M)
 
-  [106. Construct Binary Tree from Inorder and Postorder Traversal]()
+  [*105. Construct Binary Tree from Preorder and Inorder Traversal]() (M+)
 
-  [889. Construct Binary Tree from Preorder and Postorder Traversal]()
+  [106. Construct Binary Tree from Inorder and Postorder Traversal]() (M+)
+
+  [889. Construct Binary Tree from Preorder and Postorder Traversal]() (H)
+
+  [536. Construct Binary Tree from String]()
   
-  [109. Convert Sorted List to Binary Search Tree]()
+  [426. Convert Binary Search Tree to Sorted Doubly Linked List]() (M)
 
-  [426. Convert Binary Search Tree to Sorted Doubly Linked List]()
+  [109. Convert Sorted List to Binary Search Tree]()
 
   [114. Flatten Binary Tree to Linked List]()
 
@@ -283,6 +291,10 @@
 
   [700. Search in a Binary Search Tree](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Tree/700.%20Search%20in%20a%20Binary%20Search%20Tree) (E-)
 
+  [270. Closest Binary Search Tree Value]() (M-)
+  
+  [*450. Delete Node in a BST]() (M+)
+  
   [538. Convert BST to Greater Tree](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Tree/538.%20Convert%20BST%20to%20Greater%20Tree) (M)
   
   [*897. Increasing Order Search Tree](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Tree/897.%20Increasing%20Order%20Search%20Tree) (M+)
@@ -293,20 +305,16 @@
 
   [230. Kth Smallest Element in a BST](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Tree/230.%20Kth%20Smallest%20Element%20in%20a%20BST) (M-)
 
-  [*99. Recover Binary Search Tree]() (M+)
+  [*99. Recover Binary Search Tree](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Tree/99.%20Recover%20Binary%20Search%20Tree) (M+)
 
-  [*173. Binary Search Tree Iterator]() (M+)
+  [*173. Binary Search Tree Iterator](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Tree/173.%20Binary%20Search%20Tree%20Iterator) (M+)
 
-  [*1586. Binary Search Tree Iterator II]() (H)
+  [*1586. Binary Search Tree Iterator II](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Tree/1586.%20Binary%20Search%20Tree%20Iterator%20II) (H)
   
   [653. Two Sum IV - Input is a BST]()
 
   [*669. Trim a Binary Search Tree]()
   
-  [270. Closest Binary Search Tree Value]()
-
-  [450. Delete Node in a BST]()
-
   [98. Validate Binary Search Tree]()
 
   [530. Minimum Absolute Difference in BST]()
@@ -397,6 +405,11 @@
 
 [1046. Last Stone Weight](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Priority_queue/1046.%20Last%20Stone%20Weight) (E)
 
+<br/></bar>
+
+[Hashmap]()
+[*705. Design HashSet]() (M-)
+
 <br/></br>
 [Trie(Prefix Tree)](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Trie)
 
@@ -415,6 +428,8 @@
 [1260. Shift 2D Grid](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Math/1260.%20Shift%202D%20Grid) (H)
 
 [528. Random Pick with Weight]()
+
+2235. Add Two Integers (H+)
 
 <br/><br>
 
