@@ -445,7 +445,7 @@
 
 [31. Next Permutation](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Math/31.%20Next%20Permutation) (H)
 
-[204. Count Primes]() (M)
+[204. Count Primes](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Math/204.%20Count%20Primes) (M+)
 
 [1290. Convert Binary Number in a Linked List to Integer](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Math/1290.%20Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer) (E)
 
