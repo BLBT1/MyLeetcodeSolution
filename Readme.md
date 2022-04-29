@@ -129,6 +129,8 @@
 
   [1248. Count Number of Nice Subarrays](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Two%20Pointers/1248.%20Count%20Number%20of%20Nice%20Subarrays) (H)
 
+  [485. Max Consecutive Ones]() (E)
+
   [1004. Max Consecutive Ones III](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Two%20Pointers/1004.%20Max%20Consecutive%20Ones%20III) (M-)
 
   [1052. Grumpy Bookstore Owner](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Two%20Pointers/1052.%20Grumpy%20Bookstore%20Owner) (M)
