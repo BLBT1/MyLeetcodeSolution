@@ -129,7 +129,7 @@
 
   [1248. Count Number of Nice Subarrays](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Two%20Pointers/1248.%20Count%20Number%20of%20Nice%20Subarrays) (H)
 
-  [485. Max Consecutive Ones]() (E)
+  [485. Max Consecutive Ones](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Two%20Pointers/485.%20Max%20Consecutive%20Ones) (E)
 
   [1004. Max Consecutive Ones III](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Two%20Pointers/1004.%20Max%20Consecutive%20Ones%20III) (M-)
 
@@ -297,11 +297,11 @@
 
   [106. Construct Binary Tree from Inorder and Postorder Traversal](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Tree/106.%20Construct%20Binary%20Tree%20from%20Inorder%20and%20Postorder%20Traversal) (M+)
 
-  [889. Construct Binary Tree from Preorder and Postorder Traversal](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Tree/889.%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Postorder%20Traversal) (H)
+  [*889. Construct Binary Tree from Preorder and Postorder Traversal](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Tree/889.%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Postorder%20Traversal) (H)
 
   [536. Construct Binary Tree from String]()
   
-  [426. Convert Binary Search Tree to Sorted Doubly Linked List](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Tree/426.%20Convert%20Binary%20Search%20Tree%20to%20Sorted%20Doubly%20Linked%20List) (M)
+  [*426. Convert Binary Search Tree to Sorted Doubly Linked List](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Tree/426.%20Convert%20Binary%20Search%20Tree%20to%20Sorted%20Doubly%20Linked%20List) (M)
 
   [109. Convert Sorted List to Binary Search Tree]()
 
@@ -458,6 +458,12 @@
 [528. Random Pick with Weight]()
 
 2235. Add Two Integers (H+)
+
+<br/><br>
+
+[String]()
+
+[*844. Backspace String Compare]() (M+)
 
 <br/><br>
 
