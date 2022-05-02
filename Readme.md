@@ -105,6 +105,8 @@
 
 [75. Sort Colors](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Two%20Pointers/75.%20Sort%20Colors) (M-)
 
+[905. Sort Array By Parity]() (E)
+
   ```Sliding Windows```
   
   ```guan神：一边指针正常移动，另一边指针伺机而动```
