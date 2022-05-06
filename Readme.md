@@ -105,7 +105,7 @@
 
 [75. Sort Colors](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Two%20Pointers/75.%20Sort%20Colors) (M-)
 
-[905. Sort Array By Parity]() (E)
+[905. Sort Array By Parity](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Two%20Pointers/905.%20Sort%20Array%20By%20Parity) (E)
 
   ```Sliding Windows```
   
@@ -307,8 +307,6 @@
 
   [109. Convert Sorted List to Binary Search Tree]()
 
-  [108. Convert Sorted Array to Binary Search Tree]()
-
   [114. Flatten Binary Tree to Linked List]()
 
 - ```BST```
@@ -319,7 +317,11 @@
   
   [*450. Delete Node in a BST](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Tree/450.%20Delete%20Node%20in%20a%20BST) (M+)
   
-  [98. Validate Binary Search Tree]()
+  [*98. Validate Binary Search Tree]() (M)
+  
+  [*173. Binary Search Tree Iterator](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Tree/173.%20Binary%20Search%20Tree%20Iterator) (M+)
+  
+  [*99. Recover Binary Search Tree](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Tree/99.%20Recover%20Binary%20Search%20Tree) (M+)
   
   [1038. Binary Search Tree to Greater Sum Tree]()
   
@@ -336,10 +338,6 @@
   [938. Range Sum of BST](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Tree/938.%20Range%20Sum%20of%20BST) (M)
 
   [230. Kth Smallest Element in a BST](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Tree/230.%20Kth%20Smallest%20Element%20in%20a%20BST) (M-)
-
-  [*99. Recover Binary Search Tree](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Tree/99.%20Recover%20Binary%20Search%20Tree) (M+)
-
-  [*173. Binary Search Tree Iterator](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Tree/173.%20Binary%20Search%20Tree%20Iterator) (M+)
 
   [*1586. Binary Search Tree Iterator II](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Tree/1586.%20Binary%20Search%20Tree%20Iterator%20II) (H)
   
