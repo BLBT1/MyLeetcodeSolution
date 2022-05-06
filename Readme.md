@@ -317,7 +317,7 @@
   
   [*450. Delete Node in a BST](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Tree/450.%20Delete%20Node%20in%20a%20BST) (M+)
   
-  [*98. Validate Binary Search Tree]() (M)
+  [*98. Validate Binary Search Tree](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Tree/98.%20Validate%20Binary%20Search%20Tree) (M)
   
   [*173. Binary Search Tree Iterator](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Tree/173.%20Binary%20Search%20Tree%20Iterator) (M+)
   
@@ -463,7 +463,7 @@
 
 [String]()
 
-[*844. Backspace String Compare]() (M+)
+[*844. Backspace String Compare](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/String/844.%20Backspace%20String%20Compare) (M+)
 
 <br/><br>
 
