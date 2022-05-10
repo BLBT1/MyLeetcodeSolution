@@ -301,7 +301,7 @@
 
   [*889. Construct Binary Tree from Preorder and Postorder Traversal](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Tree/889.%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Postorder%20Traversal) (H)
 
-  [536. Construct Binary Tree from String]()
+  [*536. Construct Binary Tree from String]() (H-)
   
   [*426. Convert Binary Search Tree to Sorted Doubly Linked List](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Tree/426.%20Convert%20Binary%20Search%20Tree%20to%20Sorted%20Doubly%20Linked%20List) (M)
 
@@ -323,13 +323,17 @@
   
   [*99. Recover Binary Search Tree](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Tree/99.%20Recover%20Binary%20Search%20Tree) (M+)
   
-  [1038. Binary Search Tree to Greater Sum Tree]()
+  [*108. Convert Sorted Array to Binary Search Tree]() (M-)
   
-  [*669. Trim a Binary Search Tree]()
+  [1382. Balance a Binary Search Tree]() (M)
   
-  [1382. Balance a Binary Search Tree]()
+  [*96. Unique Binary Search Trees]() (M+)
+
+  [*95. Unique Binary Search Trees II]() (H)
   
-  [538. Convert BST to Greater Tree](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Tree/538.%20Convert%20BST%20to%20Greater%20Tree) (M)
+  [*669. Trim a Binary Search Tree]() (M-)
+  
+  [538/1038. Convert BST to Greater Tree](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Tree/538.%20Convert%20BST%20to%20Greater%20Tree) (M)
   
   [*897. Increasing Order Search Tree](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Tree/897.%20Increasing%20Order%20Search%20Tree) (M+)
 
@@ -341,35 +345,29 @@
 
   [*1586. Binary Search Tree Iterator II](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Tree/1586.%20Binary%20Search%20Tree%20Iterator%20II) (H)
   
+  [530/783. Minimum Absolute Difference in BST]() (E+)
+
   [653. Two Sum IV - Input is a BST]()
-
-  [530. Minimum Absolute Difference in BST]()
-
-  [96. Unique Binary Search Trees]()
-
-  [95. Unique Binary Search Trees II]()
-
-  [108. Convert Sorted Array to Binary Search Tree]()
 
   [285. Inorder Successor in BST]()
 
 - ```LCA```
 
-  [235. Lowest Common Ancestor of a Binary Search Tree]()
+  [235. Lowest Common Ancestor of a Binary Search Tree]() (E+)
 
-  [236. Lowest Common Ancestor of a Binary Tree]()
+  [236. Lowest Common Ancestor of a Binary Tree]() (M)
 
-  [1644. Lowest Common Ancestor of a Binary Tree II]()
+  [*1644. Lowest Common Ancestor of a Binary Tree II]() (M)
 
-  [1650. Lowest Common Ancestor of a Binary Tree III]()
+  [1650. Lowest Common Ancestor of a Binary Tree III]() (M)
 
-  [1676. Lowest Common Ancestor of a Binary Tree IV]()
+  [*1676. Lowest Common Ancestor of a Binary Tree IV]() (M+)
+
+  [*865/1123. Smallest Subtree with all the Deepest Nodes]() (M+)
 
   [1740. Find Distance in a Binary Tree]()
 
-  [865. Smallest Subtree with all the Deepest Nodes]()
-
-  [1123. Lowest Common Ancestor of Deepest Leaves]()
+  [2096. Step-By-Step Directions From a Binary Tree Node to Another]()
 
 - ```信息传递```
 
@@ -411,15 +409,33 @@
   [152.Maximum Product Subarray](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Dynamic%20Programming/152%20max%20product%20subarray) (M+)
 <br/></br>
 
+[Prefix Sum]()
+
+[560. Subarray Sum Equals K]()
+
+[974. Subarray Sums Divisible by K]()
+
+[523. Continuous Subarray Sum]()
+
+[525. Contiguous Array]()
+
+[370. Range Addition]()
+
+[303. Range Sum Query - Immutable]()
+
+[304. Range Sum Query 2D - Immutable]()
+
+[209. Minimum Size Subarray Sum]()
+
+[862. Shortest Subarray with Sum at Least K]()
+
+<br/></br>
+
 [Stack]()
 
 [682. Baseball Game](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Stack/682.%20Baseball%20Game) (E)
 
 [*1249. Minimum Remove to Make Valid Parentheses](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Stack/1249.%20Minimum%20Remove%20to%20Make%20Valid%20Parentheses) (M-)
-
-<br/><br>
-
-[Queue]()
 
 <br/><br>
 
@@ -432,6 +448,7 @@
 <br/></bar>
 
 [Hashmap]()
+
 [*705. Design HashSet](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Hashmap/705.%20Design%20HashSet) (M)
 
 [706. Design HashMap]() (M)
