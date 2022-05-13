@@ -411,15 +411,15 @@
 
 [Prefix Sum]()
 
-[1480. Running Sum of 1d Array]()
+[1480. Running Sum of 1d Array]() (E-)
 
-[560. Subarray Sum Equals K]()
+[*560. Subarray Sum Equals K]() (M+)
 
-[528. Random Pick with Weight]()
+[*528. Random Pick with Weight]() (M+)
 
 [238. Product of Array Except Self]()
 
-[974. Subarray Sums Divisible by K]()
+[*974. Subarray Sums Divisible by K]() (M+)
 
 [523. Continuous Subarray Sum]()
 
