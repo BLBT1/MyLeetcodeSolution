@@ -421,11 +421,11 @@
 
 [*974. Subarray Sums Divisible by K]() (M+)
 
-[523. Continuous Subarray Sum]()
+[*523. Continuous Subarray Sum]() (H-)
 
-[525. Contiguous Array]()
+[*525. Contiguous Array]() (M+)
 
-[930. Binary Subarrays With Sum]()
+[930. Binary Subarrays With Sum]() (M)
 
 [370. Range Addition]()
 
