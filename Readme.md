@@ -235,8 +235,6 @@
 
 [951. Flip Equivalent Binary Trees](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Tree/951.%20Flip%20Equivalent%20Binary%20Trees) (M)
 
-[199. Binary Tree Right Side View]()
-
 [863. All Nodes Distance K in Binary Tree]()
 
 [742. Closest Leaf in a Binary Tree]()
@@ -274,6 +272,8 @@
   [*314. Binary Tree Vertical Order Traversal](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Tree/314.%20Binary%20Tree%20Vertical%20Order%20Traversal) (M+)
 
   [513. Find Bottom Left Tree Value](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Tree/513.%20Find%20Bottom%20Left%20Tree%20Value) (M)
+
+  [199. Binary Tree Right Side View]() (M)
 
 - ```other traversals```
   
