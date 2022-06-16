@@ -273,7 +273,7 @@
 
   [513. Find Bottom Left Tree Value](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Tree/513.%20Find%20Bottom%20Left%20Tree%20Value) (M)
 
-  [199. Binary Tree Right Side View]() (M)
+  [199. Binary Tree Right Side View](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Tree/199.%20Binary%20Tree%20Right%20Side%20View) (M)
 
 - ```other traversals```
   
@@ -411,27 +411,27 @@
 
 [Prefix Sum]()
 
-[1480. Running Sum of 1d Array]() (E-)
+[1480. Running Sum of 1d Array](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Prefix%20Sum/1480.%20Running%20Sum%20of%201d%20Array) (E-)
 
-[*560. Subarray Sum Equals K]() (M+)
+[*560. Subarray Sum Equals K](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Prefix%20Sum/560.%20Subarray%20Sum%20Equals%20K) (M+)
 
-[*528. Random Pick with Weight]() (M+)
+[*528. Random Pick with Weight](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Prefix%20Sum/528.%20Random%20Pick%20with%20Weight) (M+)
 
 [238. Product of Array Except Self]()
 
-[*974. Subarray Sums Divisible by K]() (M+)
+[*974. Subarray Sums Divisible by K](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Prefix%20Sum/974.%20Subarray%20Sums%20Divisible%20by%20K) (M+)
 
-[*523. Continuous Subarray Sum]() (H-)
+[*523. Continuous Subarray Sum](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Prefix%20Sum/523.%20Continuous%20Subarray%20Sum) (H-)
 
-[*525. Contiguous Array]() (M+)
+[*525. Contiguous Array](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Prefix%20Sum/525.%20Contiguous%20Array) (M+)
 
-[930. Binary Subarrays With Sum]() (M)
+[930. Binary Subarrays With Sum](https://github.com/BLBT1/MyLeetcodeSolution/blob/master/Prefix%20Sum/930.%20Binary%20Subarrays%20With%20Sum/930.%20Binary%20Subarrays%20With%20Sum.cpp) (M)
 
-[370. Range Addition]()
+[370. Range Addition]() (M+)
 
-[303. Range Sum Query - Immutable]()
+[303. Range Sum Query - Immutable]() (E)
 
-[304. Range Sum Query 2D - Immutable]()
+[*304. Range Sum Query 2D - Immutable]() (M+)
 
 [862. Shortest Subarray with Sum at Least K]()
 
@@ -452,6 +452,18 @@
 [682. Baseball Game](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Stack/682.%20Baseball%20Game) (E)
 
 [*1249. Minimum Remove to Make Valid Parentheses](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Stack/1249.%20Minimum%20Remove%20to%20Make%20Valid%20Parentheses) (M-)
+
+- ```monotonic stack```
+  
+  [*496. Next Greater Element I]() (M)
+  
+  [*503. Next Greater Element II]() (M+)
+
+  [1019. Next Greater Node In Linked List]() (M)
+  
+  [739. Daily Temperatures]() (M)
+
+  [316/1081. Remove Duplicate Letters]() (H)
 
 <br/><br>
 
