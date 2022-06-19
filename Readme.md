@@ -463,7 +463,39 @@
   
   [739. Daily Temperatures]() (M)
 
-  [316/1081. Remove Duplicate Letters]() (H)
+  [*316/1081. Remove Duplicate Letters]() (H)
+
+  [402. Remove K Digits]() (M+)
+
+  [42. Trapping Rain Water]() (H)
+  
+  [*84. Largest Rectangle in Histogram]() (H)
+
+  [85. Maximal Rectangle]()
+
+  [*1856. Maximum Subarray Min-Product]() (H+)
+
+  [1762. Buildings With an Ocean View]() (M-)
+
+  [*1944. Number of Visible People in a Queue]() (M+)
+
+  [853. Car Fleet]()
+
+  [1673. Find the Most Competitive Subsequence]()
+
+  [*456. 132 Pattern]() (H)
+
+- ```parse expression```
+  
+  [71. Simplify Path]()
+
+  [224. Basic Calculator]()
+
+  [227. Basic Calculator II]()
+
+  [772. Basic Calculator III]()
+  
+  [394. Decode String]()
 
 <br/><br>
 
@@ -519,6 +551,12 @@
 <br/><br>
 
 [Design]()
+
+<br/><br>
+
+[Sorting]()
+
+[853. Car Fleet]() (M+)
 
 <br/><br>
 
