@@ -275,6 +275,8 @@
 
   [199. Binary Tree Right Side View](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Tree/199.%20Binary%20Tree%20Right%20Side%20View) (M)
 
+  [111. Minimum Depth of Binary Tree]() (E+)
+
 - ```other traversals```
   
   [*144. Binary Tree Preorder Traversal itr](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Tree/144.%20Binary%20Tree%20Preorder%20Traversal) (M-)
@@ -384,6 +386,12 @@
   [549. Binary Tree Longest Consecutive Sequence II]()
 <br/><br>
 
+[BFS]()
+
+[1293. Shortest Path in a Grid with Obstacles Elimination]()
+
+<br/><br>
+
 [DFS](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Dfs)
 
 - ```dfs + memo```
@@ -427,11 +435,11 @@
 
 [930. Binary Subarrays With Sum](https://github.com/BLBT1/MyLeetcodeSolution/blob/master/Prefix%20Sum/930.%20Binary%20Subarrays%20With%20Sum/930.%20Binary%20Subarrays%20With%20Sum.cpp) (M)
 
-[370. Range Addition]() (M+)
+[370. Range Addition](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Prefix%20Sum/370.%20Range%20Addition) (M+)
 
-[303. Range Sum Query - Immutable]() (E)
+[303. Range Sum Query - Immutable](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Prefix%20Sum/303.%20Range%20Sum%20Query%20-%20Immutable) (E)
 
-[*304. Range Sum Query 2D - Immutable]() (M+)
+[*304. Range Sum Query 2D - Immutable](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Prefix%20Sum/304.%20Range%20Sum%20Query%202D%20-%20Immutable) (M+)
 
 [862. Shortest Subarray with Sum at Least K]()
 
@@ -455,47 +463,47 @@
 
 - ```monotonic stack```
   
-  [*496. Next Greater Element I]() (M)
+  [*496. Next Greater Element I](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Stack/496.%20Next%20Greater%20Element%20I) (M)
   
-  [*503. Next Greater Element II]() (M+)
+  [*503. Next Greater Element II](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Stack/503.%20Next%20Greater%20Element%20II) (M+)
 
-  [1019. Next Greater Node In Linked List]() (M)
+  [1019. Next Greater Node In Linked List](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Stack/1019.%20Next%20Greater%20Node%20In%20Linked%20List) (M)
   
-  [739. Daily Temperatures]() (M)
+  [739. Daily Temperatures](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Stack/739.%20Daily%20Temperatures) (M)
 
-  [*316/1081. Remove Duplicate Letters]() (H)
+  [*316/1081. Remove Duplicate Letters](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Stack/316.%20Remove%20Duplicate%20Letters) (H)
 
-  [402. Remove K Digits]() (M+)
+  [402. Remove K Digits](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Stack/402.%20Remove%20K%20Digits) (M+)
 
-  [42. Trapping Rain Water]() (H)
+  [*1673. Find the Most Competitive Subsequence]() (M+)
+
+  [42. Trapping Rain Water](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Stack/42.%20Trapping%20Rain%20Water) (H)
   
-  [*84. Largest Rectangle in Histogram]() (H)
+  [*84. Largest Rectangle in Histogram](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Stack/84.%20Largest%20Rectangle%20in%20Histogram) (H)
 
   [85. Maximal Rectangle]()
 
-  [*1856. Maximum Subarray Min-Product]() (H+)
+  [*1856. Maximum Subarray Min-Product](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Stack/1856.%20Maximum%20Subarray%20Min-Product) (H+)
 
-  [1762. Buildings With an Ocean View]() (M-)
+  [1762. Buildings With an Ocean View](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Stack/1762.%20Buildings%20With%20an%20Ocean%20View) (M-)
 
-  [*1944. Number of Visible People in a Queue]() (M+)
+  [*1944. Number of Visible People in a Queue](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Stack/1944.%20Number%20of%20Visible%20People%20in%20a%20Queue) (M+)
 
-  [853. Car Fleet]()
-
-  [1673. Find the Most Competitive Subsequence]()
-
-  [*456. 132 Pattern]() (H)
+  [*456. 132 Pattern](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Stack/456.%20132%20Pattern) (H)
 
 - ```parse expression```
   
-  [71. Simplify Path]()
+  [*71. Simplify Path]() (M+)
 
-  [224. Basic Calculator]()
+  [*224. Basic Calculator]() (H)
 
-  [227. Basic Calculator II]()
+  [*227. Basic Calculator II]() (M+)
 
-  [772. Basic Calculator III]()
+  [*772. Basic Calculator III]() (H)
   
-  [394. Decode String]()
+  [394. Decode String]() (M)
+
+  [*726. Number of Atoms]() (H+)
 
 <br/><br>
 
@@ -556,7 +564,7 @@
 
 [Sorting]()
 
-[853. Car Fleet]() (M+)
+[853. Car Fleet](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Sorting/853.%20Car%20Fleet) (M+)
 
 <br/><br>
 
