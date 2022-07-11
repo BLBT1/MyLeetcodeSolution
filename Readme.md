@@ -388,11 +388,71 @@
 
 [BFS]()
 
-[1293. Shortest Path in a Grid with Obstacles Elimination]()
+[200. Number of Islands]() (M-)
+
+[*127. Word Ladder]() (H-)
+
+[*126. Word Ladder II]() (H)
+
+[490. The Maze]() (M)
+
+[*934. Shortest Bridge]() (H-)
+
+[994. Rotting Oranges]() (M+)
+
+[130. Surrounded Regions]() (M)
+
+[*529. Minesweeper]() (M+)
+
+[339. Nested List Weight Sum]() (M-)
+
+[1091. Shortest Path in Binary Matrix]() (M+)
+
+[*675. Cut Off Trees for Golf Event]() (M+)
+
+[*1293. Shortest Path in a Grid with Obstacles Elimination]() (H)
+
+[*785. Is Graph Bipartite?]() (M+)
+
+[815. Bus Routes]() (H)
+
+[928. Minimize Malware Spread II]()
+
+[1263. Minimum Moves to Move a Box to Their Target Location]()
+
+[1311. Get Watched Videos by Your Friends]()
+
+[1559. Detect Cycles in 2D Grid]()
+
+[1345. Jump Game IV]()
+
+- ```Dijkstra (BFS+PQ)```
+
+  [*505. The Maze II]() (H-)
 
 <br/><br>
 
 [DFS](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Dfs)
+
+[*695. Max Area of Island]() (E+)
+
+[*547. Number of Provinces]() (M-)
+
+[*417. Pacific Atlantic Water Flow]() (M+)
+
+[*694. Number of Distinct Islands]() (H)
+
+[489. Robot Room Cleaner]()
+
+[46. Permutations]()
+
+[77. Combinations]()
+
+[79. Word Search]()
+
+[51. N-Queens]()
+
+[721. Accounts Merge]()
 
 - ```dfs + memo```
 
@@ -409,6 +469,8 @@
 [Dynamic Programming](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Dynamic%20Programming)
 
 [221. Maximal Square](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Dynamic%20Programming/221.%20max%20square) (H-)
+
+[746. Min Cost Climbing Stairs]() (E)
 
 - ```Kadane's Algorithm```
 
@@ -512,6 +574,15 @@
 [703. Kth Largest Element in a Stream](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Priority_queue/703.%20Kth%20Largest%20Element%20in%20a%20Stream) (E)
 
 [1046. Last Stone Weight](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Priority_queue/1046.%20Last%20Stone%20Weight) (E)
+
+<br/></bar>
+[Greedy]()
+
+[455. Assign Cookies]() (E+)
+
+[*135. Candy]() (M+)
+
+[*435. Non-overlapping Intervals]() (M)
 
 <br/></bar>
 
