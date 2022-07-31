@@ -107,6 +107,12 @@
 
 [905. Sort Array By Parity](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Two%20Pointers/905.%20Sort%20Array%20By%20Parity) (E)
 
+[1570. Dot Product of Two Sparse Vectors]() (E+)
+
+[27. Remove Element]() (E)
+
+[2354. Number of Excellent Pairs]() (H-)
+
   ```Sliding Windows```
   
   ```guan神：一边指针正常移动，另一边指针伺机而动```
@@ -202,6 +208,8 @@
 <br/></br>
 
 [Tree](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Tree)
+
+[100. Same Tree]() (E)
 
 [104. Maximum Depth of Binary Tree](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Tree/104.%20Maximum%20Depth%20of%20Binary%20Tree) (E)
 
@@ -373,7 +381,7 @@
 
 - ```信息传递```
 
-  [257. Binary Tree Paths]()
+  [257. Binary Tree Paths]() (E+)
 
   [1448. Count Good Nodes in Binary Tree]()
 
@@ -414,21 +422,59 @@
 
 [*785. Is Graph Bipartite?]() (M+)
 
-[815. Bus Routes]() (H)
+[815. Bus Routes]() (H-)
 
-[928. Minimize Malware Spread II]()
+[1311. Get Watched Videos by Your Friends]() (M)
 
-[1263. Minimum Moves to Move a Box to Their Target Location]()
-
-[1311. Get Watched Videos by Your Friends]()
+[*1345. Jump Game IV]() (H-)
 
 [1559. Detect Cycles in 2D Grid]()
 
-[1345. Jump Game IV]()
+[928. Minimize Malware Spread II]()
+
+[**1263. Minimum Moves to Move a Box to Their Target Location]() (H++)
+
+- ```拓扑排序```
+  
+  [207. Course Schedule]() (M+)
+
+  [210. Course Schedule II]() (M+)
+
+  [2115. Find All Possible Recipes from Given Supplies]() (M)
+  
+  [*269. Alien Dictionary]() (H)
+
+  [*310. Minimum Height Trees]() (H-)
+
+  [1136. Parallel Courses]() (M)
+
+  [802. Find Eventual Safe States]() (H-)
+
+  [444. Sequence Reconstruction]()
+
+  [1462. Course Schedule IV]()
+
+  [2050. Parallel Courses III]()
+
+  [2192. All Ancestors of a Node in a Directed Acyclic Graph]()
 
 - ```Dijkstra (BFS+PQ)```
 
   [*505. The Maze II]() (H-)
+
+  [743. Network Delay Time]()
+
+  [407. Trapping Rain Water II]()
+
+  [778. Swim in Rising Water]()
+
+  [787. Cheapest Flights Within K Stops]()
+
+  [499. The Maze III]()
+
+  [1102. Path With Maximum Minimum Value]()
+
+  [1514. Path with Maximum Probability]()
 
 <br/><br>
 
@@ -442,21 +488,65 @@
 
 [*694. Number of Distinct Islands]() (H)
 
-[489. Robot Room Cleaner]()
+[46. Permutations]() (M)
 
-[46. Permutations]()
+[47. Permutations II]() (M+)
 
-[77. Combinations]()
+[77. Combinations]() (M)
 
-[79. Word Search]()
+[*37. Sudoku Solver]() (H-)
 
-[51. N-Queens]()
+[*51. N-Queens]() (H-)
 
-[721. Accounts Merge]()
+[40. Combination Sum II]() (M)
+
+[39. Combination Sum]() (M-)
+
+[*489. Robot Room Cleaner]() (H)
+
+[79. Word Search]() (M)
+
+[131. Palindrome Partitioning]() (M+)
+
+[*291. Word Pattern II]() (H-)
+
+[*399. Evaluate Division]() (H-)
+
+[1306. Jump Game III]() (M-)
+
+[*22. Generate Parentheses]() (M-)
+
+[282. Expression Add Operators]()
+
+[425. Word Squares]()
+
+[351. Android Unlock Patterns]()
+
+- ```search in an array```
+
+  [78. Subsets]() (E+)
+
+  [90. Subsets II]() (M)
+
+  [301. Remove Invalid Parentheses]()
+
+  [473. Matchsticks to Square]()
+
+  [491. Increasing Subsequences]()
+
+  [698. Partition to K Equal Sum Subsets]()
+
+  [996. Number of Squareful Arrays]()
 
 - ```dfs + memo```
 
   [337.House Robber III](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Dfs/337.%20House%20Robber%20III) (H-)
+
+  [329. Longest Increasing Path in a Matrix]()
+
+  [638. Shopping Offers]()
+
+  [403. Frog Jump]()
 
 <br/></br>
 [Union_Find](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Union_Find)
@@ -470,7 +560,7 @@
 
 [221. Maximal Square](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Dynamic%20Programming/221.%20max%20square) (H-)
 
-[746. Min Cost Climbing Stairs]() (E)
+[746. Min Cost Climbing Stairs](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Dynamic%20Programming/746.%20Min%20Cost%20Climbing%20Stairs) (E)
 
 - ```Kadane's Algorithm```
 
@@ -555,17 +645,21 @@
 
 - ```parse expression```
   
-  [*71. Simplify Path]() (M+)
+  [*71. Simplify Path](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Stack/71.%20Simplify%20Path) (M+)
 
-  [*224. Basic Calculator]() (H)
+  [*224. Basic Calculator](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Stack/224.%20Basic%20Calculator) (H)
 
-  [*227. Basic Calculator II]() (M+)
+  [*227. Basic Calculator II](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Stack/227.%20Basic%20Calculator%20II) (M+)
 
-  [*772. Basic Calculator III]() (H)
+  [*772. Basic Calculator III](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Stack/772.%20Basic%20Calculator%20III) (H)
   
-  [394. Decode String]() (M)
+  [394. Decode String](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Stack/394.%20Decode%20String) (M)
 
-  [*726. Number of Atoms]() (H+)
+  [150. Evaluate Reverse Polish Notation]()
+
+  [*726. Number of Atoms](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Stack/726.%20Number%20of%20Atoms) (H+)
+
+  [150. Evaluate Reverse Polish Notation]() (E+)
 
 <br/><br>
 
@@ -578,24 +672,82 @@
 <br/></bar>
 [Greedy]()
 
-[455. Assign Cookies]() (E+)
+[455. Assign Cookies](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Greedy/455.%20Assign%20Cookies) (E+)
 
-[*135. Candy]() (M+)
+[*135. Candy](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Greedy/135.%20Candy) (M+)
 
-[*435. Non-overlapping Intervals]() (M)
+[*435. Non-overlapping Intervals](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Greedy/435.%20Non-overlapping%20Intervals) (M)
+
+[134. Gas Station]()
 
 <br/></bar>
 
 [Hashmap]()
 
+[1. Two Sum]() (E)
+
+[170. Two Sum III - Data structure design]()
+
+[49. Group Anagrams]()
+
+[128. Longest Consecutive Sequence]()
+
+[594. Longest Harmonious Subsequence]()
+
+[149. Max Points on a Line]()
+
+[380. Insert Delete GetRandom O(1)]()
+
+[332. Reconstruct Itinerary]()
+
+[217. Contains Duplicate]()
+
+[36. Valid Sudoku]()
+
+[166. Fraction to Recurring Decimal]()
+
+[392. Is Subsequence]()
+
+[274. H-Index]()
+
+[325. Maximum Size Subarray Sum Equals k]()
+
+[409. Longest Palindrome]()
+
+[244. Shortest Word Distance II]()
+
+[811. Subdomain Visit Count]()
+
+[17. Letter Combinations of a Phone Number]()
+
+[447. Number of Boomerangs]()
+
+[438. Find All Anagrams in a String]()
+
+[356. Line Reflection]()
+
+[594. Longest Harmonious Subsequence]()
+
+[753. Cracking the Safe]()
+
+[939. Minimum Area Rectangle]()
+
+[1074. Number of Submatrices That Sum to Target]()
+
 [*705. Design HashSet](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Hashmap/705.%20Design%20HashSet) (M)
 
 [706. Design HashMap]() (M)
+
+[2342. Max Sum of a Pair With Equal Sum of Digits]() (M-)
+
+[*697. Degree of an Array]() (M-)
 
 <br/></br>
 [Trie(Prefix Tree)](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Trie)
 
 [1032. Stream of char](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Trie/1032.%20stream%20of%20char) (M+)
+
+[336. Palindrome Pairs]()
 
 <br/><br>
 
@@ -611,7 +763,7 @@
 
 [1260. Shift 2D Grid](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Math/1260.%20Shift%202D%20Grid) (H)
 
-[528. Random Pick with Weight]()
+[*48. Rotate Image]() (M+)
 
 2235. Add Two Integers (H+)
 
@@ -620,6 +772,44 @@
 [String]()
 
 [*844. Backspace String Compare](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/String/844.%20Backspace%20String%20Compare) (M+)
+
+[408. Valid Word Abbreviation]() (E)
+
+[242. Valid Anagram]() (E-)
+
+[205. Isomorphic Strings]() (E)
+
+[647. Palindromic Substrings]() (M)
+
+[*696. Count Binary Substrings]() (M+)
+
+[409. Longest Palindrome]() (E)
+
+[*6. Zigzag Conversion]() (M)
+
+[*388. Longest Absolute File Path]() (H-)
+
+[68. Text Justification]() (H)
+
+[13. Roman to Integer]() (E)
+
+[*418. Sentence Screen Fitting]() (M+)
+
+[*423. Reconstruct Original Digits from English]() (H)
+
+[*616/758. Add Bold Tag in String]() (H-)
+
+[564. Find the Closest Palindrome]()
+
+[722. Remove Comments]()
+
+[736. Parse Lisp Expression]()
+
+[527. Word Abbreviation]()
+
+- ```KMP```
+
+  [28. Implement strStr()]() (M+)
 
 <br/><br>
 
@@ -638,7 +828,18 @@
 [853. Car Fleet](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Sorting/853.%20Car%20Fleet) (M+)
 
 <br/><br>
+[Bit Manipulation]()
+
+[231. Power of Two]() (E)
+
+[191. Number of 1 Bits]() (E)
+
+<br/><br>
 
 [Other]()
 
 [59. Spiral Matrix II]() (M)
+
+[118. Pascal's Triangle]() (E)
+
+[566. Reshape the Matrix]()(E)

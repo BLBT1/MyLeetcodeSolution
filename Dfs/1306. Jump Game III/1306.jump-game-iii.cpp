@@ -1,43 +1,27 @@
-/*
- * @lc app=leetcode id=1306 lang=cpp
- *
- * [1306] Jump Game III
- */
-
-// @lc code=start
 class Solution
 {
-    bool flag = false;
+    int n;
 
 public:
     bool canReach(vector<int> &arr, int start)
     {
-        const int n = arr.size();
+        n = arr.size();
         vector<bool> visited(n, false);
-        dfs(arr, visited, start);
-        return flag;
+        return dfs(arr, visited, start);
     }
 
-    void dfs(vector<int> &arr, vector<bool> &visited, int curr)
+    bool dfs(vector<int> &arr, vector<bool> &visited, int curr)
     {
         if (arr[curr] == 0)
-        {
-            flag = true;
-            return;
-        }
-        if (curr + arr[curr] < arr.size() && !visited[curr + arr[curr]])
-        {
-            visited[curr + arr[curr]] = true;
-            dfs(arr, visited, curr + arr[curr]);
-            visited[curr + arr[curr]] = false;
-        }
+            return true;
+        visited[curr] = true;
+        if (curr + arr[curr] >= 0 && curr + arr[curr] < n && visited[curr + arr[curr]] != true)
+            if (dfs(arr, visited, curr + arr[curr]))
+                return true;
+        if (curr - arr[curr] >= 0 && curr - arr[curr] < n && visited[curr - arr[curr]] != true)
+            if (dfs(arr, visited, curr - arr[curr]))
+                return true;
 
-        if (curr - arr[curr] >= 0 && !visited[curr - arr[curr]])
-        {
-            visited[curr - arr[curr]] = true;
-            dfs(arr, visited, curr - arr[curr]);
-            visited[curr - arr[curr]] = false;
-        }
+        return false;
     }
 };
-// @lc code=end
