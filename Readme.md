@@ -556,6 +556,12 @@
 [648.redundant connection](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Union_Find/684.Redundant-Connection) (M-)
 
 <br/> </br>
+
+[Graph]()
+
+[332. Reconstruct Itinerary]() (H)
+
+<br/> <br>
 [Dynamic Programming](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Dynamic%20Programming)
 
 [221. Maximal Square](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Dynamic%20Programming/221.%20max%20square) (H-)
@@ -686,29 +692,27 @@
 
 [1. Two Sum]() (E)
 
-[170. Two Sum III - Data structure design]()
+[170. Two Sum III - Data structure design]() (E)
 
-[49. Group Anagrams]()
+[49. Group Anagrams]() (M-)
 
-[128. Longest Consecutive Sequence]()
+[*128. Longest Consecutive Sequence]() (H-)
 
-[594. Longest Harmonious Subsequence]()
+[594. Longest Harmonious Subsequence]() (M-)
 
-[149. Max Points on a Line]()
+[*149. Max Points on a Line]() (M+)
 
-[380. Insert Delete GetRandom O(1)]()
+[*380. Insert Delete GetRandom O(1)]() (M-)
 
-[332. Reconstruct Itinerary]()
-
-[217. Contains Duplicate]()
+[217. Contains Duplicate]() (E)
 
 [36. Valid Sudoku]()
+
+[274. H-Index]()
 
 [166. Fraction to Recurring Decimal]()
 
 [392. Is Subsequence]()
-
-[274. H-Index]()
 
 [325. Maximum Size Subarray Sum Equals k]()
 
