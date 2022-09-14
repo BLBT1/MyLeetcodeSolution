@@ -50,6 +50,8 @@
 
 [875. Koko Eating Bananas](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Binary%20Search/875.%20Koko%20Eating%20Bananas) (M+)
 
+[*870. Advantage Shuffle]() (M+)
+
 [222.Count Complete Tree Nodes]()
 
 [302. Smallest Rectangle Enclosing Black Pixels]()
@@ -194,7 +196,7 @@
 
 [61. Rotate List]()
 
-[369. Plus One Linked List]()
+[369. Plus One Linked List]() (M-)
 
 [430. Flatten a Multilevel Doubly Linked List]()
 
@@ -243,7 +245,7 @@
 
 [951. Flip Equivalent Binary Trees](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Tree/951.%20Flip%20Equivalent%20Binary%20Trees) (M)
 
-[863. All Nodes Distance K in Binary Tree]()
+[366. Find Leaves of Binary Tree]() (M-)
 
 [742. Closest Leaf in a Binary Tree]()
 
@@ -284,6 +286,8 @@
   [199. Binary Tree Right Side View](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Tree/199.%20Binary%20Tree%20Right%20Side%20View) (M)
 
   [111. Minimum Depth of Binary Tree]() (E+)
+
+  [*863. All Nodes Distance K in Binary Tree]() (M+)
 
 - ```other traversals```
   
@@ -363,9 +367,9 @@
 
 - ```LCA```
 
-  [235. Lowest Common Ancestor of a Binary Search Tree](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Tree/235.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree) (E+)
+  [*235. Lowest Common Ancestor of a Binary Search Tree](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Tree/235.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree) (E+)
 
-  [236. Lowest Common Ancestor of a Binary Tree](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Tree/236.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree) (M)
+  [*236. Lowest Common Ancestor of a Binary Tree](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Tree/236.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree) (M)
 
   [*1644. Lowest Common Ancestor of a Binary Tree II](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Tree/1644.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree%20II) (M)
 
@@ -377,7 +381,7 @@
 
   [1740. Find Distance in a Binary Tree]()
 
-  [2096. Step-By-Step Directions From a Binary Tree Node to Another]()
+  [*2096. Step-By-Step Directions From a Binary Tree Node to Another]() (M+)
 
 - ```信息传递```
 
@@ -516,6 +520,12 @@
 
 [*22. Generate Parentheses]() (M-)
 
+[*17. Letter Combinations of a Phone Number]() (M-)
+
+[*386. Lexicographical Numbers]() (M)
+
+[419. Battleships in a Board]() (M)
+
 [282. Expression Add Operators]()
 
 [425. Word Squares]()
@@ -559,14 +569,22 @@
 
 [Graph]()
 
-[332. Reconstruct Itinerary]() (H)
+[*332. Reconstruct Itinerary]() (H)
+
+[*2359. Find Closest Node to Given Two Nodes]() (M)
+
+[*753. Cracking the Safe]() (H+)
 
 <br/> <br>
 [Dynamic Programming](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Dynamic%20Programming)
 
-[221. Maximal Square](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Dynamic%20Programming/221.%20max%20square) (H-)
+[*221. Maximal Square](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Dynamic%20Programming/221.%20max%20square) (H-)
 
 [746. Min Cost Climbing Stairs](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Dynamic%20Programming/746.%20Min%20Cost%20Climbing%20Stairs) (E)
+
+[*823. Binary Trees With Factors]() (M+)
+
+[*413. Arithmetic Slices]() (H-)
 
 - ```Kadane's Algorithm```
 
@@ -598,6 +616,8 @@
 [303. Range Sum Query - Immutable](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Prefix%20Sum/303.%20Range%20Sum%20Query%20-%20Immutable) (E)
 
 [*304. Range Sum Query 2D - Immutable](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Prefix%20Sum/304.%20Range%20Sum%20Query%202D%20-%20Immutable) (M+)
+
+[*325. Maximum Size Subarray Sum Equals k]() (M+)
 
 [862. Shortest Subarray with Sum at Least K]()
 
@@ -680,12 +700,86 @@
 
 [455. Assign Cookies](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Greedy/455.%20Assign%20Cookies) (E+)
 
-[*135. Candy](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Greedy/135.%20Candy) (M+)
-
 [*435. Non-overlapping Intervals](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Greedy/435.%20Non-overlapping%20Intervals) (M)
 
-[134. Gas Station]()
+[605. Can Place Flowers]() (E)
 
+[*55. Jump Game]() (M-)
+
+[*45. Jump Game II]() (M)
+
+[*134. Gas Station]() (H)
+
+[*229. Majority Element II]() (H)
+
+[*659. Split Array into Consecutive Subsequences]() (H-)
+
+[*484. Find Permutation]() (H-)
+
+[2178. Maximum Split of Positive Even Integers]() (M+)
+
+[*624. Maximum Distance in Arrays]() (M+)
+
+[*2271. Maximum White Tiles Covered by a Carpet]() (M+)
+
+[*665. Non-decreasing Array]() (M+)
+
+[*670. Maximum Swap]() (M+)
+
+[*330. Patching Array]() (H)
+
+[*517. Super Washing Machines]() (H+)
+
+[781. Rabbits in Forest]()
+
+[881. Boats to Save People]()
+
+[910. Smallest Range II]()
+
+[916. Word Subsets]()
+
+[968. Binary Tree Cameras]()
+
+- ```pq```
+
+  [253. Meeting Rooms II]()
+
+  [1606. Find Servers That Handled Most Number of Requests]()
+
+  [871. Minimum Number of Refueling Stops]()
+
+  [1296. Divide Array in Sets of K Consecutive Numbers]()
+
+- ```sort```
+  
+  [1996. The Number of Weak Characters in the Game]()
+
+  [1509. Minimum Difference Between Largest and Smallest Value in Three Moves]()
+
+- ```indexing sort```
+
+  [*41. First Missing Positive]() (H)
+  
+  [268. Missing Number]() (M+)
+
+- ```Two-pass distribution```
+
+  [*135. Candy](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Greedy/135.%20Candy) (M+)
+
+- ```Three-pass```
+
+  [334. Increasing Triplet Subsequence]()
+
+  [907. Sum of Subarray Minimums]()
+
+  [1525. Number of Good Ways to Split a String]()
+
+  [1664. Ways to Make a Fair Array]()
+
+- ```State machine```
+
+  [524. Longest Word in Dictionary through Deleting]()
+  
 <br/></bar>
 
 [Hashmap]()
@@ -706,35 +800,25 @@
 
 [217. Contains Duplicate]() (E)
 
-[36. Valid Sudoku]()
+[166. Fraction to Recurring Decimal]() (M+)
 
-[274. H-Index]()
+[392. Is Subsequence]() (H-)
 
-[166. Fraction to Recurring Decimal]()
+[409. Longest Palindrome]() (E)
 
-[392. Is Subsequence]()
+[244. Shortest Word Distance II]() (M-)
 
-[325. Maximum Size Subarray Sum Equals k]()
+[811. Subdomain Visit Count]() (M-)
 
-[409. Longest Palindrome]()
+[*447. Number of Boomerangs]() (M-)
 
-[244. Shortest Word Distance II]()
+[*438. Find All Anagrams in a String]() (M)
 
-[811. Subdomain Visit Count]()
+[*356. Line Reflection]() (M)
 
-[17. Letter Combinations of a Phone Number]()
+[890. Find and Replace Pattern]() (E+)
 
-[447. Number of Boomerangs]()
-
-[438. Find All Anagrams in a String]()
-
-[356. Line Reflection]()
-
-[594. Longest Harmonious Subsequence]()
-
-[753. Cracking the Safe]()
-
-[939. Minimum Area Rectangle]()
+[939. Minimum Area Rectangle]() (M)
 
 [1074. Number of Submatrices That Sum to Target]()
 
@@ -745,6 +829,12 @@
 [2342. Max Sum of a Pair With Equal Sum of Digits]() (M-)
 
 [*697. Degree of an Array]() (M-)
+
+[414. Third Maximum Number]() (E)
+
+[1338. Reduce Array Size to The Half]() (M-)
+
+[1055. Shortest Way to Form String]() (M)
 
 <br/></br>
 [Trie(Prefix Tree)](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Trie)
@@ -769,6 +859,10 @@
 
 [*48. Rotate Image]() (M+)
 
+[453. Minimum Moves to Equal Array Elements]()
+
+[462. Minimum Moves to Equal Array Elements II]()
+
 2235. Add Two Integers (H+)
 
 <br/><br>
@@ -776,6 +870,8 @@
 [String]()
 
 [*844. Backspace String Compare](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/String/844.%20Backspace%20String%20Compare) (M+)
+
+[415. Add Strings]() (M-)
 
 [408. Valid Word Abbreviation]() (E)
 
@@ -811,6 +907,10 @@
 
 [527. Word Abbreviation]()
 
+[434. Number of Segments in a String]() (E)
+
+[389. Find the Difference]() (E)
+
 - ```KMP```
 
   [28. Implement strStr()]() (M+)
@@ -825,11 +925,19 @@
 
 [Design]()
 
+[346. Moving Average from Data Stream]() (E)
+
+[359. Logger Rate Limiter]() (E)
+
 <br/><br>
 
 [Sorting]()
 
 [853. Car Fleet](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Sorting/853.%20Car%20Fleet) (M+)
+
+[*274. H-Index]() (M)
+
+[*539. Minimum Time Difference]() (M-)
 
 <br/><br>
 [Bit Manipulation]()
@@ -847,3 +955,5 @@
 [118. Pascal's Triangle]() (E)
 
 [566. Reshape the Matrix]()(E)
+
+[36. Valid Sudoku]() (E+)
