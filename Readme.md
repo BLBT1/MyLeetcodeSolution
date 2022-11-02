@@ -438,23 +438,23 @@
 
 [**1263. Minimum Moves to Move a Box to Their Target Location](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Bfs/1263.%20Minimum%20Moves%20to%20Move%20a%20Box%20to%20Their%20Target%20Location) (H++)
 
-[*433. Minimum Genetic Mutation]() (M)
+[*433. Minimum Genetic Mutation](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Bfs/433.%20Minimum%20Genetic%20Mutation) (M)
 
 - ```拓扑排序```
   
-  [207. Course Schedule]() (M+)
+  [207. Course Schedule](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Bfs/207.%20Course%20Schedule) (M+)
 
-  [210. Course Schedule II]() (M+)
+  [210. Course Schedule II](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Bfs/210.%20Course%20Schedule%20II) (M+)
 
-  [2115. Find All Possible Recipes from Given Supplies]() (M)
+  [2115. Find All Possible Recipes from Given Supplies](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Bfs/2115.%20Find%20All%20Possible%20Recipes%20from%20Given%20Supplies) (M)
   
-  [*269. Alien Dictionary]() (H)
+  [*269. Alien Dictionary](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Bfs/269.%20Alien%20Dictionary) (H)
 
-  [*310. Minimum Height Trees]() (H-)
+  [*310. Minimum Height Trees](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Bfs/310.%20Minimum%20Height%20Trees) (H-)
 
-  [1136. Parallel Courses]() (M)
+  [1136. Parallel Courses](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Bfs/1136.%20Parallel%20Courses) (M)
 
-  [802. Find Eventual Safe States]() (H-)
+  [802. Find Eventual Safe States](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Bfs/802.%20Find%20Eventual%20Safe%20States) (H-)
 
   [444. Sequence Reconstruction]()
 
