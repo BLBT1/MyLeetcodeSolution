@@ -285,9 +285,9 @@
 
   [199. Binary Tree Right Side View](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Tree/199.%20Binary%20Tree%20Right%20Side%20View) (M)
 
-  [111. Minimum Depth of Binary Tree]() (E+)
+  [111. Minimum Depth of Binary Tree](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Tree/111.%20Minimum%20Depth%20of%20Binary%20Tree) (E+)
 
-  [*863. All Nodes Distance K in Binary Tree]() (M+)
+  [*863. All Nodes Distance K in Binary Tree](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Tree/863.%20All%20Nodes%20Distance%20K%20in%20Binary%20Tree) (M+)
 
 - ```other traversals```
   
@@ -337,15 +337,15 @@
   
   [*99. Recover Binary Search Tree](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Tree/99.%20Recover%20Binary%20Search%20Tree) (M+)
   
-  [*108. Convert Sorted Array to Binary Search Tree]() (M-)
+  [*108. Convert Sorted Array to Binary Search Tree](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Tree/108.%20Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree) (M-)
   
-  [1382. Balance a Binary Search Tree]() (M)
+  [1382. Balance a Binary Search Tree](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Tree/1382.%20Balance%20a%20Binary%20Search%20Tree) (M)
   
-  [*96. Unique Binary Search Trees]() (M+)
+  [*96. Unique Binary Search Trees](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Tree/96.%20Unique%20Binary%20Search%20Trees) (M+)
 
-  [*95. Unique Binary Search Trees II]() (H)
+  [*95. Unique Binary Search Trees II](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Tree/95.%20Unique%20Binary%20Search%20Trees%20II) (H)
   
-  [*669. Trim a Binary Search Tree]() (M-)
+  [*669. Trim a Binary Search Tree](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Tree/669.%20Trim%20a%20Binary%20Search%20Tree) (M-)
   
   [538/1038. Convert BST to Greater Tree](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Tree/538.%20Convert%20BST%20to%20Greater%20Tree) (M)
   
@@ -400,43 +400,45 @@
 
 [BFS]()
 
-[200. Number of Islands]() (M-)
+[200. Number of Islands](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Bfs/200.%20Number%20of%20Islands) (M-)
 
-[*127. Word Ladder]() (H-)
+[*127. Word Ladder](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Bfs/127.%20Word%20Ladder) (H-)
 
-[*126. Word Ladder II]() (H)
+[*126. Word Ladder II](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Bfs/126.%20Word%20Ladder%20II) (H)
 
-[490. The Maze]() (M)
+[490. The Maze](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Bfs/490.%20The%20Maze) (M)
 
 [*934. Shortest Bridge]() (H-)
 
-[994. Rotting Oranges]() (M+)
+[994. Rotting Oranges](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Bfs/994.%20Rotting%20Oranges) (M+)
 
-[130. Surrounded Regions]() (M)
+[130. Surrounded Regions](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Bfs/130.%20Surrounded%20Regions) (M)
 
-[*529. Minesweeper]() (M+)
+[*529. Minesweeper](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Bfs/529.%20Minesweeper) (M+)
 
-[339. Nested List Weight Sum]() (M-)
+[339. Nested List Weight Sum](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Bfs/339.%20Nested%20List%20Weight%20Sum) (M-)
 
-[1091. Shortest Path in Binary Matrix]() (M+)
+[1091. Shortest Path in Binary Matrix](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Bfs/1091.%20Shortest%20Path%20in%20Binary%20Matrix) (M+)
 
-[*675. Cut Off Trees for Golf Event]() (M+)
+[*675. Cut Off Trees for Golf Event](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Bfs/675.%20Cut%20Off%20Trees%20for%20Golf%20Event) (M+)
 
-[*1293. Shortest Path in a Grid with Obstacles Elimination]() (H)
+[*1293. Shortest Path in a Grid with Obstacles Elimination](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Bfs/1293.%20Shortest%20Path%20in%20a%20Grid%20with%20Obstacles%20Elimination) (H)
 
-[*785. Is Graph Bipartite?]() (M+)
+[*785. Is Graph Bipartite?](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Bfs/785.%20Is%20Graph%20Bipartite) (M+)
 
-[815. Bus Routes]() (H-)
+[815. Bus Routes](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Bfs/815.%20Bus%20Routes) (H-)
 
-[1311. Get Watched Videos by Your Friends]() (M)
+[1311. Get Watched Videos by Your Friends](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Bfs/1311.%20Get%20Watched%20Videos%20by%20Your%20Friends) (M)
 
-[*1345. Jump Game IV]() (H-)
+[*1345. Jump Game IV](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Bfs/1345.%20Jump%20Game%20IV) (H-)
 
 [1559. Detect Cycles in 2D Grid]()
 
 [928. Minimize Malware Spread II]()
 
-[**1263. Minimum Moves to Move a Box to Their Target Location]() (H++)
+[**1263. Minimum Moves to Move a Box to Their Target Location](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Bfs/1263.%20Minimum%20Moves%20to%20Move%20a%20Box%20to%20Their%20Target%20Location) (H++)
+
+[*433. Minimum Genetic Mutation]() (M)
 
 - ```拓扑排序```
   
