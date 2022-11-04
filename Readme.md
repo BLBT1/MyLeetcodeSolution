@@ -838,6 +838,10 @@
 
 [1055. Shortest Way to Form String]() (M)
 
+[345. Reverse Vowels of a String]() (M-)
+
+[2131. Longest Palindrome by Concatenating Two Letter Words]() (M-)
+
 <br/></br>
 [Trie(Prefix Tree)](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Trie)
 
