@@ -941,11 +941,11 @@
 
 [853. Car Fleet](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Sorting/853.%20Car%20Fleet) (M+)
 
-[*274. H-Index]() (M)
+[*274. H-Index](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Sorting/274.%20H-Index) (M)
 
-[*539. Minimum Time Difference]() (M-)
+[*539. Minimum Time Difference](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Sorting/539.%20Minimum%20Time%20Difference) (M-)
 
-[*899. Orderly Queue]() (H-)
+[*899. Orderly Queue](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Sorting/899.%20Orderly%20Queue) (H-)
 
 <br/><br>
 [Bit Manipulation]()
