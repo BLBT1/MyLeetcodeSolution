@@ -641,6 +641,8 @@
 
 [*1249. Minimum Remove to Make Valid Parentheses](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Stack/1249.%20Minimum%20Remove%20to%20Make%20Valid%20Parentheses) (M-)
 
+[1047. Remove All Adjacent Duplicates In String]() (E)
+
 - ```monotonic stack```
   
   [*496. Next Greater Element I](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Stack/496.%20Next%20Greater%20Element%20I) (M)
