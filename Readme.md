@@ -588,6 +588,10 @@
 
 [*413. Arithmetic Slices]() (H-)
 
+- ```背包问题```
+
+  [518. Coin Change II]() (M+)
+
 - ```Kadane's Algorithm```
 
   [53.Maximum Subarray](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Dynamic%20Programming/53.%20max%20subarray) (M)
@@ -843,6 +847,8 @@
 [345. Reverse Vowels of a String]() (M-)
 
 [2131. Longest Palindrome by Concatenating Two Letter Words]() (M-)
+
+[1704. Determine if String Halves Are Alike]() (E-)
 
 <br/></br>
 [Trie(Prefix Tree)](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Trie)
