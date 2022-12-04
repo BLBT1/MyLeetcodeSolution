@@ -848,7 +848,9 @@
 
 [2131. Longest Palindrome by Concatenating Two Letter Words]() (M-)
 
-[1704. Determine if String Halves Are Alike]() (E-)
+[1704. Determine if String Halves Are Alike]() (E)
+
+[1657. Determine if Two Strings Are Close]()(M-)
 
 <br/></br>
 [Trie(Prefix Tree)](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Trie)
@@ -931,10 +933,6 @@
 
 <br/><br>
 
-[Quick Select]()
-
-[347. Top K Frequent Elements](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Quick%20Select/347.%20Top%20K%20Frequent%20Elements) (M+)
-
 <br/><br>
 
 [Design]()
@@ -954,6 +952,18 @@
 [*539. Minimum Time Difference](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Sorting/539.%20Minimum%20Time%20Difference) (M-)
 
 [*899. Orderly Queue](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Sorting/899.%20Orderly%20Queue) (H-)
+
+- ```Bucket Sort```
+
+  [451. Sort Characters By Frequency]() (M)
+
+- ```Quick Select```
+
+  [75. Sort Colors](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Two%20Pointers/75.%20Sort%20Colors) (M-)
+
+  [*347. Top K Frequent Elements](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Quick%20Select/347.%20Top%20K%20Frequent%20Elements) (M+)
+
+  [215. Kth Largest Element in an Array]() (M)
 
 <br/><br>
 [Bit Manipulation]()

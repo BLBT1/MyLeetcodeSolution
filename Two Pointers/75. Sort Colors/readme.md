@@ -1,7 +1,7 @@
 # 75. Sort Colors
 
-这道题目对我个人很重要
+涵盖这个题在在sorting里， 因为这个方法在quick select 里很常用
 
-- i -> first element in 1 pile
+- i -> first element after 0 pile
 - j -> last element before 2 pile
 - k -> the unknown element we are examining
