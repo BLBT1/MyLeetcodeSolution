@@ -625,6 +625,8 @@
 
 [*325. Maximum Size Subarray Sum Equals k]() (M+)
 
+[2256. Minimum Average Difference]() (E+)
+
 [862. Shortest Subarray with Sum at Least K]()
 
 [363. Max Sum of Rectangle No Larger Than K]()
