@@ -963,7 +963,7 @@
 
   [451. Sort Characters By Frequency]() (M)
 
-  [692. Top K Frequent Words]()
+  [692. Top K Frequent Words]() (M-)
 
 - ```Quick Select```
 
