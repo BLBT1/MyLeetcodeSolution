@@ -188,9 +188,11 @@
 
 [86. Partition List]()
 
-[*328. odd even linked list](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Linked%20List/328%20odd%20even%20Linked%20List) (M-)
+[*328. odd even linked list](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Linked%20List/328%20odd%20even%20Linked%20List) (M+)
 
-*[1171. Remove Zero Sum Consecutive Nodes from Linked List]() (H-)
+[*1171. Remove Zero Sum Consecutive Nodes from Linked List]() (H-)
+
+[876. Middle of the Linked List]() (E)
 
 [138. Copy List with Random Pointer]()
 
@@ -854,6 +856,8 @@
 
 [1657. Determine if Two Strings Are Close]()(M-)
 
+[1165. Single-Row Keyboard]() (E)
+
 <br/></br>
 [Trie(Prefix Tree)](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Trie)
 
@@ -959,6 +963,8 @@
 
   [451. Sort Characters By Frequency]() (M)
 
+  [692. Top K Frequent Words]()
+
 - ```Quick Select```
 
   [75. Sort Colors](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Two%20Pointers/75.%20Sort%20Colors) (M-)
@@ -966,6 +972,8 @@
   [*347. Top K Frequent Elements](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Quick%20Select/347.%20Top%20K%20Frequent%20Elements) (M+)
 
   [215. Kth Largest Element in an Array]() (M)
+
+  [973. K Closest Points to Origin]() (M+)
 
 <br/><br>
 [Bit Manipulation]()
