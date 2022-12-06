@@ -1,4 +1,4 @@
-# 安迪 LeetCode 各类算法思想的分享与总结
+# 多多 LeetCode 各类算法思想的分享与总结
 
 #### <b/>想和我讨论题目的小伙伴, 欢迎发送至我的邮箱: anqiwaATumichDOTedu</b>
 
@@ -208,7 +208,6 @@
 
 [147. Insertion Sort List]()
 
-[148. Sort List]()
 <br/></br>
 
 [Tree](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Tree)
@@ -951,9 +950,51 @@
 
 [Sorting]()
 
-[853. Car Fleet](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Sorting/853.%20Car%20Fleet) (M+)
+[912. Sort an Array]()
+
+[869. Reordered Power of 2]()
+
+[1710. Maximum Units on a Truck]()
+
+[757. Set Intersection Size At Least Two]()
+
+[1366. Rank Teams by Votes]()
+
+[1356. Sort Integers by The Number of 1 Bits]()
+
+[179. Largest Number]()
+
+[148. Sort List]()
+
+[164. Maximum Gap]()
+
+[581. Shortest Unsorted Continuous Subarray]()
 
 [*274. H-Index](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Sorting/274.%20H-Index) (M)
+
+[275. H-Index II]()
+
+[406. Queue Reconstruction by Height]()
+
+[731. My Calendar II]()
+
+[826. Most Profit Assigning Work]()
+
+[1268. Search Suggestions System]()
+
+[1402. Reducing Dishes]()
+
+[1520. Maximum Number of Non-Overlapping Substrings]()
+
+[969. Pancake Sorting]()
+
+[1859. Sorting the Sentence]()
+
+[280. Wiggle Sort]()
+
+[324. Wiggle Sort II]()
+
+[853. Car Fleet](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Sorting/853.%20Car%20Fleet) (M+)
 
 [*539. Minimum Time Difference](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Sorting/539.%20Minimum%20Time%20Difference) (M-)
 
@@ -974,6 +1015,8 @@
   [215. Kth Largest Element in an Array]() (M)
 
   [973. K Closest Points to Origin]() (M+)
+
+- ```Indexing Sort```
 
 <br/><br>
 [Bit Manipulation]()
