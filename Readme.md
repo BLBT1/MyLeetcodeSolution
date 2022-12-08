@@ -214,6 +214,8 @@
 
 [100. Same Tree]() (E)
 
+[872. Leaf-Similar Trees]() (E+)
+
 [104. Maximum Depth of Binary Tree](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Tree/104.%20Maximum%20Depth%20of%20Binary%20Tree) (E)
 
 [*110. Balanced Binary Tree](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Tree/110.%20Balanced%20Binary%20Tree) (M-)
@@ -354,7 +356,7 @@
 
   [501. Find Mode in Binary Search Tree]()
 
-  [938. Range Sum of BST](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Tree/938.%20Range%20Sum%20of%20BST) (M)
+  [938. Range Sum of BST](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Tree/938.%20Range%20Sum%20of%20BST) (E)
 
   [230. Kth Smallest Element in a BST](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Tree/230.%20Kth%20Smallest%20Element%20in%20a%20BST) (M-)
 
