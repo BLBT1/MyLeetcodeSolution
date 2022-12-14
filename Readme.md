@@ -588,13 +588,20 @@
 <br/> <br>
 [Dynamic Programming](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Dynamic%20Programming)
 
-[*221. Maximal Square](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Dynamic%20Programming/221.%20max%20square) (H-)
+[509. Fibonacci Number]() (E)
+
+[198. House Robber]() (E+)
 
 [746. Min Cost Climbing Stairs](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Dynamic%20Programming/746.%20Min%20Cost%20Climbing%20Stairs) (E)
+
+[931. Minimum Falling Path Sum]() (M-)
 
 [*823. Binary Trees With Factors]() (M+)
 
 [*413. Arithmetic Slices]() (H-)
+
+[*221. Maximal Square](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Dynamic%20Programming/221.%20max%20square) (H-)
+
 
 - ```背包问题```
 
@@ -959,6 +966,14 @@
 
 [912. Sort an Array]()
 
+[280. Wiggle Sort]()
+
+[324. Wiggle Sort II]()
+
+[1228. Missing Number In Arithmetic Progression]()
+
+[904. Fruit Into Baskets]()
+
 [869. Reordered Power of 2]()
 
 [1710. Maximum Units on a Truck]()
@@ -996,10 +1011,6 @@
 [969. Pancake Sorting]()
 
 [1859. Sorting the Sentence]()
-
-[280. Wiggle Sort]()
-
-[324. Wiggle Sort II]()
 
 [853. Car Fleet](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Sorting/853.%20Car%20Fleet) (M+)
 
