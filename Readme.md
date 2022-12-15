@@ -602,6 +602,9 @@
 
 [*221. Maximal Square](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Dynamic%20Programming/221.%20max%20square) (H-)
 
+- ```双序列型```
+
+  [*1143. Longest Common Subsequence]()(M-)
 
 - ```背包问题```
 
