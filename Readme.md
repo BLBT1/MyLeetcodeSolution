@@ -574,7 +574,10 @@
 
 [648.redundant connection](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Union_Find/684.Redundant-Connection) (M-)
 
-[323. Number of Connected Components in an Undirected Graph]()
+[1971. Find if Path Exists in Graph]() (E+)
+
+[323. Number of Connected Components in an Undirected Graph]() (M-)
+
 <br/> </br>
 
 [Graph]()
@@ -665,6 +668,8 @@
 
 [*1249. Minimum Remove to Make Valid Parentheses](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Stack/1249.%20Minimum%20Remove%20to%20Make%20Valid%20Parentheses) (M-)
 
+[232. Implement Queue using Stacks]()(E)
+
 [1047. Remove All Adjacent Duplicates In String]() (E)
 
 - ```monotonic stack```
@@ -709,11 +714,9 @@
   
   [394. Decode String](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Stack/394.%20Decode%20String) (M)
 
-  [150. Evaluate Reverse Polish Notation]()
+  [150. Evaluate Reverse Polish Notation]() (E+)
 
   [*726. Number of Atoms](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Stack/726.%20Number%20of%20Atoms) (H+)
-
-  [150. Evaluate Reverse Polish Notation]() (E+)
 
 <br/><br>
 
