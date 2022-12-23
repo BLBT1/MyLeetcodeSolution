@@ -250,6 +250,8 @@
 
 [366. Find Leaves of Binary Tree]() (M-)
 
+[*834. Sum of Distances in Tree]() (H)
+
 [742. Closest Leaf in a Binary Tree]()
 
 [814. Binary Tree Pruning]()
@@ -609,13 +611,23 @@
 
 [*221. Maximal Square](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Dynamic%20Programming/221.%20max%20square) (H-)
 
+- ```i-1时间序列型```
+
+- ```i-k时间序列型```
+
 - ```双序列型```
 
-  [*1143. Longest Common Subsequence]()(M-)
+  [*1143. Longest Common Subsequence]() (M-)
+
+- ```分割k连续区间型```
+
+- ```[i:j]范围区间型```
 
 - ```背包问题```
 
   [518. Coin Change II]() (M+)
+
+- ```状态压缩```
 
 - ```Kadane's Algorithm```
 
