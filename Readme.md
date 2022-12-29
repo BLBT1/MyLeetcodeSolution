@@ -635,6 +635,8 @@
 
   [368. Largest Divisible Subset]() (M+)
 
+  [1105. Filling Bookcase Shelves]() (H)
+
 - ```双序列型```
 
   [*1143. Longest Common Subsequence]() (M-)
