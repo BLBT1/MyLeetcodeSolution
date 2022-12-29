@@ -599,8 +599,6 @@
 
 [509. Fibonacci Number]() (E)
 
-[198. House Robber]() (E+)
-
 [746. Min Cost Climbing Stairs](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Dynamic%20Programming/746.%20Min%20Cost%20Climbing%20Stairs) (E)
 
 [931. Minimum Falling Path Sum]() (M-)
@@ -611,9 +609,31 @@
 
 [*221. Maximal Square](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Dynamic%20Programming/221.%20max%20square) (H-)
 
-- ```i-1时间序列型```
+- ```i-1时间序列型 (下一轮只取决于上一轮的状态)```
 
-- ```i-k时间序列型```
+  [198. House Robber]() (E+)
+
+  [*213. House Robber II]() (H-)
+
+  [*123. Best Time to Buy and Sell Stock III]() (H)
+
+  [309. Best Time to Buy and Sell Stock with Cooldown]() (M)
+
+  [376. Wiggle Subsequence]() (M-)
+
+  [790. Domino and Tromino Tiling]() (H)
+
+  [256. Paint House]() (M-)
+
+  [487. Max Consecutive Ones II]() (M)
+
+  [1186. Maximum Subarray Sum with One Deletion]() (M)
+
+- ```i-k时间序列型（这一轮的状态取决于之前某一轮， 要用搜索来找到这个 j = i-k）```
+
+  [300. Longest Increasing Subsequence]() (M-)
+
+  [368. Largest Divisible Subset]() (M+)
 
 - ```双序列型```
 
@@ -663,6 +683,8 @@
 [*325. Maximum Size Subarray Sum Equals k]() (M+)
 
 [2256. Minimum Average Difference]() (E+)
+
+[*2389. Longest Subsequence With Limited Sum]() (M+)
 
 [862. Shortest Subarray with Sum at Least K]()
 
@@ -742,6 +764,8 @@
 
 [1046. Last Stone Weight](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Priority_queue/1046.%20Last%20Stone%20Weight) (E)
 
+[1962. Remove Stones to Minimize the Total]() (E)
+
 <br/></bar>
 [Greedy]()
 
@@ -776,6 +800,8 @@
 [*330. Patching Array]() (H)
 
 [*517. Super Washing Machines]() (H+)
+
+[2279. Maximum Bags With Full Capacity of Rocks]() (E)
 
 [781. Rabbits in Forest]()
 
