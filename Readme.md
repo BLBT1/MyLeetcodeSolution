@@ -764,7 +764,7 @@
 
 [1046. Last Stone Weight](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Priority_queue/1046.%20Last%20Stone%20Weight) (E)
 
-[1962. Remove Stones to Minimize the Total]() (E)
+[1834. Single-Threaded CPU]() (H-)
 
 <br/></bar>
 [Greedy]()
