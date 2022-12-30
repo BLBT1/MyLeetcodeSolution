@@ -643,6 +643,8 @@
 
   [*1143. Longest Common Subsequence]() (M-)
 
+  [*1092. Shortest Common Supersequence]() (H)
+
 - ```分割k连续区间型```
 
 - ```[i:j]范围区间型```
