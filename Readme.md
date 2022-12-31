@@ -647,6 +647,8 @@
 
   [*1092. Shortest Common Supersequence]() (H)
 
+  [72. Edit Distance]() (M+)
+
 - ```分割k连续区间型```
 
 - ```[i:j]范围区间型```
