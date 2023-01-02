@@ -649,6 +649,12 @@
 
   [72. Edit Distance]() (M+)
 
+  [*97. Interleaving String]() (H)
+
+  [*115. Distinct Subsequences]() (H)
+
+  [*727. Minimum Window Subsequence]() (H)
+
 - ```分割k连续区间型```
 
 - ```[i:j]范围区间型```
@@ -928,6 +934,8 @@
 [1657. Determine if Two Strings Are Close]()(M-)
 
 [1165. Single-Row Keyboard]() (E)
+
+[290. Word Pattern]() (M-)
 
 <br/></br>
 [Trie(Prefix Tree)](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Trie)
