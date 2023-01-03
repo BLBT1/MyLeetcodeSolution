@@ -16,7 +16,7 @@
 
 [34. Find First and Last Position of Element in Sorted Array](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Binary%20Search/34.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array) (M+)
 
-[658. Find K Closest Elements](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Binary%20Search/658.%20Find%20K%20Closest%20Elements) (H)
+[*658. Find K Closest Elements](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Binary%20Search/658.%20Find%20K%20Closest%20Elements) (H)
 
 [4. Median of Two Sorted Arrays](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Binary%20Search/4.%20Median%20of%20Two%20Sorted%20Arrays) (H)
 
@@ -655,6 +655,10 @@
 
   [*727. Minimum Window Subsequence]() (H)
 
+  [583. Delete Operation for Two Strings]() (M)
+
+  [712. Minimum ASCII Delete Sum for Two Strings]() (M)
+
 - ```分割k连续区间型```
 
 - ```[i:j]范围区间型```
@@ -999,6 +1003,8 @@
 [*423. Reconstruct Original Digits from English]() (H)
 
 [*616/758. Add Bold Tag in String]() (H-)
+
+[520. Detect Capital]() (E)
 
 [564. Find the Closest Palindrome]()
 
