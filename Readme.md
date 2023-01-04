@@ -659,7 +659,13 @@
 
   [712. Minimum ASCII Delete Sum for Two Strings]() (M)
 
-- ```分割k连续区间型```
+  [*1035. Uncrossed Lines]() (M+)
+
+  [*1216. Valid Palindrome III]() (M+)
+
+  [1312. Minimum Insertion Steps to Make a String Palindrome]() (M+)
+
+- ```分割k连续区间型 -> dp[i][k]表示针对s[1:i]分成k个区间``` 
 
 - ```[i:j]范围区间型```
 
@@ -832,6 +838,8 @@
 [916. Word Subsets]()
 
 [968. Binary Tree Cameras]()
+
+[2244. Minimum Rounds to Complete All Tasks]() (E+)
 
 - ```pq```
 
