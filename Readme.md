@@ -665,9 +665,19 @@
 
   [1312. Minimum Insertion Steps to Make a String Palindrome]() (M+)
 
-- ```分割k连续区间型 -> dp[i][k]表示针对s[1:i]分成k个区间``` 
+- ```分割k连续区间型 -> 第k个区间依赖于第k-1个区间``` 
 
-- ```[i:j]范围区间型```
+  [*1278. Palindrome Partitioning III]() (H)
+
+  [*813. Largest Sum of Averages]() (H)
+
+  [410. Split Array Largest Sum]() (M+)
+
+  [*1335. Minimum Difficulty of a Job Schedule]() (M+)
+
+- ```[i:j]范围区间型 -> 小区间转化为大区间```
+
+  [516. Longest Palindromic Subsequence]() (M)
 
 - ```背包问题```
 
@@ -797,8 +807,6 @@
 
 [455. Assign Cookies](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Greedy/455.%20Assign%20Cookies) (E+)
 
-[*435. Non-overlapping Intervals](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Greedy/435.%20Non-overlapping%20Intervals) (M)
-
 [605. Can Place Flowers]() (E)
 
 [*55. Jump Game]() (M-)
@@ -880,6 +888,14 @@
 - ```State machine```
 
   [524. Longest Word in Dictionary through Deleting]()
+  
+- ``` Interval ```
+
+  - ```sorted by start point: min num of intervals to cover the whole range```
+  - ```sorted by end point: max number of non-overlapping intervals```
+  [*435. Non-overlapping Intervals](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Greedy/435.%20Non-overlapping%20Intervals) (M)
+
+  [*452. Minimum Number of Arrows to Burst Balloons]() (H-)
   
 <br/></bar>
 
