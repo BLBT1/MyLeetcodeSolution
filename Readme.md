@@ -677,11 +677,31 @@
 
 - ```[i:j]范围区间型 -> 小区间转化为大区间```
 
-  [516. Longest Palindromic Subsequence]() (M)
+  [131. Palindrome Partitioning]() (M+)
+
+  [*516. Longest Palindromic Subsequence]() (M+)
+
+  [*312. Burst Balloons]() (H)
+
+  [*375. Guess Number Higher or Lower II]() (H-)
+
+  [1246. Palindrome Removal]()
+
+  [1000. Minimum Cost to Merge Stones]()
+
+  [1547. Minimum Cost to Cut a Stick]()
+
+  [1130. Minimum Cost Tree From Leaf Values]()
+
+  [1039. Minimum Score Triangulation of Polygon]()
 
 - ```背包问题```
 
+  [322. Coin Change]()
+
   [518. Coin Change II]() (M+)
+
+  [416. Partition Equal Subset Sum]()
 
 - ```状态压缩```
 
@@ -802,6 +822,8 @@
 
 [1834. Single-Threaded CPU]() (H-)
 
+[2512. Reward Top K Students]() (M)
+
 <br/></bar>
 [Greedy]()
 
@@ -848,6 +870,8 @@
 [968. Binary Tree Cameras]()
 
 [2244. Minimum Rounds to Complete All Tasks]() (E+)
+
+[1833. Maximum Ice Cream Bars]()(E)
 
 - ```pq```
 
