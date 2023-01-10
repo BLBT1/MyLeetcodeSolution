@@ -665,7 +665,7 @@
 
   [1312. Minimum Insertion Steps to Make a String Palindrome]() (M+)
 
-- ```分割k连续区间型 -> 第k个区间依赖于第k-1个区间``` 
+- ```分割k连续区间型 -> 第k个区间依赖于第k-1个区间```
 
   [*1278. Palindrome Partitioning III]() (H)
 
@@ -1072,13 +1072,14 @@
 
 <br/><br>
 
-<br/><br>
-
 [Design]()
 
 [346. Moving Average from Data Stream]() (E)
 
 [359. Logger Rate Limiter]() (E)
+
+- ```Linked List```
+  [146. LRU Cache]() (M)
 
 <br/><br>
 
