@@ -252,6 +252,8 @@
 
 [*834. Sum of Distances in Tree]() (H)
 
+[*1443. Minimum Time to Collect All Apples in a Tree]() (M+)
+
 [742. Closest Leaf in a Binary Tree]()
 
 [814. Binary Tree Pruning]()
@@ -1078,8 +1080,15 @@
 
 [359. Logger Rate Limiter]() (E)
 
+[380. Insert Delete GetRandom O(1)]() (M)
+
+[381. Insert Delete GetRandom O(1) - Duplicates allowed]() (H)
+
 - ```Linked List```
-  [146. LRU Cache]() (M)
+
+  [*146. LRU Cache]() (M+)
+
+  [*460. LFU Cache]() (H)
 
 <br/><br>
 
