@@ -1,14 +1,14 @@
 class RandomizedCollection
 {
-    unordered_map<int, unordered_set<int>> num2pos;
     vector<int> nums;
+    unordered_map<int, unordered_set<int>> num2pos;
 
 public:
     RandomizedCollection() {}
 
     bool insert(int val)
     {
-        int flag = num2pos.find(val) == num2pos.end();
+        auto flag = (num2pos.find(val) == num2pos.end());
         nums.push_back(val);
         num2pos[val].insert(nums.size() - 1);
         return flag;
@@ -19,28 +19,31 @@ public:
         if (num2pos.find(val) == num2pos.end())
             return false;
 
-        // if the back element is val
         int val2 = nums.back();
-        if (val2 == val)
+
+        if (val != val2)
         {
-            num2pos[val].erase(nums.size() - 1);
-            nums.pop_back();
+            int pos1 = *num2pos[val].begin();
+            int pos2 = nums.size() - 1;
+
+            num2pos[val].erase(pos1);
 
             if (num2pos[val].size() == 0)
                 num2pos.erase(val);
+
+            swap(nums[pos1], nums[pos2]);
+            nums.pop_back();
+            num2pos[val2].erase(pos2);
+            num2pos[val2].insert(pos1);
         }
         else
         {
-            int pos2 = nums.size() - 1;
-            int pos = *(num2pos[val].begin());
-            nums[pos] = val2;
-            num2pos[val2].erase(pos2);
-            num2pos[val2].insert(pos);
-            num2pos[val].erase(pos);
-            nums.pop_back();
+            num2pos[val].erase(nums.size() - 1);
 
             if (num2pos[val].size() == 0)
                 num2pos.erase(val);
+
+            nums.pop_back();
         }
 
         return true;
@@ -48,8 +51,7 @@ public:
 
     int getRandom()
     {
-        int pos = rand() % nums.size();
-        return nums[pos];
+        return nums[rand() % nums.size()];
     }
 };
 

@@ -407,6 +407,8 @@
   [1372. Longest ZigZag Path in a Binary Tree]()
 
   [549. Binary Tree Longest Consecutive Sequence II]()
+
+  [*1519. Number of Nodes in the Sub-Tree With the Same Label]() (M)
 <br/><br>
 
 [BFS]()
@@ -1082,13 +1084,53 @@
 
 [380. Insert Delete GetRandom O(1)]() (M)
 
-[381. Insert Delete GetRandom O(1) - Duplicates allowed]() (H)
+[*381. Insert Delete GetRandom O(1) - Duplicates allowed]() (H)
+
+[362. Design Hit Counter]() (M-)
+
+[*631. Design Excel Sum Formula]() (H)
+
+[*295. Find Median from Data Stream]() (M)
+
+[353. Design Snake Game]()
+
+[1166. Design File System]()
+
+[716. Max Stack]()
+
+[155. Min Stack]()
+
+[588. Design In-Memory File System]()
+
+[1472. Design Browser History]()
+
+[1656. Design an Ordered Stream]()
+
+[1396. Design Underground System]()
+
+[901. Online Stock Span]()
+
+[981. Time Based Key-Value Store]()
+
+[1146. Snapshot Array]()
+
+[622. Design Circular Queue]()
+
+[348. Design Tic-Tac-Toe]()
+
+[355. Design Twitter]()
+
+[1603. Design Parking System]()
 
 - ```Linked List```
 
   [*146. LRU Cache]() (M+)
 
   [*460. LFU Cache]() (H)
+
+  [432. All O`one Data Structure]()
+
+  [2296. Design a Text Editor]()
 
 <br/><br>
 
