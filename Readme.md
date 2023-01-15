@@ -592,6 +592,8 @@
 
 [323. Number of Connected Components in an Undirected Graph]() (M-)
 
+[1061. Lexicographically Smallest Equivalent String]() (M)
+
 <br/> </br>
 
 [Graph]()
