@@ -392,6 +392,10 @@
 
   [*2096. Step-By-Step Directions From a Binary Tree Node to Another]() (M+)
 
+- ```Path in Tree```
+
+  [*2246. Longest Path With Different Adjacent Characters]() (H-)
+
 - ```信息传递```
 
   [257. Binary Tree Paths]() (E+)
