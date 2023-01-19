@@ -12,7 +12,7 @@
 
 [35. Search Insert Position](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Binary%20Search/35.%20Search%20Insert%20Position) (E-)
 
-[74. Search a 2D Matrix](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Binary%20Search/74.%20Search%20a%202D%20Matrix) (M-)
+[*74. Search a 2D Matrix](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Binary%20Search/74.%20Search%20a%202D%20Matrix) (M-)
 
 [34. Find First and Last Position of Element in Sorted Array](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Binary%20Search/34.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array) (M+)
 
@@ -643,6 +643,8 @@
 
   [1186. Maximum Subarray Sum with One Deletion]() (M)
 
+  [926. Flip String to Monotone Increasing]() (M)
+
 - ```i-k时间序列型（这一轮的状态取决于之前某一轮， 要用搜索来找到这个 j = i-k）```
 
   [300. Longest Increasing Subsequence]() (M-)
@@ -707,7 +709,7 @@
 
 - ```背包问题```
 
-  [322. Coin Change]()
+  [322. Coin Change]() (E+)
 
   [518. Coin Change II]() (M+)
 
@@ -717,9 +719,11 @@
 
 - ```Kadane's Algorithm```
 
-  [53.Maximum Subarray](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Dynamic%20Programming/53.%20max%20subarray) (M)
+  [*53.Maximum Subarray](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Dynamic%20Programming/53.%20max%20subarray) (M)
 
-  [152.Maximum Product Subarray](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Dynamic%20Programming/152%20max%20product%20subarray) (M+)
+  [*152.Maximum Product Subarray](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Dynamic%20Programming/152%20max%20product%20subarray) (M+)
+
+  [*918. Maximum Sum Circular Subarray]() (H-)
 <br/></br>
 
 [Prefix Sum]()
@@ -1021,6 +1025,8 @@
 [1260. Shift 2D Grid](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Math/1260.%20Shift%202D%20Grid) (H)
 
 [*48. Rotate Image]() (M+)
+
+[12. Integer to Roman]() (E+)
 
 [453. Minimum Moves to Equal Array Elements]()
 
