@@ -52,6 +52,8 @@
 
 [*870. Advantage Shuffle]() (M+)
 
+[1533. Find the Index of the Large Integer]() (M)
+
 [222.Count Complete Tree Nodes]()
 
 [302. Smallest Rectangle Enclosing Black Pixels]()
@@ -65,7 +67,7 @@
 
 [167. Two Sum II - Input Array Is Sorted](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Two%20Pointers/167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted) (E)
 
-[633. Sum of Square Numbers]()
+[633. Sum of Square Numbers]() (M)
 
 [680. Valid Palindrome II](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Two%20Pointers/680.%20Valid%20Palindrome%20II) (E+)
 
