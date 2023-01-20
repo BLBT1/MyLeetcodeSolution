@@ -42,7 +42,7 @@
 
 [240. Search a 2D Matrix II](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Binary%20Search/240.%20Search%20a%202D%20Matrix%20II) (M)
 
-[378. Kth Smallest Element in a Sorted Matrix]()
+[*378. Kth Smallest Element in a Sorted Matrix]() (M+)
 
 [410. Split Array Largest Sum](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Two%20Pointers/410.%20Split%20Array%20Largest%20Sum) (H)
 
@@ -1206,6 +1206,8 @@
 
 [*899. Orderly Queue](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Sorting/899.%20Orderly%20Queue) (H-)
 
+[*869. Reordered Power of 2]() (M)
+
 - ```counting sort```
   
   [*1122. Relative Sort Array]() (M-)
@@ -1238,6 +1240,8 @@
 <br/><br>
 
 [Other]()
+
+[*54. Spiral Matrix]() (M+)
 
 [59. Spiral Matrix II]() (M)
 
