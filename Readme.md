@@ -18,7 +18,7 @@
 
 [*658. Find K Closest Elements](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Binary%20Search/658.%20Find%20K%20Closest%20Elements) (H)
 
-[4. Median of Two Sorted Arrays](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Binary%20Search/4.%20Median%20of%20Two%20Sorted%20Arrays) (H)
+[*4. Median of Two Sorted Arrays](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Binary%20Search/4.%20Median%20of%20Two%20Sorted%20Arrays) (H)
 
 [69. Sqrt(x)](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Binary%20Search/69.%20Sqrt(x)) (E+)
 
