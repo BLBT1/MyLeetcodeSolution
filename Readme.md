@@ -719,8 +719,6 @@
 
   [322. Coin Change]() (E+)
 
-  [518. Coin Change II]() (M+)
-
   [416. Partition Equal Subset Sum]()
 
   [494. Target Sum]()
@@ -732,6 +730,8 @@
   [879. Profitable Schemes]()
 
   [956. Tallest Billboard]()
+
+  [*518. Coin Change II]() (M+)
 
   [2291. Maximum Profit From Trading Stocks]()
 
@@ -746,6 +746,10 @@
   [*152.Maximum Product Subarray](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Dynamic%20Programming/152%20max%20product%20subarray) (M+)
 
   [*918. Maximum Sum Circular Subarray]() (H-)
+
+  [2272. Substring With Largest Variance]()
+
+  [2321. Maximum Score Of Spliced Array]()
 <br/></br>
 
 [Prefix Sum]()
