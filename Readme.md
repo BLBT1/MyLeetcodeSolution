@@ -723,6 +723,20 @@
 
   [416. Partition Equal Subset Sum]()
 
+  [494. Target Sum]()
+
+  [1049. Last Stone Weight II]()
+
+  [474. Ones and Zeroes]()
+
+  [879. Profitable Schemes]()
+
+  [956. Tallest Billboard]()
+
+  [2291. Maximum Profit From Trading Stocks]()
+
+  [2518. Number of Great Partitions]()
+
 - ```状态压缩```
 
 - ```Kadane's Algorithm```
