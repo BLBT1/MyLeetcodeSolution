@@ -451,6 +451,8 @@
 
 [*1345. Jump Game IV](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Bfs/1345.%20Jump%20Game%20IV) (H-)
 
+[*909. Snakes and Ladders]() (M+)
+
 [1559. Detect Cycles in 2D Grid]()
 
 [928. Minimize Malware Spread II]()
@@ -556,6 +558,8 @@
 [*980. Unique Paths III]() (M+)
 
 [*491. Non-decreasing Subsequences]() (M+)
+
+[*93. Restore IP Addresses]() (M+)
 
 [282. Expression Add Operators]()
 
@@ -701,9 +705,9 @@
 
   [*375. Guess Number Higher or Lower II]() (H-)
 
-  [1246. Palindrome Removal]()
+  [*1246. Palindrome Removal]() (H)
 
-  [1000. Minimum Cost to Merge Stones]()
+  [**1000. Minimum Cost to Merge Stones]() (H+)
 
   [1547. Minimum Cost to Cut a Stick]()
 
@@ -1006,6 +1010,8 @@
 [1165. Single-Row Keyboard]() (E)
 
 [290. Word Pattern]() (M-)
+
+[997. Find the Town Judge]() (E)
 
 <br/></br>
 [Trie(Prefix Tree)](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Trie)
