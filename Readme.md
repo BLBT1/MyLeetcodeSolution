@@ -489,13 +489,13 @@
 
   [*505. The Maze II]() (H-)
 
+  [*787. Cheapest Flights Within K Stops]() (H)
+
   [743. Network Delay Time]()
 
   [407. Trapping Rain Water II]()
 
   [778. Swim in Rising Water]()
-
-  [787. Cheapest Flights Within K Stops]()
 
   [499. The Maze III]()
 
@@ -616,6 +616,20 @@
 
 [*753. Cracking the Safe]() (H+)
 
+<br></br>
+[Recursion]()
+
+[87. Scramble String]()
+
+[133. Clone Graph]()
+
+[780. Reaching Points]()
+
+[390. Elimination Game]()
+
+[1088. Confusing Number II]()
+
+[991. Broken Calculator]()
 <br/> <br>
 [Dynamic Programming](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Dynamic%20Programming)
 
@@ -623,13 +637,13 @@
 
 [746. Min Cost Climbing Stairs](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Dynamic%20Programming/746.%20Min%20Cost%20Climbing%20Stairs) (E)
 
-[931. Minimum Falling Path Sum]() (M-)
-
 [*823. Binary Trees With Factors]() (M+)
 
 [*413. Arithmetic Slices]() (H-)
 
 [*221. Maximal Square](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Dynamic%20Programming/221.%20max%20square) (H-)
+
+[818. Race Car]()
 
 - ```i-1时间序列型 (下一轮只取决于上一轮的状态)```
 
@@ -653,6 +667,8 @@
 
   [926. Flip String to Monotone Increasing]() (M)
 
+  [903. Valid Permutations for DI Sequence]()
+
 - ```i-k时间序列型（这一轮的状态取决于之前某一轮， 要用搜索来找到这个 j = i-k）```
 
   [300. Longest Increasing Subsequence]() (M-)
@@ -660,6 +676,8 @@
   [368. Largest Divisible Subset]() (M+)
 
   [*1105. Filling Bookcase Shelves]() (H)
+
+  [983. Minimum Cost For Tickets]()
 
 - ```双序列型```
 
@@ -715,19 +733,21 @@
 
   [1039. Minimum Score Triangulation of Polygon]()
 
+  [546. Remove Boxes]()
+
 - ```背包问题```
 
   [*416. Partition Equal Subset Sum]() (M+)
 
   [*494. Target Sum]() (H-)
 
-  [1049. Last Stone Weight II]() (H-)
+  [*1049. Last Stone Weight II]() (H-)
 
-  [474. Ones and Zeroes]()
+  [*474. Ones and Zeroes]() (H)
 
-  [879. Profitable Schemes]()
+  [*879. Profitable Schemes]() (H+)
 
-  [956. Tallest Billboard]()
+  [*956. Tallest Billboard]() (H+)
 
   [322. Coin Change]() (E+)
 
@@ -737,7 +757,31 @@
 
   [2518. Number of Great Partitions]()
 
+- ```迷宫型```
+
+  [120. Triangle]() (E+)
+
+  [64. Minimum Path Sum]() (E)
+
+  [*174. Dungeon Game]() (M+)
+
+  [741. Cherry Pickup]()
+
+  [1463. Cherry Pickup II]()
+
+  [576. Out of Boundary Paths]()
+
+  [931. Minimum Falling Path Sum]() (M-)
+
+  [2435. Paths in Matrix Whose Sum Is Divisible by K]()
+
 - ```状态压缩```
+
+  [691. Stickers to Spell Word]()
+
+  [1125. Smallest Sufficient Team]()
+
+  [1349. Maximum Students Taking Exam]()
 
 - ```Kadane's Algorithm```
 
@@ -899,6 +943,10 @@
 
 [2279. Maximum Bags With Full Capacity of Rocks]() (E)
 
+[1328. Break a Palindrome]() (M)
+
+[2214. Minimum Health to Beat Game]() (E+)
+
 [781. Rabbits in Forest]()
 
 [881. Boats to Save People]()
@@ -957,6 +1005,7 @@
 
   - ```sorted by start point: min num of intervals to cover the whole range```
   - ```sorted by end point: max number of non-overlapping intervals```
+
   [*435. Non-overlapping Intervals](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Greedy/435.%20Non-overlapping%20Intervals) (M)
 
   [*452. Minimum Number of Arrows to Burst Balloons]() (H-)
