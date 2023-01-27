@@ -765,7 +765,7 @@
 
   [*174. Dungeon Game]() (M+)
 
-  [741. Cherry Pickup]()
+  [*741. Cherry Pickup]() (H)
 
   [1463. Cherry Pickup II]()
 
@@ -774,6 +774,14 @@
   [931. Minimum Falling Path Sum]() (M-)
 
   [2435. Paths in Matrix Whose Sum Is Divisible by K]()
+
+- ```键盘型```
+
+  [650. 2 Keys Keyboard]()
+
+  [651. 4 Keys Keyboard]()
+
+  [935. Knight Dialer]()
 
 - ```状态压缩```
 
