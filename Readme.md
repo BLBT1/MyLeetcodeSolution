@@ -767,13 +767,13 @@
 
   [*741. Cherry Pickup]() (H)
 
-  [1463. Cherry Pickup II]()
+  [*1463. Cherry Pickup II]() (H)
 
-  [576. Out of Boundary Paths]()
+  [*576. Out of Boundary Paths]() (H)
 
   [931. Minimum Falling Path Sum]() (M-)
 
-  [2435. Paths in Matrix Whose Sum Is Divisible by K]()
+  [*2435. Paths in Matrix Whose Sum Is Divisible by K]() (H-)
 
 - ```键盘型```
 
