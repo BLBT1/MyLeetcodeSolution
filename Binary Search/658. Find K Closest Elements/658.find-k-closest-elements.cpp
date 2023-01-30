@@ -1,51 +1,52 @@
-/*
- * @lc app=leetcode id=658 lang=cpp
- *
- * [658] Find K Closest Elements
- */
-
-// @lc code=start
 class Solution
 {
 public:
-    vector<int> findClosestElements(vector<int> &arr, int k, int x)
+    vector<int> findClosestElements(vector<int> &arr,
+                                    int k,
+                                    int x)
     {
-        // keep a window of size k+1,
-        // then must either the left end
-        // or the left end of the window is not valid
-        // we search the index of the left end of the k-size window
-        int lo = 0;
-        int hi = arr.size() - k; // because the k size
-
-        while (lo < hi)
+        // O(logn) + O(klogk)
+        int l = 0;
+        int r = arr.size() - 1;
+        int mid;
+        while (l + 1 < r)
         {
-            int mid = lo + (hi - lo) / 2;
-
-            // examine a window of k+1 size
-            // then either the left end or the right end is not valid
-            if (x - arr[mid] > arr[mid + k] - x)
+            mid = l + (r - l) / 2;
+            if (arr[mid] < x)
             {
-                // this case the left end of window is not a valid left end
-                lo = mid + 1;
-            }
-            else if (x - arr[mid] < arr[mid + k] - x)
-            {
-                // this case the right end is not a valid end,
-                // so the curr mid is not valid left end
-                // as the window size is k+1
-                // we can just set hi to mid
-                hi = mid;
+                l = mid;
             }
             else
             {
-                // if eq
-                // then by the problem
-                // same as the right end is not valid
-                hi = mid;
+                r = mid;
             }
-        } // while
-        // when out of while loop, must converge
-        return vector<int>(arr.begin() + lo, arr.begin() + lo + k);
+        }
+
+        vector<int> res;
+        while (res.size() < k)
+        {
+            if (l < 0)
+            {
+                res.push_back(arr[r]);
+                r += 1;
+            }
+            else if (r >= arr.size())
+            {
+                res.push_back(arr[l]);
+                l -= 1;
+            }
+            else if (abs(arr[l] - x) > abs(arr[r] - x))
+            {
+                res.push_back(arr[r]);
+                r += 1;
+            }
+            else
+            {
+                res.push_back(arr[l]);
+                l -= 1;
+            }
+        }
+        sort(res.begin(), res.end());
+        return res;
     }
 };
-// @lc code=end

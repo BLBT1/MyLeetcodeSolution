@@ -1,32 +1,26 @@
-/*
- * @lc app=leetcode id=69 lang=cpp
- *
- * [69] Sqrt(x)
- */
-
-// @lc code=start
 class Solution
 {
 public:
     int mySqrt(int x)
     {
-        int l = 1;
-        int r = x;
-        while (l < r)
+        if (x == 0 || x == 1)
+            return x;
+        long small = 0;
+        long large = x;
+        while (small < large)
         {
-            int mid = l + (r - l + 1) / 2;
-            if (mid > x / mid)
-            {
-                r = mid - 1;
-            }
-            else
-            {
-                l = mid;
-            }
+            long mid = small + (large - small + 1) / 2;
+            if (mid <= x / mid)
+                small = mid;
+            else if (mid > x / mid)
+                large = mid - 1;
         }
-        if (l <= x / l)
-            return l;
-        return r;
+        return small;
     }
 };
-// @lc code=end
+
+// 这个题目的本质是找一个int k，k是最后一个数 st. k*k <= x
+// 以 8 为例子， 如果mid = 2，
+// 我们看到 2*2 < 8, 2 还是有可能是答案的，
+// 所以要保留在搜索区间里
+// 看 3*3 > 8， 所以 3 肯定不是8的sqrt。
