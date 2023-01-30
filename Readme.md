@@ -10,6 +10,10 @@
 
 [Binary Search](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Binary%20Search)
 
+- lower_bound(): ```next smallest element >= target```
+
+- upper_bound(): ```next smallest element > target```
+
 [35. Search Insert Position](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Binary%20Search/35.%20Search%20Insert%20Position) (E-)
 
 [74. Search a 2D Matrix](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Binary%20Search/74.%20Search%20a%202D%20Matrix) (M-)
@@ -26,13 +30,11 @@
 
 [162. Find Peak Element](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Binary%20Search/162.%20Find%20Peak%20Element) (M+)
 
-[1901. Find a Peak Element II](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Binary%20Search/1901.%20Find%20a%20Peak%20Element%20II) (H)
+[*1901. Find a Peak Element II](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Binary%20Search/1901.%20Find%20a%20Peak%20Element%20II) (H)
 
 [702. Search in a Sorted Array of Unknown Size](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Binary%20Search/702.%20Search%20in%20a%20Sorted%20Array%20of%20Unknown%20Size) (M-)
 
 [540. Single Element in a Sorted Array](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Binary%20Search/540.%20Single%20Element%20in%20a%20Sorted%20Array) (M+)
-
-[1060. Missing Element in Sorted Array](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Binary%20Search/1060.%20Missing%20Element%20in%20Sorted%20Array) (H)
 
 [33. Search in Rotated Sorted Array](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Binary%20Search/33.%20Search%20in%20Rotated%20Sorted%20Array) (M)
 
@@ -61,6 +63,10 @@
 [302. Smallest Rectangle Enclosing Black Pixels]()
 
 [275. H-Index II]()
+
+- ```search by value```
+
+  [*1060. Missing Element in Sorted Array](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Binary%20Search/1060.%20Missing%20Element%20in%20Sorted%20Array) (H)
 
 <br/></br>
 [Two Pointers](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Two%20Pointers)

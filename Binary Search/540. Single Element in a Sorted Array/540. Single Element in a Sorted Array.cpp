@@ -3,33 +3,35 @@ class Solution
 public:
     int singleNonDuplicate(vector<int> &nums)
     {
-        int left = 0, right = nums.size() - 1;
-        while (left < right)
+        int n = nums.size();
+        int r = n;
+        int l = 0;
+        while (l < r)
         {
-            int mid = (right - left) / 2 + left;
-            if (nums[mid] == nums[mid + 1])
+            int mid = l + (r - l) / 2;
+            if (mid % 2 == 0)
             {
-                if (mid % 2 == 0)
+                if (mid + 1 == n || nums[mid + 1] != nums[mid])
                 {
-                    left = mid + 1;
+                    r = mid;
                 }
                 else
                 {
-                    right = mid - 1;
+                    l = mid + 1;
                 }
             }
             else
             {
-                if (mid % 2 == 0)
+                if (mid < n - 1 && nums[mid + 1] == nums[mid])
                 {
-                    right = mid;
+                    r = mid;
                 }
                 else
                 {
-                    left = mid + 1;
+                    l = mid + 1;
                 }
             }
         }
-        return nums[left];
+        return nums[l];
     }
 };
