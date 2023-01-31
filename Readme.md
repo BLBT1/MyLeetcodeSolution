@@ -42,21 +42,9 @@
 
 [153. Find Minimum in Rotated Sorted Array](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Binary%20Search/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array) (M)
 
-[154. Find Minimum in Rotated Sorted Array II](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Binary%20Search/154.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array%20II) (M+)
+[*154. Find Minimum in Rotated Sorted Array II](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Binary%20Search/154.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array%20II) (M+)
 
 [240. Search a 2D Matrix II](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Binary%20Search/240.%20Search%20a%202D%20Matrix%20II) (M)
-
-[*378. Kth Smallest Element in a Sorted Matrix]() (M+)
-
-[410. Split Array Largest Sum](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Two%20Pointers/410.%20Split%20Array%20Largest%20Sum) (H)
-
-[1011. Capacity To Ship Packages Within D Days](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Two%20Pointers/1011.%20Capacity%20To%20Ship%20Packages%20Within%20D%20Days) (H)
-
-[875. Koko Eating Bananas](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Binary%20Search/875.%20Koko%20Eating%20Bananas) (M+)
-
-[*870. Advantage Shuffle]() (M+)
-
-[1533. Find the Index of the Large Integer]() (M)
 
 [222.Count Complete Tree Nodes]()
 
@@ -64,9 +52,21 @@
 
 [275. H-Index II]()
 
+[*870. Advantage Shuffle]() (M+)
+
+[1533. Find the Index of the Large Integer]() (M)
+
 - ```search by value```
 
+  [*410. Split Array Largest Sum](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Two%20Pointers/410.%20Split%20Array%20Largest%20Sum) (H)
+
   [*1060. Missing Element in Sorted Array](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Binary%20Search/1060.%20Missing%20Element%20in%20Sorted%20Array) (H)
+
+  [1011. Capacity To Ship Packages Within D Days](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Two%20Pointers/1011.%20Capacity%20To%20Ship%20Packages%20Within%20D%20Days) (H)
+
+  [875. Koko Eating Bananas](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Binary%20Search/875.%20Koko%20Eating%20Bananas) (M+)
+
+  [*378. Kth Smallest Element in a Sorted Matrix]() (M+)
 
 <br/></br>
 [Two Pointers](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Two%20Pointers)
@@ -679,11 +679,13 @@
 
 - ```i-k时间序列型（这一轮的状态取决于之前某一轮， 要用搜索来找到这个 j = i-k）```
 
-  [300. Longest Increasing Subsequence]() (M-)
+  [*300. Longest Increasing Subsequence]() (M-)
 
   [368. Largest Divisible Subset]() (M+)
 
   [*1105. Filling Bookcase Shelves]() (H)
+
+  [*1626. Best Team With No Conflicts]() (M)
 
   [983. Minimum Cost For Tickets]()
 
@@ -717,7 +719,7 @@
 
   [*813. Largest Sum of Averages]() (H)
 
-  [410. Split Array Largest Sum]() (M+)
+  [*410. Split Array Largest Sum]() (M+)
 
   [*1335. Minimum Difficulty of a Job Schedule]() (M+)
 

@@ -1,54 +1,47 @@
-/*
- * @lc app=leetcode id=410 lang=cpp
- *
- * [410] Split Array Largest Sum
- */
-
-// @lc code=start
 class Solution
 {
 public:
-    int splitArray(vector<int> &nums, int m)
+    int splitArray(vector<int> &nums, int k)
     {
-        // binary search by value
-        // min: max element in the nums
-        // max: sum of all element
-        int l = *max_element(nums.begin(), nums.end());
-        int r = accumulate(nums.begin(), nums.end(), 0);
+        // O(Nlog(S)), S is sum of array, N is size of array
 
-        while (l < r)
+        int lower = *max_element(nums.begin(), nums.end());
+        int upper = accumulate(nums.begin(), nums.end(), 0);
+        while (lower < upper)
         {
-            int mid = l + (r - l) / 2;
-            if (check(nums, m, mid))
-            {
-                r = mid; // mid is a possible res
-            }
+            int mid = lower + (upper - lower) / 2;
+            if (check(nums, k, mid))
+                upper = mid;
             else
-            {
-                l = mid + 1; // mid is not possible
-            }
+                lower = mid + 1;
         }
-        return l;
+        return lower;
     }
 
-    bool check(vector<int> &nums, int m, int val)
+    // greedy check if we can split nums into k group that each group has sum < mid
+    // O(N)
+    bool check(vector<int> &nums, int k, int mid)
     {
-        // greedy
-        int cnt = 0;
         int sum = 0;
+        int cnt = 0;
         for (int i = 0; i < nums.size(); ++i)
         {
+            cnt += 1;
             int j = i;
-            int sum = 0;
-            while (j < nums.size() && sum + nums[j] <= val)
+            while (j < nums.size() && sum + nums[j] <= mid)
             {
                 sum += nums[j];
-                j++;
+                ++j;
             }
-            cnt++;
             i = j - 1;
+            sum = 0;
         }
-        return cnt <= m;
+        return cnt <= k;
     }
 };
-// @lc code=end
+
+// lower = 10, upper = 21
+// mid = 15
+// sum
+// cnt = 2 <= k
+// [7,2,5,10,8],
