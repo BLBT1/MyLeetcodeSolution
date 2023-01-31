@@ -36,9 +36,9 @@
 
 [540. Single Element in a Sorted Array](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Binary%20Search/540.%20Single%20Element%20in%20a%20Sorted%20Array) (M+)
 
-[33. Search in Rotated Sorted Array](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Binary%20Search/33.%20Search%20in%20Rotated%20Sorted%20Array) (M)
+[*33. Search in Rotated Sorted Array](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Binary%20Search/33.%20Search%20in%20Rotated%20Sorted%20Array) (M+)
 
-[81. Search in Rotated Sorted Array II](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Binary%20Search/81.%20Search%20in%20Rotated%20Sorted%20Array%20II) (M+)
+[*81. Search in Rotated Sorted Array II](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Binary%20Search/81.%20Search%20in%20Rotated%20Sorted%20Array%20II) (M+)
 
 [153. Find Minimum in Rotated Sorted Array](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Binary%20Search/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array) (M)
 
