@@ -56,6 +56,8 @@
 
 [275. H-Index II]()
 
+[1095. Find in Mountain Array]()
+
 [483. Smallest Good Base]()
 
 [*870. Advantage Shuffle]() (M+)
