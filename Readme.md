@@ -46,11 +46,17 @@
 
 [240. Search a 2D Matrix II](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Binary%20Search/240.%20Search%20a%202D%20Matrix%20II) (M)
 
-[222.Count Complete Tree Nodes]()
+[*222.Count Complete Tree Nodes]() (H-)
 
 [302. Smallest Rectangle Enclosing Black Pixels]()
 
+[29. Divide Two Integers]()
+
+[475. Heaters]()
+
 [275. H-Index II]()
+
+[483. Smallest Good Base]()
 
 [*870. Advantage Shuffle]() (M+)
 
@@ -66,7 +72,41 @@
 
   [875. Koko Eating Bananas](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Binary%20Search/875.%20Koko%20Eating%20Bananas) (M+)
 
-  [*378. Kth Smallest Element in a Sorted Matrix]() (M+)
+  [1891. Cutting Ribbons]()
+
+  [1102. Path With Maximum Minimum Value]()
+
+  [1631. Path With Minimum Effort]()
+
+  [1231. Divide Chocolate]()
+
+  [1283. Find the Smallest Divisor Given a Threshold]()
+
+  [1870. Minimum Speed to Arrive on Time]()
+
+  [1300. Sum of Mutated Array Closest to Target]()
+
+  [1482. Minimum Number of Days to Make m Bouquets]()
+
+  [1552. Magnetic Force Between Two Balls]()
+
+  - ```kth element```
+
+    [*378. Kth Smallest Element in a Sorted Matrix]() (M+)
+
+    [287. Find the Duplicate Number]()
+
+    [1539. Kth Missing Positive Number]()
+
+    [373. Find K Pairs with Smallest Sums]()
+
+    [668. Kth Smallest Number in Multiplication Table]()
+
+    [719. Find K-th Smallest Pair Distance]()
+
+    [1918. Kth Smallest Subarray Sum]()
+
+    [786. K-th Smallest Prime Fraction]()
 
 <br/></br>
 [Two Pointers](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Two%20Pointers)
@@ -1122,6 +1162,8 @@
 [*48. Rotate Image]() (M+)
 
 [12. Integer to Roman]() (E+)
+
+[*1071. Greatest Common Divisor of Strings]() (M)
 
 [453. Minimum Moves to Equal Array Elements]()
 
