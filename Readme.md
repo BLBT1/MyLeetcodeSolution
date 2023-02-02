@@ -58,7 +58,7 @@
 
 [*1095. Find in Mountain Array]() (M+)
 
-[483. Smallest Good Base]()
+[*483. Smallest Good Base]() (H+)
 
 [*870. Advantage Shuffle]() (M+)
 

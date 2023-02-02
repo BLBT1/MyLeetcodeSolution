@@ -4,8 +4,6 @@ public:
     vector<int> advantageCount(vector<int> &A,
                                vector<int> &B)
     {
-        //  1. sort A
-        // 2. in sorted A, find the first element that is greater than target in B
         vector<int> res;
         sort(A.begin(), A.end());
         for (auto b : B)
@@ -32,12 +30,12 @@ public:
         int l = 0;
         int r = nums.size() - 1;
         int mid;
-        while (l + 1 < r)
+        while (l < r)
         {
             mid = (r - l) / 2 + l;
             if (nums[mid] <= tar)
             {
-                l = mid;
+                l = mid + 1;
             }
             else
             {
@@ -46,9 +44,6 @@ public:
         }
         if (nums[l] > tar)
             return l;
-        else if (nums[r] > tar)
-            return r;
-        else
-            return -1;
+        return -1;
     }
 };
