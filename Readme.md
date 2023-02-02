@@ -48,15 +48,15 @@
 
 [*222.Count Complete Tree Nodes]() (H-)
 
-[302. Smallest Rectangle Enclosing Black Pixels]()
+[*302. Smallest Rectangle Enclosing Black Pixels]() (H-)
 
-[29. Divide Two Integers]()
+[*29. Divide Two Integers]() (M+)
 
-[475. Heaters]()
+[*475. Heaters]()(M+)
 
-[275. H-Index II]()
+[275. H-Index II]() (M)
 
-[1095. Find in Mountain Array]()
+[*1095. Find in Mountain Array]() (M+)
 
 [483. Smallest Good Base]()
 
@@ -66,7 +66,7 @@
 
 - ```search by value```
 
-  [*410. Split Array Largest Sum](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Two%20Pointers/410.%20Split%20Array%20Largest%20Sum) (H)
+  [*410. Split Array Largest Sum](https://github.com/BLBT1/MyLeetcodeSolution/tree/master1095/Two%20Pointers/410.%20Split%20Array%20Largest%20Sum) (H)
 
   [*1060. Missing Element in Sorted Array](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Binary%20Search/1060.%20Missing%20Element%20in%20Sorted%20Array) (H)
 
@@ -1220,6 +1220,8 @@
 [434. Number of Segments in a String]() (E)
 
 [389. Find the Difference]() (E)
+
+[953. Verifying an Alien Dictionary]()(E)
 
 - ```KMP```
 
