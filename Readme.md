@@ -70,13 +70,13 @@
 
   [*1060. Missing Element in Sorted Array](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Binary%20Search/1060.%20Missing%20Element%20in%20Sorted%20Array) (H)
 
-  [1011. Capacity To Ship Packages Within D Days](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Two%20Pointers/1011.%20Capacity%20To%20Ship%20Packages%20Within%20D%20Days) (H)
+  [1011. Capacity To Ship Packages Within D Days](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Two%20Pointers/1011.%20Capacity%20To%20Ship%20Packages%20Within%20D%20Days) (M+)
 
   [875. Koko Eating Bananas](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Binary%20Search/875.%20Koko%20Eating%20Bananas) (M+)
 
-  [1891. Cutting Ribbons]()
+  [1891. Cutting Ribbons]() (M)
 
-  [1102. Path With Maximum Minimum Value]()
+  [*1102. Path With Maximum Minimum Value]() (M+)
 
   [1631. Path With Minimum Effort]()
 
@@ -1193,7 +1193,7 @@
 
 [409. Longest Palindrome]() (E)
 
-[*6. Zigzag Conversion]() (M)
+[*6. Zigzag Conversion]() (M-)
 
 [*388. Longest Absolute File Path]() (H-)
 

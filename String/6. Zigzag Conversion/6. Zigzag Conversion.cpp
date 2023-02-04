@@ -3,33 +3,41 @@ class Solution
 public:
     string convert(string s, int numRows)
     {
-        vector<string> zig(numRows, "");
+        int n = s.size();
+        vector<string> res(numRows, "");
         int i = 0;
-        while (i < s.size())
+        while (i < n)
         {
-            // from up to down
-            int currRow = 0;
-            while (currRow < numRows && i < s.size())
+            for (int j = 0; j < numRows; ++j)
             {
-                zig[currRow].push_back(s[i]);
+                if (i >= n)
+                    break;
+                res[j].push_back(s[i]);
                 ++i;
-                ++currRow;
             }
-
-            currRow -= 2;
-
-            // from bottom up
-            while (currRow > 0 && i < s.size())
+            for (int k = numRows - 2; k >= 1; --k)
             {
-                zig[currRow].push_back(s[i]);
+                if (i >= n)
+                    break;
+                res[k].push_back(s[i]);
                 ++i;
-                --currRow;
             }
         }
 
-        string res = "";
-        for (auto str : zig)
-            res += str;
-        return res;
+        string ans;
+        for (auto r : res)
+            ans += r;
+        return ans;
     }
 };
+
+// P
+// A
+// Y
+// // P
+// 3
+// "PAYPALISHIRING"
+
+// p
+// A
+// Y
