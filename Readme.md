@@ -78,9 +78,9 @@
 
   [*1102. Path With Maximum Minimum Value]() (M+)
 
-  [1631. Path With Minimum Effort]()
+  [1631. Path With Minimum Effort]() (M)
 
-  [1231. Divide Chocolate]()
+  [1231. Divide Chocolate]() (M)
 
   [1283. Find the Smallest Divisor Given a Threshold]()
 
@@ -196,6 +196,8 @@
   [1004. Max Consecutive Ones III](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Two%20Pointers/1004.%20Max%20Consecutive%20Ones%20III) (M-)
 
   [1052. Grumpy Bookstore Owner](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Two%20Pointers/1052.%20Grumpy%20Bookstore%20Owner) (M)
+
+  [*438. Find All Anagrams in a String]() (M)
 
   [1358. Number of Substrings Containing All Three Characters]()
 
@@ -1001,6 +1003,8 @@
 
 [*517. Super Washing Machines]() (H+)
 
+[*2551. Put Marbles in Bags]() (H)
+
 [2279. Maximum Bags With Full Capacity of Rocks]() (E)
 
 [1328. Break a Palindrome]() (M)
@@ -1101,8 +1105,6 @@
 [811. Subdomain Visit Count]() (M-)
 
 [*447. Number of Boomerangs]() (M-)
-
-[*438. Find All Anagrams in a String]() (M)
 
 [*356. Line Reflection]() (M)
 
