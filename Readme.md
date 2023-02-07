@@ -82,7 +82,7 @@
 
   [1231. Divide Chocolate]() (M)
 
-  [1283. Find the Smallest Divisor Given a Threshold]()
+  [1283. Find the Smallest Divisor Given a Threshold]() (M)
 
   [1870. Minimum Speed to Arrive on Time]()
 
@@ -203,7 +203,7 @@
 
   [1234. Replace the Substring for Balanced String]()
 
-  [904. Fruit Into Baskets]()
+  [*904. Fruit Into Baskets]() (M)
 
   [862. Shortest Subarray with Sum at Least K]()
   
