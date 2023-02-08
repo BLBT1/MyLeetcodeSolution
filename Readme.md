@@ -84,9 +84,9 @@
 
   [1283. Find the Smallest Divisor Given a Threshold]() (M)
 
-  [1870. Minimum Speed to Arrive on Time]()
+  [1870. Minimum Speed to Arrive on Time]() (M)
 
-  [1300. Sum of Mutated Array Closest to Target]()
+  [1300. Sum of Mutated Array Closest to Target]() (M)
 
   [1482. Minimum Number of Days to Make m Bouquets]()
 
