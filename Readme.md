@@ -64,11 +64,9 @@
 
 [1533. Find the Index of the Large Integer]() (M)
 
-- ```search by value```
+- ```search by value: final val must converge + we know how to change val```
 
   [*410. Split Array Largest Sum](https://github.com/BLBT1/MyLeetcodeSolution/tree/master1095/Two%20Pointers/410.%20Split%20Array%20Largest%20Sum) (H)
-
-  [*1060. Missing Element in Sorted Array](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Binary%20Search/1060.%20Missing%20Element%20in%20Sorted%20Array) (H)
 
   [1011. Capacity To Ship Packages Within D Days](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Two%20Pointers/1011.%20Capacity%20To%20Ship%20Packages%20Within%20D%20Days) (M+)
 
@@ -88,19 +86,23 @@
 
   [1300. Sum of Mutated Array Closest to Target]() (M)
 
-  [1482. Minimum Number of Days to Make m Bouquets]()
+  [1482. Minimum Number of Days to Make m Bouquets]() (M)
 
-  [1552. Magnetic Force Between Two Balls]()
+  [1552. Magnetic Force Between Two Balls]() (M)
 
   - ```kth element```
 
-    [*378. Kth Smallest Element in a Sorted Matrix]() (M+)
+    [378. Kth Smallest Element in a Sorted Matrix]() (M+)
 
-    [287. Find the Duplicate Number]()
+    [*287. Find the Duplicate Number]() (M+)
 
-    [1539. Kth Missing Positive Number]()
+    [*1060. Missing Element in Sorted Array](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Binary%20Search/1060.%20Missing%20Element%20in%20Sorted%20Array) (H)
 
-    [373. Find K Pairs with Smallest Sums]()
+    [1539. Kth Missing Positive Number]() (M)
+
+    [*373. Find K Pairs with Smallest Sums]() (H-)
+
+    [2040. Kth Smallest Product of Two Sorted Arrays]()
 
     [668. Kth Smallest Number in Multiplication Table]()
 
@@ -109,6 +111,8 @@
     [1918. Kth Smallest Subarray Sum]()
 
     [786. K-th Smallest Prime Fraction]()
+
+    [1201. Ugly Number III]()
 
 <br/></br>
 [Two Pointers](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Two%20Pointers)
@@ -167,7 +171,7 @@
 
 [2354. Number of Excellent Pairs]() (H-)
 
-  ```Sliding Windows```
+- ```Sliding Windows```
   
   ```guan神：一边指针正常移动，另一边指针伺机而动```
 
@@ -1230,6 +1234,9 @@
   [28. Implement strStr()]() (M+)
 
 <br/><br>
+[Bit Manipulation]()
+
+<br/><br>
 
 [Design]()
 
@@ -1368,6 +1375,8 @@
   [973. K Closest Points to Origin]() (M+)
 
 - ```Indexing Sort```
+
+  [287. Find the Duplicate Number]() (M)
 
 <br/><br>
 [Bit Manipulation]()
