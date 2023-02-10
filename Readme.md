@@ -102,13 +102,13 @@
 
     [*373. Find K Pairs with Smallest Sums]() (H-)
 
-    [2040. Kth Smallest Product of Two Sorted Arrays]()
+    [*2040. Kth Smallest Product of Two Sorted Arrays]() (H)
 
-    [668. Kth Smallest Number in Multiplication Table]()
+    [*1918. Kth Smallest Subarray Sum]() (H-)
 
     [719. Find K-th Smallest Pair Distance]()
 
-    [1918. Kth Smallest Subarray Sum]()
+    [668. Kth Smallest Number in Multiplication Table]()
 
     [786. K-th Smallest Prime Fraction]()
 
@@ -1027,7 +1027,9 @@
 
 [2244. Minimum Rounds to Complete All Tasks]() (E+)
 
-[1833. Maximum Ice Cream Bars]()(E)
+[1833. Maximum Ice Cream Bars]() (E)
+
+[*2306. Naming a Company]() (M+)
 
 - ```pq```
 
