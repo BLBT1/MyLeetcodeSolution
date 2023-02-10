@@ -487,6 +487,8 @@
 
 [994. Rotting Oranges](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Bfs/994.%20Rotting%20Oranges) (M+)
 
+[*1162. As Far from Land as Possible]() (M+)
+
 [130. Surrounded Regions](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Bfs/130.%20Surrounded%20Regions) (M)
 
 [*529. Minesweeper](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Bfs/529.%20Minesweeper) (M+)
@@ -993,6 +995,8 @@
 
 [*484. Find Permutation]() (H-)
 
+[*280. Wiggle Sort]() (M+)
+
 [2178. Maximum Split of Positive Even Integers]() (M+)
 
 [*624. Maximum Distance in Arrays]() (M+)
@@ -1301,8 +1305,6 @@
 [Sorting]()
 
 [912. Sort an Array]()
-
-[280. Wiggle Sort]()
 
 [324. Wiggle Sort II]()
 
