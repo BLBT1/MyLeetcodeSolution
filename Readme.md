@@ -106,9 +106,9 @@
 
     [*1918. Kth Smallest Subarray Sum]() (H-)
 
-    [719. Find K-th Smallest Pair Distance]()
+    [719. Find K-th Smallest Pair Distance]() (M+)
 
-    [668. Kth Smallest Number in Multiplication Table]()
+    [668. Kth Smallest Number in Multiplication Table]() (M+)
 
     [786. K-th Smallest Prime Fraction]()
 
@@ -510,6 +510,8 @@
 [*1345. Jump Game IV](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Bfs/1345.%20Jump%20Game%20IV) (H-)
 
 [*909. Snakes and Ladders]() (M+)
+
+[1129. Shortest Path with Alternating Colors]() (M+)
 
 [1559. Detect Cycles in 2D Grid]()
 
