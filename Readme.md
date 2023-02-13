@@ -312,6 +312,8 @@
 
 [*1443. Minimum Time to Collect All Apples in a Tree]() (M+)
 
+[2477. Minimum Fuel Cost to Report to the Capital]() (M)
+
 [742. Closest Leaf in a Binary Tree]()
 
 [814. Binary Tree Pruning]()
