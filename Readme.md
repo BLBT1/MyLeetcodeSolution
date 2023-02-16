@@ -1408,3 +1408,7 @@
 [36. Valid Sudoku]() (E+)
 
 [163. Missing Ranges]() (E)
+
+[*989. Add to Array-Form of Integer]() (M)
+
+[67. Add Binary]() (E+)
