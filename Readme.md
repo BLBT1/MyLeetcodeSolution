@@ -64,6 +64,8 @@
 
 [1533. Find the Index of the Large Integer]() (M)
 
+[*2563. Count the Number of Fair Pairs]() (M+)
+
 - ```search by value: final val must converge + we know how to change val```
 
   [*410. Split Array Largest Sum](https://github.com/BLBT1/MyLeetcodeSolution/tree/master1095/Two%20Pointers/410.%20Split%20Array%20Largest%20Sum) (H)
