@@ -110,9 +110,9 @@
 
     [668. Kth Smallest Number in Multiplication Table]() (M+)
 
-    [786. K-th Smallest Prime Fraction]()
+    [*786. K-th Smallest Prime Fraction]() (H)
 
-    [1201. Ugly Number III]()
+    [*1201. Ugly Number III]() (M+)
 
 <br/></br>
 [Two Pointers](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Two%20Pointers)
