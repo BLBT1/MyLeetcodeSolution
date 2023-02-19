@@ -151,9 +151,11 @@
 
 [713. Subarray Product Less Than K]()
 
-[1574. Shortest Subarray to be Removed to Make Array Sorted]()
+[1234. Replace the Substring for Balanced String]()
 
-[344. Reverse String](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Two%20Pointers/344.%20Reverse%20String) (E-)
+[1498. Number of Subsequences That Satisfy the Given Sum Condition]()
+
+[1574. Shortest Subarray to be Removed to Make Array Sorted]()
 
 [141. Linked List Cycle](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Two%20Pointers/141.%20Linked%20List%20Cycle) (E+)
 
@@ -170,6 +172,14 @@
 [1570. Dot Product of Two Sparse Vectors]() (E+)
 
 [27. Remove Element]() (E)
+
+[1580. Put Boxes Into the Warehouse II]()
+
+[1687. Delivering Boxes from Storage to Ports]()
+
+[1989. Maximum Number of People That Can Be Caught in Tag]()
+
+[2422. Merge Operations to Turn Array Into a Palindrome]()
 
 [2354. Number of Excellent Pairs]() (H-)
 
@@ -195,6 +205,8 @@
 
   [992. Subarrays with K Different Integers](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Two%20Pointers/992.%20Subarrays%20with%20K%20Different%20Integers) (H+)
 
+  [2461. Maximum Sum of Distinct Subarrays With Length K]()
+  
   [1248. Count Number of Nice Subarrays](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Two%20Pointers/1248.%20Count%20Number%20of%20Nice%20Subarrays) (H)
 
   [485. Max Consecutive Ones](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Two%20Pointers/485.%20Max%20Consecutive%20Ones) (E)
@@ -212,6 +224,38 @@
   [*904. Fruit Into Baskets]() (M)
 
   [862. Shortest Subarray with Sum at Least K]()
+
+  [532. K-diff Pairs in an Array]()
+
+  [611. Valid Triangle Number]()
+
+  [1838. Frequency of the Most Frequent Element]()
+
+  [1763. Longest Nice Substring]()
+
+  [2009. Minimum Number of Operations to Make Array Continuous]()
+
+  [2024. Maximize the Confusion of an Exam]()
+
+  [2106. Maximum Fruits Harvested After at Most K Steps]()
+
+  [2537. Count the Number of Good Subarrays]()
+
+  [2516. Take K of Each Character From Left and Right]()
+
+  [2564. Substring XOR Queries]()
+
+- ```Two pointers for two seuqences```
+
+ [986. Interval List Intersections]()
+
+ [1229. Meeting Scheduler]()
+
+ [1537. Get the Maximum Score]()
+
+ [1577. Number of Ways Where Square of Number Is Equal to Product of Two Numbers]()
+
+ [1775. Equal Sum Arrays With Minimum Number of Operations]()
   
 <br/> </br>
 [Linked List](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Linked%20List)
@@ -694,6 +738,8 @@
 [1088. Confusing Number II]()
 
 [991. Broken Calculator]()
+
+[2571. Minimum Operations to Reduce an Integer to 0]() (M)
 <br/> <br>
 [Dynamic Programming](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Dynamic%20Programming)
 
