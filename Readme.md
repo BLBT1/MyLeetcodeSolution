@@ -247,15 +247,15 @@
 
 - ```Two pointers for two seuqences```
 
- [986. Interval List Intersections]()
+  [986. Interval List Intersections]()
 
- [1229. Meeting Scheduler]()
+  [1229. Meeting Scheduler]()
 
- [1537. Get the Maximum Score]()
+  [1537. Get the Maximum Score]()
 
- [1577. Number of Ways Where Square of Number Is Equal to Product of Two Numbers]()
+  [1577. Number of Ways Where Square of Number Is Equal to Product of Two Numbers]()
 
- [1775. Equal Sum Arrays With Minimum Number of Operations]()
+  [1775. Equal Sum Arrays With Minimum Number of Operations]()
   
 <br/> </br>
 [Linked List](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Linked%20List)
@@ -897,6 +897,8 @@
 
 - ```状态压缩```
 
+  [2572. Count the Number of Square-Free Subsets]()
+  
   [691. Stickers to Spell Word]()
 
   [1125. Smallest Sufficient Team]()
@@ -1020,13 +1022,19 @@
 
 [Priority Queue](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Priority_queue)
 
-[703. Kth Largest Element in a Stream](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Priority_queue/703.%20Kth%20Largest%20Element%20in%20a%20Stream) (E)
+[703. Kth Largest Element in a Stream](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Priority_queue/703.%20Kth%20Largest%20Element%20in%20a%20Stream) (M)
 
 [1046. Last Stone Weight](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Priority_queue/1046.%20Last%20Stone%20Weight) (E)
 
-[1834. Single-Threaded CPU]() (H-)
-
 [2512. Reward Top K Students]() (M)
+
+- ```dual pq```
+
+- ```sort+pq```
+
+  [502. IPO]() (M)
+
+  [1834. Single-Threaded CPU]() (H-)
 
 <br/></bar>
 [Greedy]()
