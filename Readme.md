@@ -360,6 +360,8 @@
 
 [2477. Minimum Fuel Cost to Report to the Capital]() (M)
 
+[*427. Construct Quad Tree]() (M-)
+
 [742. Closest Leaf in a Binary Tree]()
 
 [814. Binary Tree Pruning]()
@@ -1027,6 +1029,12 @@
 [1046. Last Stone Weight](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Priority_queue/1046.%20Last%20Stone%20Weight) (E)
 
 [2512. Reward Top K Students]() (M)
+
+[632. Smallest Range Covering Elements from K Lists]()
+
+[1675. Minimize Deviation in Array]()
+
+[23. Merge k Sorted Lists]()
 
 - ```dual pq```
 

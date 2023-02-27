@@ -1,35 +1,42 @@
-class Solution {
+class Solution
+{
 public:
-    int minDistance(string w1, string w2) 
+    int minDistance(string word1, string word2)
     {
-        int m = w1.size();
-        int n = w2.size();
-        w1 = "#" + w1;
-        w2 = "#" + w2;
-        auto dp = vector<vector<int>>(m+1, vector<int>(n+1));
-        for(int i = 0; i <= m; ++i)
+        int m = word1.size();
+        int n = word2.size();
+        word1.insert(word1.begin(), '#');
+        word2.insert(word2.begin(), '#');
+
+        vector<vector<int>> dp(m + 1, vector<int>(n + 1, INT_MAX / 2));
+        dp[0][0] = 0;
+        for (int i = 1; i <= m; ++i)
             dp[i][0] = i;
-        for(int j = 0; j <= n; ++j)
+        for (int j = 1; j <= n; ++j)
             dp[0][j] = j;
-        for(int i = 1; i <= m; ++i)
+
+        for (int i = 1; i <= m; ++i)
         {
-            for(int j = 1; j <= n; ++j)
+            for (int j = 1; j <= n; ++j)
             {
-                if(w1[i] == w2[j])
-                    dp[i][j] = dp[i-1][j-1];
+                if (word1[i] == word2[j])
+                    dp[i][j] = dp[i - 1][j - 1];
                 else
-                {
-                    //               delete i       delete j     replace i to j     
-                    dp[i][j] = min(min(dp[i-1][j], dp[i][j-1]), dp[i-1][j-1]) + 1;
-                }
+                    dp[i][j] = min(dp[i - 1][j - 1] + 1, min(dp[i][j - 1] + 1, dp[i - 1][j] + 1));
             }
         }
-        
         return dp[m][n];
     }
 };
 
-// dp[i][j] => edit distance to convert w1[1:i] to w2[1:j]
+// dp[i][j] = min operation to convert word1[:i] to word2[:j]
+// XXXXhorse
+//     i
+// XXXXos
+//    j
 
-// XXXXXX i XXXXX
-// YYYYYY j YYYYYYY
+// if(word1[i] == word2[j])
+//     dp[i][j] = dp[i-1][j-1];
+// else
+//                    replace i to j     insert word2[j]  delete word1[i]
+//     dp[i][j] = min{dp[i-1][j-1]+1,    dp[i][j-1]+1,   dp[i-1][j]+1};
