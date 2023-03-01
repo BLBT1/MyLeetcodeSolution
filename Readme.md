@@ -436,6 +436,8 @@
   
   [*426. Convert Binary Search Tree to Sorted Doubly Linked List](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Tree/426.%20Convert%20Binary%20Search%20Tree%20to%20Sorted%20Doubly%20Linked%20List) (M)
 
+  [*652. Find Duplicate Subtrees]() (H-)
+
   [109. Convert Sorted List to Binary Search Tree]()
 
   [114. Flatten Binary Tree to Linked List]()
