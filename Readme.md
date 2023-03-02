@@ -183,6 +183,10 @@
 
 [2354. Number of Excellent Pairs]() (H-)
 
+[*443. String Compression]() (M)
+
+[2215. Find the Difference of Two Arrays]() (M-)
+
 - ```Sliding Windows```
   
   ```guan神：一边指针正常移动，另一边指针伺机而动```
