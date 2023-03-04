@@ -1482,3 +1482,23 @@
 [*989. Add to Array-Form of Integer]() (M)
 
 [67. Add Binary]() (E+)
+
+- ```Count subarray based on element```
+
+  [*2444. Count Subarrays With Fixed Bounds]() (M+)
+
+  [828. Count Unique Characters of All Substrings of a Given String]()
+
+  [907. Sum of Subarray Minimums]()
+
+  [1498. Number of Subsequences That Satisfy the Given Sum Condition]()
+
+  [1856. Maximum Subarray Min-Product]()
+
+  [2104. Sum of Subarray Ranges]()
+
+  [2262. Total Appeal of A String]()
+
+  [2281. Sum of Total Strength of Wizards]()
+
+  [2302. Count Subarrays With Score Less Than K]()
