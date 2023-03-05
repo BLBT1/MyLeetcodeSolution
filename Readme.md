@@ -926,7 +926,7 @@
   [2321. Maximum Score Of Spliced Array]()
 <br/></br>
 
-[Prefix Sum]()
+[前缀和， 差分，扫描线]()
 
 [1480. Running Sum of 1d Array](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Prefix%20Sum/1480.%20Running%20Sum%20of%201d%20Array) (E-)
 
@@ -943,8 +943,6 @@
 [*525. Contiguous Array](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Prefix%20Sum/525.%20Contiguous%20Array) (M+)
 
 [930. Binary Subarrays With Sum](https://github.com/BLBT1/MyLeetcodeSolution/blob/master/Prefix%20Sum/930.%20Binary%20Subarrays%20With%20Sum/930.%20Binary%20Subarrays%20With%20Sum.cpp) (M)
-
-[370. Range Addition](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Prefix%20Sum/370.%20Range%20Addition) (M+)
 
 [303. Range Sum Query - Immutable](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Prefix%20Sum/303.%20Range%20Sum%20Query%20-%20Immutable) (E)
 
@@ -967,6 +965,22 @@
 [1094. Car Pooling]()
 
 [724. Find Pivot Index]()
+
+- ```扫描线 / 差分数组```
+
+  [252. Meeting Rooms]()
+
+  [253. Meeting Rooms II]()
+
+  [370. Range Addition](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Prefix%20Sum/370.%20Range%20Addition) (M+)
+
+  [732. My Calendar III]()
+
+  [56. Merge Intervals]()
+
+  [57. Insert Interval]()
+
+  [759. Employee Free Time]()
 
 <br/></br>
 
@@ -1378,7 +1392,9 @@
 
 [Sorting]()
 
-[912. Sort an Array]()
+[912. Sort an Array]() (E)
+
+[493. Reverse Pairs]()
 
 [324. Wiggle Sort II]()
 
