@@ -1394,7 +1394,7 @@
 
 [912. Sort an Array]() (E)
 
-[493. Reverse Pairs]()
+[*493. Reverse Pairs]() (H-)
 
 [324. Wiggle Sort II]()
 
