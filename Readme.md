@@ -249,6 +249,8 @@
 
   [2564. Substring XOR Queries]()
 
+  [2260. Minimum Consecutive Cards to Pick Up]() (M-)
+
 - ```Two pointers for two seuqences```
 
   [986. Interval List Intersections]()
@@ -315,6 +317,8 @@
 [1721. Swapping Nodes in a Linked List](https://github.com/BLBT1/MyLeetcodeSolution/tree/master/Linked%20List/1721.%20Swapping%20Nodes%20in%20a%20Linked%20List) (M+)
 
 [147. Insertion Sort List]()
+
+[382. Linked List Random Node]() (E+)
 
 <br/></br>
 
@@ -1322,6 +1326,8 @@
 [389. Find the Difference]() (E)
 
 [953. Verifying an Alien Dictionary]()(E)
+
+[2259. Remove Digit From Number to Maximize Result]() (E+)
 
 - ```KMP```
 
