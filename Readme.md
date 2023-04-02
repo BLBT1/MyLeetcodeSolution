@@ -66,6 +66,8 @@
 
 [*2563. Count the Number of Fair Pairs]() (M+)
 
+[2300. Successful Pairs of Spells and Potions]() (E+)
+
 - ```search by value: final val must converge + we know how to change val```
 
   [*410. Split Array Largest Sum](https://github.com/BLBT1/MyLeetcodeSolution/tree/master1095/Two%20Pointers/410.%20Split%20Array%20Largest%20Sum) (H)
@@ -446,7 +448,7 @@
 
   [*652. Find Duplicate Subtrees]() (H-)
 
-  [109. Convert Sorted List to Binary Search Tree]()
+  [*109. Convert Sorted List to Binary Search Tree]() (M)
 
   [114. Flatten Binary Tree to Linked List]()
 
