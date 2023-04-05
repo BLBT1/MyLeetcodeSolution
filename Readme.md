@@ -94,6 +94,8 @@
 
   [1552. Magnetic Force Between Two Balls]() (M)
 
+  [*2439. Minimize Maximum of Array]() (M+)
+
   - ```kth element```
 
     [378. Kth Smallest Element in a Sorted Matrix]() (M+)
@@ -1115,7 +1117,7 @@
 
 [781. Rabbits in Forest]()
 
-[881. Boats to Save People]()
+[*881. Boats to Save People]() (M)
 
 [910. Smallest Range II]()
 
@@ -1201,6 +1203,8 @@
 [166. Fraction to Recurring Decimal]() (M+)
 
 [392. Is Subsequence]() (H-)
+
+[*792. Number of Matching Subsequences]() (H-)
 
 [409. Longest Palindrome]() (E)
 
