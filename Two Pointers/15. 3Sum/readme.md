@@ -6,14 +6,14 @@
 
 - 要求没有重复的 triplet， 有两个情况
 
-```cpp
+```c++
     [-1, -1 -1, 0, 1, 2, -1, -4]
       i   l  l1       r             
 ```
 
 1. {nums[i], nums[l], nums[r]} 和 {nums[i], nums[l1], nums[r]} 都是 {-1, -1, 2}, 所以要用以下代码去重
 
-```cpp
+```c++
                     while (l < r && nums[l] == nums[l - 1])
                         l++;
                     while (l < r && nums[r] == nums[r + 1])
@@ -22,7 +22,7 @@
 
 2. 下一个 i+1 和 i 都是 -1， 这样也会有重复， 所以在每个 iteration 开头需要
 
- ```cpp
+ ```c++
              if(i != 0 && nums[i] == nums[i-1])
                 continue; 
  ```
