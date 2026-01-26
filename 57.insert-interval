@@ -1,0 +1,58 @@
+
+only care about begin and end,
+if is overlapping 0->1, the begin is a begin for merged interval
+if is overlapping 1->0, and end is a end for merged interval
+
+```c++
+class Solution {
+    static bool comp(pair<int, int> &a, pair<int, int> &b) {
+        if (a.first != b.first) {
+            return a.first < b.first;
+        }
+        return a.second > b.second; // first +1, then -1; // [[1,2], [2,3]] ==> [1,3]
+    }
+
+public:
+    // Time: O(NLogN) from sort
+    // space: O(N)
+    vector<vector<int>> insert(vector<vector<int>>& intervals, vector<int>& newInterval) {
+        // points is either a begin or an end point
+        // pair {time, change[1/-1]}
+        vector<pair<int, int>> points; 
+        
+        for (auto &interval: intervals) {
+            points.push_back({interval[0], 1});
+            points.push_back({interval[1], -1});
+        }
+
+        points.push_back({newInterval[0], 1});
+        points.push_back({newInterval[1], -1});
+
+        sort(points.begin(), points.end(), comp);
+
+        vector<vector<int>> res;
+        vector<int> curr; // current interval
+        int overlap = 0;
+        for (auto &p: points) {
+            int before = overlap;
+            overlap += p.second;
+            if (before == 0 && overlap ==1 && p.second == 1) {
+                // begin of merged interval
+                curr.push_back(p.first);
+            }
+            if (before == 1 && overlap == 0 && p.second == -1) {
+                // end of merged interval
+                curr.push_back(p.first);
+                res.push_back(curr);
+                curr.clear();
+            }
+        }
+        return res;
+    }
+};
+
+// only care about begin and end,
+
+// if is overlapping 0->1, the begin is a begin for merged interval
+// if is overlapping 1->0, and end is a end for merged interval
+```

@@ -26,3 +26,55 @@
              if(i != 0 && nums[i] == nums[i-1])
                 continue; 
  ```
+
+ ```c++
+class Solution {
+public:
+    vector<vector<int>> threeSum(vector<int>& nums) {
+        vector<vector<int>> res;
+        sort(nums.begin(), nums.end());
+        for(int i = 0; i < nums.size(); ++i) {
+            if (i != 0 && nums[i] == nums[i-1]) continue;
+            
+            int l = i+1; // **l must be after i
+            int r = nums.size()-1;
+            while(l < r) {
+                int sum = nums[l]+nums[r]+nums[i];
+                if(sum == 0){
+                    res.push_back({nums[l], nums[r], nums[i]});
+                    l++;
+                    r--;
+                    
+                    // ** key step to dedup
+                    while (l<r && nums[l]==nums[l-1]) l++;
+                    while (l<r && nums[r]==nums[r+1]) r--;
+                } else if(sum < 0){
+                    l++;
+                } else {
+                    r--;
+                }
+            }
+        }
+        return res;
+    }
+};
+
+// sort array ==> O(NlogN)
+// do a check for every number, use the (2 sum with sorted array strategy)
+
+// [-4,-1,-1,0,1,2]
+//      i
+//         l
+//               r
+
+// if nums[i]+nums[j] == sum, find(sum), if idx[sum] != i/j, we find a solution
+// else, 
+
+
+// [2,-3,0,-2,-5,-5,-4,1,2,-2,2,0,2,-4,5,5,-10]
+// [-10,-5,-5,-5,0,0,5,5,10,10]
+//.      i
+//          l                          
+//                           r
+
+ ```

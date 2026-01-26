@@ -1,0 +1,69 @@
+扫描线，按照区间起始点和区间终点排序， 起始点+1, 终点-1， 能找出最多多少个区间重合
+
+```c++
+class Solution {
+    static bool comp(pair<int, int> &a, pair<int, int> &b){
+        if (a.first != b.first) {
+            return a.first < b.first;
+        }
+        return a.second < b.second;
+    }
+
+public:
+    int minMeetingRooms(vector<vector<int>>& intervals) {
+        // min # of conference room required 
+        // ==> at most how many conference ongoing at once
+
+        // {time, change}
+        vector<pair<int, int>> points;
+        for (auto &i : intervals) {
+            points.push_back({i[0], 1});        
+            points.push_back({i[1], -1});
+        }
+
+        sort(points.begin(), points.end(), comp);
+
+        int overlap = 0;
+        int maxOverlap = 0;
+        for (auto &p : points) {
+            overlap += p.second;
+            maxOverlap = max(maxOverlap, overlap);
+        }
+
+        return maxOverlap;
+    }
+};
+```
+
+
+```go 
+func minMeetingRooms(intervals [][]int) int {
+    type point struct{
+        time int
+        change int
+    }   
+
+    points := []point{}
+    for _,interval := range intervals {
+        points = append(points, point{time: interval[0], change: 1})
+        points = append(points, point{time: interval[1], change: -1})
+    }
+
+    sort.Slice(points, func(i, j int) bool{ // i, j are 2 pos in slice
+        if points[i].time != points[j].time {
+            return points[i].time < points[j].time
+        } else {
+            // [1, 2], [2, 3] // consider not overlapping
+            // end should come before start, whoever change is -1 should come first
+            return points[i].change < points[j].change
+        }
+    })
+    
+    overlap, maxOverlap := 0, 0
+    for _, p := range points {
+        overlap += p.change
+        maxOverlap = max(maxOverlap, overlap)
+    }
+    return maxOverlap
+}
+```

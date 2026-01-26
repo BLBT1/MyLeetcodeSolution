@@ -12,26 +12,42 @@
     - 如果一样多，那按照要求， 和如果靠近 low 多是一样的
 
 ```cpp
-        if (x - arr[mid] > arr[mid + k] - x)
-        {
-            // this case the left end of window is not a valid left end
-            lo = mid + 1;
-        }
-        else if (x - arr[mid] < arr[mid + k] - x)
-        {
-            // this case the right end is not a valid end,
-            // so the curr mid is not valid left end
-            // as the window size is k+1
-            // we can just set hi to mid
-            hi = mid;
-        }
-        else
-        {
-            // if eq
-            // then by the problem
-            // same as the right end is not valid
-            hi = mid;
-        }
-```
+class Solution {
+public:
+    vector<int> findClosestElements(vector<int>& arr, int k, int x) {
+       // search for L in idea2, such that L is samllest that k away from x
+       int l = 0;
+       int r =  arr.size()-k; // if k == arr.size(), r is alreay 0, so we can exit while loop
 
-5. 为啥比较的时候没有取abs？ans: lee原本的post里有提到这个问题，简单来说，如果取绝对值，则在arr[mid]和arr[mid+k]相同时，无法区分 x<arr[mid] 与 x>arr[mid+k] 的情况。取abs失去了方向信息。具体的例子可以看 [寒神贴](https://leetcode.com/problems/find-k-closest-elements/discuss/106426/JavaC%2B%2BPython-Binary-Search-O(log(N-K)-%2B-K)) 里的说明
+        while(l < r) {
+            int mid = l+(r-l)/2;
+            // we are searching the L (samllest number in res, so L+k is k+1 number closest from x)
+            if (x-arr[mid] <= arr[mid+k]-x) {
+                // right of R cannot not be k+1 closest
+                // R can be still k+1 as if x-L==R-x, we take L into res.
+                r = mid;
+            } else {
+                // because if L is k+1 away, it should not be in res, so mid+1
+                l = mid+1;
+            }
+        }
+
+        vector<int> res;
+        for(int i=l; i < l+k; ++i)
+            res.push_back(arr[i]);
+
+        return res;
+    }
+};
+
+// Input: arr = [1,2,3,4,5], k = 4, x = 3
+// idea1: find target x index, then use 2 ptr (logN+K)
+//
+// idea2:
+// binary search 的本质是要找到什么搜索区间可以被排除
+// 这道题里 因为是找到k closest的区间， 所以从第k+1 closest的数字都可排除
+// XXXX L______R XXXX
+//.         x
+// 我们可以假设 L是k+1 closest from k
+// if L 是 k+1 away from x，那包括 XXXL 都可以排除
+```

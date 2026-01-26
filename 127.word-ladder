@@ -1,0 +1,90 @@
+
+
+
+```c++
+class Solution {
+public:
+    int ladderLength(string beginWord, string endWord, vector<string>& wordList) {
+        // wordList is just a dictonary, does not have order for the sequence
+        // So we need to build a graph to if the next work is in the dictionary or not
+        unordered_map<string, vector<string>> adjList;
+        wordList.push_back(beginWord);
+        // O(N)
+        unordered_set<string> dict(wordList.begin(), wordList.end()); //O(N)
+
+        // 26*N*K
+        for (auto w: wordList) {
+            vector<string> wordNext;
+            // check if there are words, that are in the dict, and one letter different
+            // hot --> aot...zot, hat...hzt, hoa...hoz ==> 26*k
+            for (int i = 0; i < w.size(); i++) {
+                for (char c = 'a'; c <= 'z'; c++) {
+                    string _w = w; // copy to a new word
+                    if (c != _w[i]){ // only compare if the word is not itself
+                        _w[i] = c;
+                        if (dict.find(_w) != dict.end()) {
+                            wordNext.push_back(_w);
+                        }
+                    }
+                }
+            }
+            adjList[w] = wordNext;
+        }
+
+        // do bfs ==> O(N)
+        // because the graph is bi-directional, say hit -> hot, hot -> hit
+        // so we want a visited list
+        int step = 0;
+        queue<string> q;
+        unordered_set<string> visited;
+        q.push(beginWord);
+        while(!q.empty()) {
+            int s = q.size();
+            for (int i = 0; i < s; ++i) {
+                string curr = q.front();
+                q.pop();
+                visited.insert(curr);
+                if (curr == endWord)
+                    return step+1;
+                for(auto &next : adjList[curr]) {
+                    if (visited.find(next) == visited.end())
+                        q.push(next);
+                }
+            }
+            step++;
+        }
+        return 0;
+    }
+};
+
+
+// every adjacent pair diff by single letter
+// beginWord -> s1 -> s2 -> ... -> endWord, si is in wordList (beginWork does not need to be in wordList)
+// sk == endWord
+
+// return the number of words that is shortest
+
+
+// begin to search from the first word what is one diff from begin Word
+
+// naive approach [Will not work] -> (words not not need to be adjacent in the wordLit!)
+// 1. find the word that is diff one letter from beginWord
+// O((N^2)*(K^2)) ==> N is number of words in the list, K is the length of words
+
+
+// example:
+// "hit"
+// "cot"
+// ["dot","bzf","cot","dit"] is 4
+// hit -> dit -> dot -> cot
+// wordList is just a dictonary, does not have order for the sequence
+// So we need to build a graph to if the next work is in the dictionary or not
+// we need to do bfs because each word we need to go one step ahead to check if endWord is in the list
+// (probably dfs is also ok for searching, but bfs makes more sense)
+
+// naive way to know if 2 words are 1 latter diff is K^2, then N for searching the dictionary -> K^2*N
+// if we use all the lowercase letters, than just need to K*26 for search, because we build a set, this can be O(1) for search
+
+// 进一步 优化 可以双向BFS， BeginWord and EndWord do bfs together
+
+```

@@ -1,0 +1,31 @@
+```c++
+class Solution {
+public:
+    bool validWordAbbreviation(string word, string abbr) {
+        int i = 0; int j=0;
+        while (i < word.size() && j < abbr.size()) {
+            if (word[i] == abbr[j]) {
+                ++i;
+                ++j;
+            } else if (abbr[j] == '0'){
+                // leading 0 are invalid abbreviation.
+                return false;
+            } else if (isdigit(abbr[j])){
+                int end = j+1;
+                while(isdigit(abbr[end])) {
+                    ++end;
+                }
+                string numStr = abbr.substr(j, end-j);
+                int length = stoi(numStr); 
+
+                j = end;
+                i += length;
+            } else {
+                return false;
+            }
+        }
+
+        return i == word.size() && j == abbr.size();
+    }
+};
+```

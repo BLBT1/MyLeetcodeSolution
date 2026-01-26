@@ -1,0 +1,57 @@
+Because vectors are sparse (most values would be 0s), so we can use a `vector<pair<int, int>>` to only record the non-zero {index->value}.
+
+For 2 vector dot product, only the pos with the same idx can time, so we can use 2 ptrs to point to 2 `vector<pair<int,int>>` 
+to find the matching pos in O(M+L), M is nums of non-zeros vector1, and L is nums of non-zeros in vector2. 
+
+// Follow up: What if only one of the vectors is sparse?
+- we can use binary search for the sparse vector only, so time complexty would be O(min(L1, L2)*max(L1,L2)), we can store the whole vector
+
+
+```c++
+class SparseVector {
+public:
+    // only care the non-zero value because the vector is sparse
+    // if the dotProduct operation happens more than constructor
+    // only care about the pos that is non-zero
+    vector<pair<int, int>> nonZero; //{idx -> val}
+    SparseVector(vector<int> &nums) {
+        for(int i=0; i < nums.size(); ++i){
+            if(nums[i] != 0) nonZero.push_back({i, nums[i]});
+        }
+    }
+    
+    // Return the dotProduct of two sparse vectors
+    int dotProduct(SparseVector& vec) {
+        int i = 0;
+        int j = 0;
+        int sum = 0;
+
+        vector<pair<int, int>> nonZero1 = this->nonZero;
+        vector<pair<int, int>> nonZero2 = vec.nonZero;
+
+        while(i < nonZero1.size() && j < nonZero2.size()) {
+            int pos1 = nonZero1[i].first;
+            int pos2 = nonZero2[j].first; 
+            if(pos1 < pos2) {
+                i++;
+            } else if (pos1 > pos2){
+                j++;
+            } else {
+                sum += nonZero1[i].second*nonZero2[j].second;
+                ++i;
+                ++j;
+            }
+        }
+        return sum;
+    }
+};
+
+
+// Your SparseVector object will be instantiated and called as such:
+// SparseVector v1(nums1);
+// SparseVector v2(nums2);
+// int ans = v1.dotProduct(v2);
+```
+
+
+

@@ -73,3 +73,50 @@ nums2: [0 2 7 12]
     if (k == 1)
         return min(nums1[nums1Start], nums2[nums2Start]);
 ```
+
+
+```c++
+class Solution {
+public:
+    double findMedianSortedArrays(vector<int>& nums1, vector<int>& nums2) {
+        int totalCount = nums1.size()+nums2.size();
+        if(totalCount%2 == 0)
+            return double(findKthElement(nums1, 0, nums2, 0, totalCount/2)
+             + findKthElement(nums1, 0, nums2, 0, totalCount/2+1))/2;
+        else 
+            return double(findKthElement(nums1, 0, nums2, 0, totalCount/2+1));
+    }
+
+    // find kth element from 2 sorted array
+    int findKthElement(vector<int> &nums1, int a, vector<int> &nums2, int b, int k) {
+        if(nums1.size()-a > nums2.size()-b)
+            return findKthElement(nums2, b, nums1, a, k); // alway keep remaining of nums1 shorter
+        
+        if(nums1.size()-a == 0)
+            return nums2[b+k-1];
+
+        if(k == 1) {
+            return min(nums1[a], nums2[b]);
+        }
+
+        // keep nums of elements that are left to X0 and Y0 to k
+        int k1 = min(int(nums1.size()-a), k/2);
+        int k2 = k-k1;
+        
+        if (nums1[a+k1-1] < nums2[b+k2-1]) {
+            // means elements <= X0 cannot be kth element
+            return findKthElement(nums1, a+k1, nums2, b, k-k1);
+        } else {
+            return findKthElement(nums1, a, nums2, b+k2, k-k2);
+        }
+    }
+};
+
+// because the median can be a double, and total number of elements in 2 arrays are not 
+// XX X0 XX
+// YYY Y0 YYYY
+
+// key of this problem is to find kth elements from 2 sorted array
+```
+
+
