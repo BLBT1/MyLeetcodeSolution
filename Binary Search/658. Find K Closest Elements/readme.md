@@ -3,10 +3,10 @@
 ## 解题思路
 
 1. 这题其实是要在arr里找一个大小为k的window，中间的数字的值是最close to x 的k个数字。所以说，我们的突破口可以从寻找这个window的左端点开始
-2. 此题的另一个突破口是， 可以每次检查一个 ```k+1``` 大小的window，这样此window中必然有一个是 invalid 的 element。（这个想法惊为天人）
 3. 所以我们搜索的上下界（window的左端点）在 [0, arr.size()-k] 之间， 定为 low 和 hi
 
-4. 看mid point 的值是 靠近 low 多还是 hi 多
+4. 看mid point 的值是 靠近 low 多还是 hi 多 在 k+1 size 的区间
+    - 因为 k+1 size 的window 总有一个是 invalid的
     - 如果靠近 hi 多， 那  [low:mid] 中的点都不可能是 valid 的 window的左端点
     - 如果靠近 low 多， 那 (mid:hi] 中的点都不是 valid 的 window的左端点
     - 如果一样多，那按照要求， 和如果靠近 low 多是一样的

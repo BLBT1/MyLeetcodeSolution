@@ -1,0 +1,35 @@
+
+## problem is to find the next element that is smaller or equal to curr
+
+stack -> find next element, we want to compare backwards
+monotonic increasing stack -> if the element is >= curr, we can apply current as discount
+
+example - 
+[8, 4, 6, 2, 3]
+
+notice: 
+2 is discount for 4 and 6, if we keep a monotonic increasing stack to record the previous items,
+if we see the in stack element is greater than curr, the curr is discount to that element, also pop the element (because discount already applied)
+
+
+```c++
+class Solution {
+public:
+    vector<int> finalPrices(vector<int>& prices) {
+        stack<int> s;
+        vector<int> res (prices.begin(), prices.end());
+        for(int i = 0; i < prices.size(); ++i){
+            int curr = prices[i];
+            while(!s.empty() && curr <= prices[s.top()]) {
+                res[s.top()] -= curr;
+                s.pop();
+            }
+            s.push(i);
+        }
+
+        return res;
+    }
+};
+```
+
+

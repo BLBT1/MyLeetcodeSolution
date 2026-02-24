@@ -12,6 +12,24 @@
 
 4. 统计 [2:n] 中所有 unmarked 的 数
 
-Time ：O(N)
+Time ：O(NlogN)
 
- Space : O(N)
+```c++
+class Solution {
+public:
+    int countPrimes(int n) {
+        // idea => 所有质数 的倍数都不是质数
+        // Time O(~NlogN)
+        int count = 0;
+        vector<bool> isPrime(n, true);
+        for(int i = 2; i < n; ++i){
+            if (!isPrime[i]) continue;
+            count +=1;
+            for(int j = i*2; j<n; j+=i){
+                isPrime[j] = false;
+            }
+        }
+        return count;
+    }
+};
+```

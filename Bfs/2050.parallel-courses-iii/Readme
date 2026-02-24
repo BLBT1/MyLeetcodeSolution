@@ -1,0 +1,100 @@
+
+不一定层数最多的课最晚上完
+ex：
+
+```
+// 1 (6m) -> 4(1m) -> 7
+
+// 2 (1m) -> 5(3m) -> 7 (1m) -> 
+
+// 3 (1m) -> 6(2m)
+```
+
+
+可以把完成当前一节课的时间和node一起存到queue里， 这样一边bfs时可以一边计算到当前课的时间
+
+注意，有可能完成一节课的所有要求课中的最后一节并不是耗时最多的一节课。
+但是当我们上下一节课时，我们要存的是所有条件课中完成耗时最多的一节，所以需要再记录一下 reqCourseMax
+ex:
+```
+// 1 (3m) -> 3 (5m)
+// 2 (2m) -> 3
+```
+
+```c++
+class Solution {
+public:
+    int minimumTime(int n, vector<vector<int>>& relations, vector<int>& time) {
+        unordered_map<int, vector<int>> adj;
+        vector<int> indegree(n+1, 0);
+        vector<int> maxDepTime(n+1, INT_MIN);
+        for (int i = 0; i < relations.size(); ++i){
+            adj[relations[i][0]].push_back(relations[i][1]);
+            indegree[relations[i][1]]++;
+        }
+
+        queue<pair<int, int>> q; // {course id, time to complete}
+        vector<int> taken(n+1, 0);
+        for(int c = 1; c <= n; ++c){
+            if(indegree[c] == 0){
+                taken[c] = 1;
+                q.push({c, time[c-1]});
+            }
+        }
+
+        int res = INT_MIN;
+        while(!q.empty()){
+            int len = q.size();
+            for(int i = 0; i < len; ++i){
+                auto curr =q.front();
+                q.pop();
+                int currCoures = curr.first;
+                int timeTofinish = curr.second;
+                
+                res = max(res, timeTofinish);
+                
+                for(auto nxt: adj[currCoures]){
+                    indegree[nxt] -= 1;
+                    maxDepTime[nxt] = max(timeTofinish, maxDepTime[nxt]);
+                }
+
+                for (int nxt: adj[currCoures]){
+                    if(indegree[nxt] == 0){
+                        q.push({nxt, maxDepTime[nxt]+time[nxt-1]});
+                        taken[nxt] = 1;
+                    }
+                }
+            }
+        }
+
+        for (int c = 1; c <= n; ++c){
+            if (taken[c] == 0)
+                res = max(res, time[c-1]);
+        }
+        return res;
+    }
+};
+
+// topological sort?
+// if we are taking 2 courses together, the time is the max time for the curr course
+
+
+// need to remember the previous max
+// we can store time along with course in the queue
+// 1 (6m) -> 4(1m) -> 7
+
+// 2 (1m) -> 5(3m) -> 7 (1m) -> 
+
+// 3 (1m) -> 6(2m)
+
+// 7m
+// we can store course number + time to get here
+
+
+
+// 1 (3m) -> 3 (5m)
+// 2 (2m) -> 3
+```
+
+
+

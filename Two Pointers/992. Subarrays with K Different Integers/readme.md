@@ -32,3 +32,50 @@ k = 2
 - exact k 是 atMost(k) - atMost(k-1)
 
 - 想到这一步之后还需要 modified code from 340
+
+
+### Note
+这个题还有一个难点是，当我们确定了window之后怎么算出有多少个符合要求的subarray
+
+for example
+
+[1, 2, 5, 2, 3]
+ i    
+          j
+假设以上 (i,j) 符合条件，那 i，j 间有 j-i+1 个符合条件的subarray，因为 i可以取 [i:j] 区间中任意一个点
+注意：i和j 重叠时也是符合条件的区间， 因为 1 个 element 的 subarray也符合 atMostK element的条件
+
+```c++
+class Solution {
+public:
+    int subarraysWithKDistinct(vector<int>& nums, int k) {
+        return mostKDiff(nums, k) - mostKDiff(nums, k-1);
+    }
+
+    int mostKDiff(vector<int> &nums, int k){
+        int j = 0;
+        int res = 0;
+        unordered_map<int, int> diffCount; // {n -> count}
+        for(int i =0; i < nums.size(); ++i){
+            diffCount[nums[i]] += 1;
+
+            while(diffCount.size() > k && j <= i){
+                diffCount[nums[j]] -=1;
+                if(diffCount[nums[j]] == 0)
+                    diffCount.erase(nums[j]);
+                ++j;
+            }
+
+            res += i-j+1;
+        }
+        return res;
+    }
+};
+
+
+// 1 ,2, 1, 2, 3
+//       i
+// j
+
+
+```
