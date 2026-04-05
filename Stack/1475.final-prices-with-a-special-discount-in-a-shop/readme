@@ -32,4 +32,36 @@ public:
 };
 ```
 
+────────────────────────────────────────
+Reverse approach (monotonic stack, right to left)
+────────────────────────────────────────
+Key: pop while stack.top() > curr (strictly greater!)
+     Do NOT pop equal values — equal is a valid discount.
+     After popping, stack.top() is the next ≤ element (the discount).
+
+```c++
+class Solution {
+public:
+    vector<int> finalPrices(vector<int>& prices) {
+        int n = prices.size();
+        vector<int> res(prices.begin(), prices.end());
+        stack<int> s; // stores values (not indices)
+
+        for (int i = n - 1; i >= 0; --i) {
+            // pop elements strictly greater than current
+            while (!s.empty() && s.top() > prices[i])
+                s.pop();
+            // if stack not empty, top is the next <= element
+            if (!s.empty())
+                res[i] -= s.top();
+            s.push(prices[i]);
+        }
+        return res;
+    }
+};
+```
+
+⚠️  Pitfall: if you pop `>=` instead of `>`, you discard equal
+     values that are valid discounts.
+     e.g. [2,2,1] → wrong: [1,1,1], correct: [0,1,1]
 
