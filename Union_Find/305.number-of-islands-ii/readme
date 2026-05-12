@@ -1,0 +1,160 @@
+union find -> only care the # of total island at the monment when the operation happend
+encode & decode father of a cell into grids
+the string is {x#y} which means (x, y) is its father
+vector<vector<string>> grids(m, vector<string>(n, "#"));
+count unique father ==> maintain an diffferent set of unique fathers
+
+
+```c++
+class Solution {
+    vector<pair<int, int>> dir = {
+        {0,1}, {1, 0}, {-1, 0}, {0, -1}
+    };
+
+public:
+    vector<int> numIslands2(int m, int n, vector<vector<int>>& positions) {
+        // the string is {x#y} which means (x, y) is its father
+        vector<vector<string>> grids(m, vector<string>(n, "#"));
+        vector<int> res;
+        unordered_set<string> fathers; // unique fathers;
+
+        for(int i = 0; i < positions.size(); ++i){
+            auto p = positions[i];
+            int x = p[0];
+            int y = p[1];
+            grids[x][y] = to_string(x)+"#"+to_string(y);
+            // starting by treat each new father
+            fathers.insert(to_string(x)+"#"+to_string(y));
+            
+            for(auto d: dir){
+                int n_x = x+d.first;
+                int n_y = y+d.second;
+                if(n_x < 0|| n_x >= m || n_y < 0 || n_y >= n){
+                    continue;
+                }
+                if (grids[n_x][n_y] == "#"){
+                    continue;
+                }
+                Union(grids, fathers, x, y, n_x, n_y);
+            }
+
+            res.push_back(fathers.size());
+        }
+
+        return res;
+    }
+    
+    void Union(vector<vector<string>> &grids, unordered_set<string> &fathers, int x1, int y1, int x2, int y2) {
+        string father1 = findFather(grids, fathers, x1, y1);
+        string father2 = findFather(grids, fathers, x2, y2);
+
+        if(father1 != father2) {
+            int i = father2.find('#');
+            int f_x = stoi(father2.substr(0, i));
+            int f_y = stoi(father2.substr(i+1));
+            grids[f_x][f_y] = father1;
+            // father2 no longer a real father
+            fathers.erase(to_string(f_x)+"#"+to_string(f_y));
+        }
+    }
+
+    // mark update all to father cell mark
+    string findFather(vector<vector<string>> &grids, unordered_set<string> &fathers, int x, int y){
+        string f = grids[x][y];
+        int i = f.find('#');
+        int f_x = stoi(f.substr(0, i));
+        int f_y = stoi(f.substr(i+1));
+
+        if(grids[f_x][f_y] == to_string(f_x)+"#"+to_string(f_y))
+            return to_string(f_x)+"#"+to_string(f_y);
+
+        // find ancestor
+        string father = findFather(grids, fathers, f_x, f_y);
+        grids[x][y] = father;
+
+        return father;
+    }
+};
+
+
+// union find -> only care the # of total island at the monment when the operation happend
+// encode & decode father of a cell into grids
+// the string is {x#y} which means (x, y) is its father
+// vector<vector<string>> grids(m, vector<string>(n, "#"));
+// count unique father ==> maintain an diffferent set of unique fathers
+
+```
+
+
+guan 优化 
+
+1. 不需要用二维vector， 因为我们知道 m 和 n。 用一维度 `vector<int>Father (m*n, -1);` 就行，cell (x, y) 的位置可以用 x*n+y 来表示
+2. 最开始标记它的Root为自身，然后count++。依次考察这个新陆地相邻的四块：如果相邻的是陆地，并且新陆地和老陆地的Root不同，那么说明这是需要合并的两个集合，于是count--，并且将新陆地与旧陆地进行Union。最终实时输出count。
+3. 有一个corner case是，positions里面可能会包含重复的同一块陆地。所以每遍历一块新陆地的时候，得先看看是否已经访问过了，已经访问过了就不要再重新标记Root，否则会出错。
+
+```c++
+class Solution {
+    vector<int>Father;
+public:
+    vector<int> numIslands2(int m, int n, vector<vector<int>>& positions) 
+    {
+        Father.resize(m*n);
+        for (int i=0; i<m*n; i++)         
+             Father[i]=-1;
+        
+        vector<pair<int,int>>dir={{1,0},{-1,0},{0,1},{0,-1}};
+        int count=0;
+        vector<int>result;
+        
+        for (int i=0; i<positions.size(); i++)
+        {
+            int x=positions[i][0];
+            int y=positions[i][1];
+            if (Father[x*n+y]!=-1)
+            {
+                result.push_back(result.back());
+                continue;
+            }
+            
+            Father[x*n+y]=x*n+y;
+            count+=1;
+            
+            for (int k=0; k<4; k++)
+            {
+                int a=x+dir[k].first;
+                int b=y+dir[k].second;
+                if (a<0||a>=m||b<0||b>=n)
+                    continue;
+                if (Father[a*n+b]==-1)
+                    continue;
+                if (FindSet(a*n+b)!=FindSet(x*n+y))
+                {
+                    count--;
+                    Union(a*n+b,x*n+y);                    
+                }                    
+            }
+            result.push_back(count);
+        }
+        
+        return result;
+    }
+    
+    int FindSet(int x)
+    {
+        if (x!=Father[x])
+            Father[x]=FindSet(Father[x]);
+        return Father[x];
+    }
+    
+    void Union(int x, int y)
+    {
+        x=Father[x];
+        y=Father[y];
+        
+        if (x<y)
+            Father[y]=x;
+        else
+            Father[x]=y;        
+    }
+};
+```

@@ -1,0 +1,108 @@
+1. to find the shortest path, we can think of bfs
+2. similiar to rotten orange, this is multi source bfs - all the edge points of the first island for valid begin points
+3. how to determine if a point is a edge point? One side of it is 0
+4. we mark the first island and all cell that we have visited as 2
+5. use dfs to find all edge cells
+
+```c++
+class Solution {
+    vector<pair<int, int>> dir = {
+        {1, 0}, {0, 1}, {-1, 0}, {0, -1}
+    };
+public:
+    int shortestBridge(vector<vector<int>>& grid) {
+        int m = grid.size();
+        int n = grid[0].size();
+
+        queue<pair<int, int>> q; // queue for saving for bfs later
+
+        for(int i = 0; i < m; ++i){
+            bool found = false;
+            for(int j = 0; j < n; ++j){
+                if (grid[i][j] == 1){
+                    dfs(grid, q, i, j);
+                    found = true;
+                    break;
+                }
+            }
+
+            if(found) break;
+        }
+
+        int count = 0;
+        // bfs for the shortest distance
+        while(!q.empty()){
+            int len = q.size();
+            for(int i = 0; i < len; ++i){
+                auto curr = q.front();
+                q.pop();
+
+                for(auto d: dir){
+                    int nxt_x = curr.first+d.first;
+                    int nxt_y = curr.second+d.second;
+
+                    if(nxt_x < 0 || nxt_x >= m || nxt_y < 0 || nxt_y >= n)
+                        continue;
+                    
+                    if (grid[nxt_x][nxt_y] == 1)
+                        return count;
+
+                    if(grid[nxt_x][nxt_y] != 0)
+                        continue;
+
+                    grid[nxt_x][nxt_y] = 2;
+                    q.push({nxt_x, nxt_y});
+                }
+            }
+            count += 1;
+        }
+
+        return count;
+    }
+
+
+    void dfs(vector<vector<int>>& grid, queue<pair<int, int>> &q, int x, int y) {
+        int m = grid.size();
+        int n = grid[0].size();
+
+
+        if(grid[x][y] != 1) // 0 mean water, 2 mean visited
+            return;
+
+        // belong to first island
+        grid[x][y] = 2;
+
+        bool isEdge = false;
+        for(auto d: dir){
+            int nxt_x = x+d.first;
+            int nxt_y = y+d.second;
+
+            if(nxt_x < 0 || nxt_x >= m || nxt_y < 0 || nxt_y >= n)
+                continue;
+            
+            if(grid[nxt_x][nxt_y] == 0){
+                isEdge = true;
+                continue;
+            }
+            dfs(grid, q, nxt_x, nxt_y);
+        }
+
+        if(isEdge) q.push({x,y});
+
+    }
+};
+// 1. find all edge cell for first island, mark them as '2' (acutally we want to start from the first water cell)
+// 2. for all edge cell, do bfs to find the other island edge cell
+
+
+// [[0,1,0],
+//  [0,0,0],
+//  [0,0,1]]
+
+
+// [[2,2,2,2,2],
+//  [2,0,0,0,2],
+//  [2,0,1,0,2],
+//  [2,0,0,0,2],
+//  [2,2,2,2,2]]
+```

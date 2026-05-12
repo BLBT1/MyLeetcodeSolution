@@ -1,0 +1,53 @@
+Key that when copying the linked list pointer, don't copy the address of the older linked list. Otherwise it is not a deep copy
+
+So we need to create all node for the new linked list on first loop and handle link on the second loop
+- need to store a mapping from the old node to new node
+
+```c++
+/*
+// Definition for a Node.
+class Node {
+public:
+    int val;
+    Node* next;
+    Node* random;
+    
+    Node(int _val) {
+        val = _val;
+        next = NULL;
+        random = NULL;
+    }
+};
+*/
+
+class Solution {
+public:
+    Node* copyRandomList(Node* head) {
+        // store the mapping from old node address to new node address
+        unordered_map<Node*, Node*> oldToNew;
+        
+        Node *curr = head;
+        while(curr != nullptr){
+            oldToNew[curr] = new Node(curr->val);
+            curr = curr->next;
+        }
+
+        Node *dummy = new Node(0);
+        Node *newCurr = dummy;
+        curr = head;
+        while(curr != nullptr){
+            newCurr = oldToNew[curr];
+            newCurr->next = oldToNew[curr->next];
+            newCurr->random = oldToNew[curr->random];
+            
+            if(curr == head) // record the head of new linkedList only once for header
+                dummy->next = newCurr;
+            
+            curr = curr->next;
+        }
+
+        return dummy->next;
+    }
+};
+
+```

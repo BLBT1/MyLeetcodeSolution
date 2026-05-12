@@ -1,0 +1,41 @@
+```c++
+
+class Solution {
+public:
+    bool rotateString(string s, string goal) {
+        if(s.size() != goal.size())
+            return false;
+
+        // try all begining point where pos in s is same a begin of goal string
+        for(int pos = 0; pos < s.size(); ++pos){
+            if(s[pos] == goal[0]){
+                int i = pos; 
+                int j = 0;
+                bool findIssue = false;
+                while(i < s.size()){
+                    if(s[i] != goal[j]){
+                        findIssue = true;
+                        break;                
+                    }
+                    ++i;
+                    ++j;
+                }
+
+                i = 0;
+                while(j < goal.size()){
+                  if(s[i] != goal[j]){
+                        findIssue = true;
+                        break;                
+                    }          
+                    ++i;
+                    ++j;
+                }
+                if(!findIssue)
+                    return true;
+            }
+        }
+        return false;
+    }
+};
+```
+
